@@ -102,20 +102,20 @@ const Home = () => {
           <div className="mt-16 text-left">
             <h2 className="font-serif text-3xl text-emerald-900 dark:text-emerald-50 flex items-center gap-2"><Sparkles className="text-amber-600"/> Trending</h2>
             <div className="mt-4 relative">
-              <button onClick={() => scrollByAmount(-1)} aria-label="Scroll left" className="hidden md:flex absolute -left-5 top-1/2 -translate-y-1/2 z-10 w-12 h-12 rounded-full bg-white/90 dark:bg-emerald-900/80 backdrop-blur border border-emerald-900/10 dark:border-emerald-100/10 shadow-lg grid place-items-center hover:scale-105 transition text-emerald-900 dark:text-emerald-50">
-                <ChevronLeft className="w-6 h-6"/>
+              <button onClick={() => scrollByAmount(-1)} aria-label="Scroll left" className="hidden md:flex absolute -left-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/90 dark:bg-emerald-900/80 backdrop-blur border border-emerald-900/10 dark:border-emerald-100/10 shadow-lg grid place-items-center hover:scale-105 transition text-emerald-900 dark:text-emerald-50">
+                <ChevronLeft className="w-5 h-5"/>
               </button>
               <div ref={scrollRef} className="overflow-x-auto no-scrollbar py-4 px-1">
                 <div className="flex gap-4 min-w-max">
                   {trending.map(n => (
-                    <div key={n.english_name} className="w-[220px]">
-                      <NameCard item={n} onOpen={() => {}} variant="square" />
+                    <div key={n.english_name} className="w-[300px]">
+                      <NameCard item={n} onOpen={() => {}} variant="default" />
                     </div>
                   ))}
                 </div>
               </div>
-              <button onClick={() => scrollByAmount(1)} aria-label="Scroll right" className="hidden md:flex absolute -right-5 top-1/2 -translate-y-1/2 z-10 w-12 h-12 rounded-full bg-white/90 dark:bg-emerald-900/80 backdrop-blur border border-emerald-900/10 dark:border-emerald-100/10 shadow-lg grid place-items-center hover:scale-105 transition text-emerald-900 dark:text-emerald-50">
-                <ChevronRight className="w-6 h-6"/>
+              <button onClick={() => scrollByAmount(1)} aria-label="Scroll right" className="hidden md:flex absolute -right-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/90 dark:bg-emerald-900/80 backdrop-blur border border-emerald-900/10 dark:border-emerald-100/10 shadow-lg grid place-items-center hover:scale-105 transition text-emerald-900 dark:text-emerald-50">
+                <ChevronRight className="w-5 h-5"/>
               </button>
             </div>
           </div>

@@ -69,13 +69,13 @@ export const namesData = [
     "english_name": "Aafa",
     "arabic_name": "عَافَة",
     "meaning": "forgiver, pardoner, One who Forgives",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aafaq",
     "arabic_name": "آفَاق",
     "meaning": "Horizons, The place where the earth & sky meet",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aafiq",
@@ -135,7 +135,7 @@ export const namesData = [
     "english_name": "Aala",
     "arabic_name": "أَعْلى",
     "meaning": "High Status, Greatness, Exalted, Sublime , Superb supremacy. Nobility, excellence, Height, elevation.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aalam",
@@ -237,7 +237,7 @@ export const namesData = [
     "english_name": "Abyan",
     "arabic_name": "أبين",
     "meaning": "Clearer, more distinct, Eloquent",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Abyaz",
@@ -261,7 +261,7 @@ export const namesData = [
     "english_name": "Adab",
     "arabic_name": "أدب",
     "meaning": "Hope, need. Mannered, Cultured",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Adalat",
@@ -273,7 +273,7 @@ export const namesData = [
     "english_name": "Adan",
     "arabic_name": "أدان",
     "meaning": "(Garden of) Eden",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Adar",
@@ -327,7 +327,7 @@ export const namesData = [
     "english_name": "Adeen",
     "arabic_name": "أدين",
     "meaning": "Adeen (also written as Azeen) is an indirect Quranic name for boys and girls that means obedient, righteous, one who listens to what is said, one who calls the Athaan (call to prayer), ruler, chief. It is derived from the A-DHAL-N Quranic root.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Adham",
@@ -375,7 +375,7 @@ export const namesData = [
     "english_name": "Allamah",
     "arabic_name": "ألمه",
     "meaning": "Allamah is an Arabic name for boys and girls that means extremely knowledgeable, endowed with great and rare knowledge.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Almaas",
@@ -399,7 +399,7 @@ export const namesData = [
     "english_name": "Almas",
     "arabic_name": "ألماس",
     "meaning": "Diamond.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Almir",
@@ -423,7 +423,7 @@ export const namesData = [
     "english_name": "Altaaf",
     "arabic_name": "ألطاف",
     "meaning": "Kindness",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Altaam",
@@ -435,7 +435,7 @@ export const namesData = [
     "english_name": "Altaf",
     "arabic_name": "ألطاف",
     "meaning": "Pl. of Lutf, kindness, grace, favour.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Altaf-hussain",
@@ -495,7 +495,7 @@ export const namesData = [
     "english_name": "Alvand",
     "arabic_name": "الفند",
     "meaning": "Alvand is a Persian name for boys and girls that means powerful, strong, agile. It is the name of a mountain in Kurdistan (near Hamadan in Iran) and the name of a river near Qasr Shirin in Iran.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Alvi",
@@ -507,7 +507,7 @@ export const namesData = [
     "english_name": "Alwan",
     "arabic_name": "ألوان",
     "meaning": "Up high",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Alwaz",
@@ -525,7 +525,7 @@ export const namesData = [
     "english_name": "Alyan",
     "arabic_name": "ألين",
     "meaning": "High Status, Exalted, Sublime and Superb",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Alyasaa",
@@ -585,7 +585,7 @@ export const namesData = [
     "english_name": "Akwan",
     "arabic_name": "أكون",
     "meaning": "Universe and Creation",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Akyas",
@@ -699,7 +699,7 @@ export const namesData = [
     "english_name": "Alam",
     "arabic_name": "ألم",
     "meaning": "World, Universe.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Alamat",
@@ -837,7 +837,7 @@ export const namesData = [
     "english_name": "Adyan",
     "arabic_name": "أديان",
     "meaning": "Religions, plural of Din, A nabee was named by this name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aeni",
@@ -873,7 +873,7 @@ export const namesData = [
     "english_name": "Afeen",
     "arabic_name": "فين",
     "meaning": "Forgiveness and Forgiving",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afeera",
@@ -939,7 +939,7 @@ export const namesData = [
     "english_name": "Aanil",
     "arabic_name": "انيل",
     "meaning": "bring to memory, to recall. It also means well-known, famous.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aaqib",
@@ -1005,7 +1005,7 @@ export const namesData = [
     "english_name": "Aasal",
     "arabic_name": "أصل",
     "meaning": "Aasal is a direct Quranic name for boys and girls that means late afternoons, evenings, it is the plural of the Arabic word Aseel (late afternoon, evening). The name Aasal is mentioned three times in the Quran. This name should not be confused with the name Asal, which means honey.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aashif",
@@ -1077,13 +1077,13 @@ export const namesData = [
     "english_name": "Aatiq",
     "arabic_name": "أطيق",
     "meaning": "Free, liberated, independent",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anjum",
     "arabic_name": "أنجم",
     "meaning": "Plural of Najm, stars.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anjuman",
@@ -1095,7 +1095,7 @@ export const namesData = [
     "english_name": "Anmar",
     "arabic_name": "أنمار",
     "meaning": "Anmar is an Arabic name for boys and girls that means tigers, it is the plural of namr (tiger).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anmol",
@@ -1161,7 +1161,7 @@ export const namesData = [
     "english_name": "Anoush",
     "arabic_name": "أنوش",
     "meaning": "Eternal.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anousha",
@@ -1179,13 +1179,13 @@ export const namesData = [
     "english_name": "Ansab",
     "arabic_name": "أنسب",
     "meaning": "Ansab is an Arabic name for boys and girls that means more appropriate, better, worthier. It is derived from the N-S-B root which is used in the Quran. This name should NOT be pronounced as an-saab, because this changes the meaning to idols, statues worshiped by pagans, which is not a good meaning.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ansam",
     "arabic_name": "أنسام",
     "meaning": "Ansam is an Arabic name for boys and girls that means gentle breezes. It is the plural of Naseem.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ansara",
@@ -1209,25 +1209,25 @@ export const namesData = [
     "english_name": "Antarah",
     "arabic_name": "عنتره",
     "meaning": "The name of the freed slave of Sulaym.Heroic and a name of an Arab folk hero",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anum",
     "arabic_name": "أنعم",
     "meaning": "Benefit, Blessings and Profit",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anumullah",
     "arabic_name": "أنملة",
     "meaning": "Benefit, Blessings and Profit",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anush",
     "arabic_name": "أنوش",
     "meaning": "Anush is an Arabic name for boy and girls that means extremely attractive.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anusha",
@@ -1239,49 +1239,49 @@ export const namesData = [
     "english_name": "Anushah",
     "arabic_name": "أنشأه",
     "meaning": "Anushah is a Persian name for boys and girls that means everlasting, immortal, firm and strong. Anushah can also mean happiness and good fortune. Anushah is a variant of the name Anusheh.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anusheh",
     "arabic_name": "أنصحه",
     "meaning": "Anusheh is a Persian name for boys and girls that means everlasting, immortal, firm and strong. Anusheh can also mean happiness and good fortune.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anwaar",
     "arabic_name": "أنوار",
     "meaning": "Light, Glow, Gleam, Luminous",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Anwar",
     "arabic_name": "أنوار",
     "meaning": "More bright, more brilliant, more radiant, more luminous.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ajaar",
     "arabic_name": "أجار",
     "meaning": "Arabic for rewards.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Ajab",
     "arabic_name": "أجاب",
     "meaning": "Ajab is an Arabic name for boys and girls that means amazement, wonder.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Ajam",
     "arabic_name": "أجم",
     "meaning": "Ajam is an Arabic name for boys and girls that means non-Arab, foreign. It is used especially to mean Persian. It also means date seed.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Ajaweed",
     "arabic_name": "أجاويد",
     "meaning": "Ajaweed is an Arabic name for boys and girls that means generosity, acts of kindness.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Ajawid",
@@ -1293,7 +1293,7 @@ export const namesData = [
     "english_name": "Ajeeb",
     "arabic_name": "أجيب",
     "meaning": "Wonderful.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Ajeel",
@@ -1359,7 +1359,7 @@ export const namesData = [
     "english_name": "Ajrada",
     "arabic_name": "أجرد",
     "meaning": "Al-Ameeh, was a great worshipper who worshipped longn the night somnetimes right upto daun (AN)",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Ajtaba",
@@ -1473,7 +1473,7 @@ export const namesData = [
     "english_name": "Abnus",
     "arabic_name": "آبنوس",
     "meaning": "Abnus is a Persian name for boys and girls that means ebony, which is a dense and expensive type of wood that can sink in water, used for making musical instruments. It is not a Quranic name but Muslims can use it since it doesnt have a bad meaning.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Abood",
@@ -1533,7 +1533,7 @@ export const namesData = [
     "english_name": "Abrar",
     "arabic_name": "أبرار",
     "meaning": "Obedience, Pious, Righteous, Gifts, Plural of Barr, Peity",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Abrash",
@@ -1557,7 +1557,7 @@ export const namesData = [
     "english_name": "Absaar",
     "arabic_name": "أبصار",
     "meaning": "Absaar is a direct Quranic name for boys and girls that means vision, insight, keenness, perception, intellect, intelligence, discernment. BLANKENTER And remember Our servants, Abraham, Isaac and Jacob those of strength and [religious]. (Quran 38:45)",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Absar",
@@ -1656,36 +1656,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Ajaar",
-    "arabic_name": "أجار",
-    "meaning": "Arabic for rewards.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Ajab",
-    "arabic_name": "أجاب",
-    "meaning": "Ajab is an Arabic name for boys and girls that means amazement, wonder.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Ajam",
-    "arabic_name": "أجم",
-    "meaning": "Ajam is an Arabic name for boys and girls that means non-Arab, foreign. It is used especially to mean Persian. It also means date seed.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Ajaweed",
-    "arabic_name": "أجاويد",
-    "meaning": "Ajaweed is an Arabic name for boys and girls that means generosity, acts of kindness.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Ajeeb",
-    "arabic_name": "أجيب",
-    "meaning": "Wonderful.",
-    "gender": "female"
-  },
-  {
     "english_name": "Ajeebah",
     "arabic_name": "أجيبه",
     "meaning": "She was the daughter of Muhammad al-Baqadari, and was a narrator of Hadith.",
@@ -1701,12 +1671,6 @@ export const namesData = [
     "english_name": "Ajlal",
     "arabic_name": "اجلال",
     "meaning": "Beautiful, stubborn, young princess",
-    "gender": "female"
-  },
-  {
-    "english_name": "Ajrada",
-    "arabic_name": "أجرد",
-    "meaning": "Al-Ameeh, was a great worshipper who worshipped longn the night somnetimes right upto daun (AN)",
     "gender": "female"
   },
   {
@@ -1731,7 +1695,7 @@ export const namesData = [
     "english_name": "Akhtar",
     "arabic_name": "أخطر",
     "meaning": "A Star, good luck., good man",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Akhtari",
@@ -1749,7 +1713,7 @@ export const namesData = [
     "english_name": "Akida",
     "arabic_name": "أكيدة",
     "meaning": "Certain, firm",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Akleema",
@@ -1770,12 +1734,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Akwan",
-    "arabic_name": "أكون",
-    "meaning": "Universe and Creation",
-    "gender": "female"
-  },
-  {
     "english_name": "Alalah",
     "arabic_name": "الله",
     "meaning": "A flower",
@@ -1785,12 +1743,6 @@ export const namesData = [
     "english_name": "Alaleh",
     "arabic_name": "الله",
     "meaning": "Alaleh is a Persian name for girls that refers to a group of flowers known as ranunculus in English.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Alam",
-    "arabic_name": "ألم",
-    "meaning": "World, Universe.",
     "gender": "female"
   },
   {
@@ -1890,12 +1842,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Akhtar",
-    "arabic_name": "أخطر",
-    "meaning": "A Star, good luck., good man",
-    "gender": "male"
-  },
-  {
     "english_name": "Akhtar-zamir",
     "arabic_name": "أخترزمر",
     "meaning": "One possessing an enlightened mind",
@@ -1956,12 +1902,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Akida",
-    "arabic_name": "أكيدة",
-    "meaning": "Certain, firm",
-    "gender": "male"
-  },
-  {
     "english_name": "Akif",
     "arabic_name": "كيف",
     "meaning": "Devoted to, dedicated to, persevering in, busily engaged,Focused, attached, intent.",
@@ -1977,12 +1917,6 @@ export const namesData = [
     "english_name": "Akim",
     "arabic_name": "أقيم",
     "meaning": "god will establish",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ansam",
-    "arabic_name": "أنسام",
-    "meaning": "Ansam is an Arabic name for boys and girls that means gentle breezes. It is the plural of Naseem.",
     "gender": "male"
   },
   {
@@ -2010,63 +1944,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Antarah",
-    "arabic_name": "عنتره",
-    "meaning": "The name of the freed slave of Sulaym.Heroic and a name of an Arab folk hero",
-    "gender": "male"
-  },
-  {
     "english_name": "Antony",
     "arabic_name": "أنتوني",
     "meaning": "Antonyos",
     "gender": "male"
   },
   {
-    "english_name": "Anum",
-    "arabic_name": "أنعم",
-    "meaning": "Benefit, Blessings and Profit",
-    "gender": "male"
-  },
-  {
-    "english_name": "Anumullah",
-    "arabic_name": "أنملة",
-    "meaning": "Benefit, Blessings and Profit",
-    "gender": "male"
-  },
-  {
-    "english_name": "Anush",
-    "arabic_name": "أنوش",
-    "meaning": "Anush is an Arabic name for boy and girls that means extremely attractive.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Anushah",
-    "arabic_name": "أنشأه",
-    "meaning": "Anushah is a Persian name for boys and girls that means everlasting, immortal, firm and strong. Anushah can also mean happiness and good fortune. Anushah is a variant of the name Anusheh.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Anusheh",
-    "arabic_name": "أنصحه",
-    "meaning": "Anusheh is a Persian name for boys and girls that means everlasting, immortal, firm and strong. Anusheh can also mean happiness and good fortune.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Anwaar",
-    "arabic_name": "أنوار",
-    "meaning": "Light, Glow, Gleam, Luminous",
-    "gender": "male"
-  },
-  {
     "english_name": "Anwaaraddin",
     "arabic_name": "نوردن",
     "meaning": "Leader",
-    "gender": "male"
-  },
-  {
-    "english_name": "Anwar",
-    "arabic_name": "أنوار",
-    "meaning": "More bright, more brilliant, more radiant, more luminous.",
     "gender": "male"
   },
   {
@@ -2097,13 +1983,13 @@ export const namesData = [
     "english_name": "Anzar",
     "arabic_name": "أنظر",
     "meaning": "Angel of paradise",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aqdas",
     "arabic_name": "أقدس",
     "meaning": "Most holy, more or most sacred.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aqeeb",
@@ -2145,7 +2031,7 @@ export const namesData = [
     "english_name": "Aqiq",
     "arabic_name": "عقيق",
     "meaning": "Aqiq is an Arabic, Persian and Urdu name for boys and girls that means agate, which is a type of precious stone. Aqiq is also the name of various places in the Arabia, including a place near the city of Medina in Saudi Arabia.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aql",
@@ -2181,7 +2067,7 @@ export const namesData = [
     "english_name": "Abda",
     "arabic_name": "أبدا",
     "meaning": "Brave, Strong and Courageous",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Abdaal",
@@ -2193,7 +2079,7 @@ export const namesData = [
     "english_name": "Abdah",
     "arabic_name": "عبده",
     "meaning": "Nick name of Abdur - Rehman bin Sulayman the father of Muhammad Ibn Abdur Rahman, the genealogist.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Abdal",
@@ -2331,7 +2217,7 @@ export const namesData = [
     "english_name": "Abinus",
     "arabic_name": "أبنوس",
     "meaning": "Abinus is an Urdu variant of the Persian name Abnus. Both are acceptable.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Abir",
@@ -2349,13 +2235,13 @@ export const namesData = [
     "english_name": "Amjad",
     "arabic_name": "أمجاد",
     "meaning": "Most glorious, most distinguished, more illustrious, most venerable, most noble.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Amlas",
     "arabic_name": "أملس",
     "meaning": "Amlas is an Arabic name for boys and girls that means soft, delicate, smooth. It can also mean innocent, blameless, one who has a spotless conscience.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Ammaar",
@@ -2373,7 +2259,7 @@ export const namesData = [
     "english_name": "Amman",
     "arabic_name": "عمان",
     "meaning": "Amman is an Arabic name for boys and girls that means resident, citizen, one who stays in a place for a long time,",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Ammar",
@@ -2385,13 +2271,13 @@ export const namesData = [
     "english_name": "Ammuni",
     "arabic_name": "أمني",
     "meaning": "Ammuni is an Arabic name for boys and girls that means safe, away from harm. It also means one who trusts others and feels safe in their presence.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Amnan",
     "arabic_name": "أمنا",
     "meaning": "Safe and Secure",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Amooz",
@@ -2433,43 +2319,43 @@ export const namesData = [
     "english_name": "Amsal",
     "arabic_name": "أمثال",
     "meaning": "High Status, Exalted, Sublime and Superb",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Amyali",
     "arabic_name": "أميلي",
     "meaning": "Amyali is an Arabic name for boys and girls that means desirous, ambitious for something.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anahid",
     "arabic_name": "أناهيد",
     "meaning": "Immaculate",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anam",
     "arabic_name": "أنام",
     "meaning": "Creatures.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anan",
     "arabic_name": "أنا",
     "meaning": "Clouds.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anaqat",
     "arabic_name": "أناقة",
     "meaning": "Anaqat is a Persian and Urdu name for boys and girls that means elegance.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anar",
     "arabic_name": "أنار",
     "meaning": "Light and Radiance",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anas",
@@ -2481,13 +2367,13 @@ export const namesData = [
     "english_name": "Anasat",
     "arabic_name": "أنصت",
     "meaning": "Serenity and Tranquility. BLANKENTER Anasat is a Persian and Urdu name for boys and girls that means tranquility, peace of mind, lack of fear and worry. It is a variant of the Arabic name Anasa.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anasi",
     "arabic_name": "أنسي",
     "meaning": "Friendly and Hospitable",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anass",
@@ -2499,7 +2385,7 @@ export const namesData = [
     "english_name": "Anaya",
     "arabic_name": "أني",
     "meaning": "Caring, Guardian, Protector",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anbas",
@@ -2511,25 +2397,13 @@ export const namesData = [
     "english_name": "Andaleeb",
     "arabic_name": "عندليب",
     "meaning": "Nightingale (A bird)",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Andalib",
     "arabic_name": "عندليب",
     "meaning": "Andalib is an Arabic name for boys and girls that means nightingale, which is a type of bird that sings beautifully.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Altaaf",
-    "arabic_name": "ألطاف",
-    "meaning": "Kindness",
-    "gender": "female"
-  },
-  {
-    "english_name": "Altaf",
-    "arabic_name": "ألطاف",
-    "meaning": "Pl. of Lutf, kindness, grace, favour.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Altin",
@@ -2556,12 +2430,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Alvand",
-    "arabic_name": "الفند",
-    "meaning": "Alvand is a Persian name for boys and girls that means powerful, strong, agile. It is the name of a mountain in Kurdistan (near Hamadan in Iran) and the name of a river near Qasr Shirin in Iran.",
-    "gender": "female"
-  },
-  {
     "english_name": "Alveena",
     "arabic_name": "ألفينا",
     "meaning": "Loved one, cared one, liked.",
@@ -2574,12 +2442,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Alwan",
-    "arabic_name": "ألوان",
-    "meaning": "Up high",
-    "gender": "female"
-  },
-  {
     "english_name": "Alwand",
     "arabic_name": "الوند",
     "meaning": "Alwand is a Kurdish name for girls that means strong, powerful, agile. It is the Kurdish variant of the Persian name Alvand.",
@@ -2589,12 +2451,6 @@ export const namesData = [
     "english_name": "Alyaanah",
     "arabic_name": "ليانه",
     "meaning": "Alyaanah is an Arabic name for girls that means great, high in rank and status.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Alyan",
-    "arabic_name": "ألين",
-    "meaning": "High Status, Exalted, Sublime and Superb",
     "gender": "female"
   },
   {
@@ -2637,7 +2493,7 @@ export const namesData = [
     "english_name": "Aman",
     "arabic_name": "أمان",
     "meaning": "Trust, Safety, Protection, Tranquility, Peace of mind",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Amanaat",
@@ -2655,7 +2511,7 @@ export const namesData = [
     "english_name": "Amanat",
     "arabic_name": "أمانة",
     "meaning": "Something given in trust, deposit, security",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Amanatullah",
@@ -2673,13 +2529,13 @@ export const namesData = [
     "english_name": "Amanullah",
     "arabic_name": "أمانلله",
     "meaning": "Trust, care of Allah, protection of Allah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Amara",
     "arabic_name": "عمارة",
     "meaning": "large group of ships sailing together, tribe.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Amat",
@@ -2703,13 +2559,13 @@ export const namesData = [
     "english_name": "Andalus",
     "arabic_name": "أندلس",
     "meaning": "Andalus is an Arabic name for boys and girls that refers to Muslim Spain and other European areas that were under Islamic rules for 800 years. The origin of the word is uncertain and may come from an ancient Germanic language.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Andalusi",
     "arabic_name": "أندلسي",
     "meaning": "Andalusi is an Arabic name for boys and girls that means one who is from Andalus. Andalus was the name of Spain and other European countries which were under Muslim rule for 800 years.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Andam",
@@ -2751,19 +2607,19 @@ export const namesData = [
     "english_name": "Anfa",
     "arabic_name": "أنفا",
     "meaning": "High Status, Exalted, Sublime and Superb",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anfani",
     "arabic_name": "انفعني",
     "meaning": "Dignified",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anfas",
     "arabic_name": "أنفاس",
     "meaning": "Anfas is an indirect Quranic name for boys and girls that means spirits, souls, breaths. Anfas is derived from the N-F-S root which is used in many places in the Quran.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Angar",
@@ -2775,7 +2631,7 @@ export const namesData = [
     "english_name": "Anhar",
     "arabic_name": "أنهار",
     "meaning": "Anhar is an Arabic name for boys and girls that means rivers. It is the plural of nahr (river.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anif",
@@ -2787,7 +2643,7 @@ export const namesData = [
     "english_name": "Aniq",
     "arabic_name": "أنيق",
     "meaning": "Neat, elegant, smart.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Anis",
@@ -2826,27 +2682,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Anjum",
-    "arabic_name": "أنجم",
-    "meaning": "Plural of Najm, stars.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Anmar",
-    "arabic_name": "أنمار",
-    "meaning": "Anmar is an Arabic name for boys and girls that means tigers, it is the plural of namr (tiger).",
-    "gender": "male"
-  },
-  {
     "english_name": "Anouar",
     "arabic_name": "أنوار",
     "meaning": "shining",
-    "gender": "male"
-  },
-  {
-    "english_name": "Anoush",
-    "arabic_name": "أنوش",
-    "meaning": "Eternal.",
     "gender": "male"
   },
   {
@@ -2865,12 +2703,6 @@ export const namesData = [
     "english_name": "Ansaar",
     "arabic_name": "أنصار",
     "meaning": "Pl. of Nasir, friend, patron, supporter.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ansab",
-    "arabic_name": "أنسب",
-    "meaning": "Ansab is an Arabic name for boys and girls that means more appropriate, better, worthier. It is derived from the N-S-B root which is used in the Quran. This name should NOT be pronounced as an-saab, because this changes the meaning to idols, statues worshiped by pagans, which is not a good meaning.",
     "gender": "male"
   },
   {
@@ -2895,13 +2727,13 @@ export const namesData = [
     "english_name": "Afkar",
     "arabic_name": "أفكار",
     "meaning": "Destitue, poor.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afnan",
     "arabic_name": "أفنان",
     "meaning": "Growth and Progress",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afraa",
@@ -2961,7 +2793,7 @@ export const namesData = [
     "english_name": "Afroze",
     "arabic_name": "أفرز",
     "meaning": "Lightening, enlightening.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afrozeh",
@@ -2973,13 +2805,13 @@ export const namesData = [
     "english_name": "Afsa",
     "arabic_name": "أفصى",
     "meaning": "Transparent, clear.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afsah",
     "arabic_name": "أفصح",
     "meaning": "Eloquent, Very polite.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afsana",
@@ -2997,19 +2829,19 @@ export const namesData = [
     "english_name": "Afsaneh",
     "arabic_name": "فسنه",
     "meaning": "A fairy tale.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afsar",
     "arabic_name": "أفسر",
     "meaning": "Crown.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afshan",
     "arabic_name": "فشن",
     "meaning": "Adornment aids",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afsheen",
@@ -3021,7 +2853,7 @@ export const namesData = [
     "english_name": "Afshin",
     "arabic_name": "فشن",
     "meaning": "Afshin is a Persian and Turkish given name, derived from the princely title of the rulers of Osrusana at the time of the Muslim conquest.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afsoon",
@@ -3033,7 +2865,7 @@ export const namesData = [
     "english_name": "Afza",
     "arabic_name": "أفز",
     "meaning": "one who brings plenty, one who causes an increase (in goodness)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Afzoon",
@@ -3051,7 +2883,7 @@ export const namesData = [
     "english_name": "Agharid",
     "arabic_name": "أغاريد",
     "meaning": "Agharidأغاريد",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aghigh",
@@ -3063,13 +2895,13 @@ export const namesData = [
     "english_name": "Arya",
     "arabic_name": "عارية",
     "meaning": "Arya is a word that in Sanskrit, Avestan and Old Persian means noble and excellent.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aryan",
     "arabic_name": "عرين",
     "meaning": "Of Utmost Strength.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aryisha",
@@ -3081,7 +2913,7 @@ export const namesData = [
     "english_name": "Arz",
     "arabic_name": "أرز",
     "meaning": "Arz is an Arabic name for boys and girls that means mountain. It also means breadth, width, as opposed to length.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Arzanda",
@@ -3099,7 +2931,7 @@ export const namesData = [
     "english_name": "Asa",
     "arabic_name": "أسا",
     "meaning": "Asa is a Persian name for boys and girls that means similarity, likeness. It also means beautification, adornment. Asa also means might, power, capability.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asaalat",
@@ -3117,7 +2949,7 @@ export const namesData = [
     "english_name": "Asah",
     "arabic_name": "أصح",
     "meaning": "Asah is an Arabic name for boys and girls that means more correct, more proper, healthier.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asal",
@@ -3147,7 +2979,7 @@ export const namesData = [
     "english_name": "Asar",
     "arabic_name": "أثر",
     "meaning": "Fourth Prayer of the day",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asareh",
@@ -3165,7 +2997,7 @@ export const namesData = [
     "english_name": "Asbah",
     "arabic_name": "أصبح",
     "meaning": "Beautiful and Radiant",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asdaf",
@@ -3177,7 +3009,7 @@ export const namesData = [
     "english_name": "Aseel",
     "arabic_name": "أسيل",
     "meaning": "Noble, Of a good family, Genuine, Pure",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aseela",
@@ -3195,7 +3027,7 @@ export const namesData = [
     "english_name": "Asfa",
     "arabic_name": "أسفة",
     "meaning": "Tanned sun burned, Bin Asla had this name, he was a narrator of Hadith.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asfia",
@@ -3213,7 +3045,7 @@ export const namesData = [
     "english_name": "Asfour",
     "arabic_name": "عصفور",
     "meaning": "Asfour is an Urdu name for boys and girls that means bird. It is the Urdu pronunciation of the Arabic word Osfoor.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asfoureh",
@@ -3237,7 +3069,7 @@ export const namesData = [
     "english_name": "Asha",
     "arabic_name": "عشا",
     "meaning": "Asha is a Persian name for boys and girls. It is a synonym of Asa and means similarity, likeness, adornment.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ashadieeyah",
@@ -3327,19 +3159,19 @@ export const namesData = [
     "english_name": "Ashraf",
     "arabic_name": "أشرف",
     "meaning": "More honourable, most distinguished, eminent more nobler.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ashti",
     "arabic_name": "اشتي",
     "meaning": "Ashti is a Kurdish name for boys and girls that means peace.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ashwaq",
     "arabic_name": "أشواق",
     "meaning": "Ashwaq is an indirect Quranic name for boys and girls that means longings, yearnings. It is the plural of Shawq (longing).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asifa",
@@ -3399,7 +3231,7 @@ export const namesData = [
     "english_name": "Asjad",
     "arabic_name": "أسجد",
     "meaning": "Gold, Jewel.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asli",
@@ -3411,7 +3243,7 @@ export const namesData = [
     "english_name": "Asma",
     "arabic_name": "أسما",
     "meaning": "He was Ibn Harithah Al-Aslami.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asmaa",
@@ -3423,31 +3255,31 @@ export const namesData = [
     "english_name": "Aghla",
     "arabic_name": "أغلى",
     "meaning": "Aghla is an indirect Quranic name for girls (and rarely for boys) that means dearer, more valuable, most valuable, priceless. It is derived from the GH-L-A (to be expensive, to exceed limit) which is used in a number of places in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aghsan",
     "arabic_name": "أغصان",
     "meaning": "Aghsanأغصان",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Agreen",
     "arabic_name": "أجرين",
     "meaning": "Agreen is a Kurdish name for boys and girls that means fiery, made of fire. Figuratively it means passionate, active, brave.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ahbab",
     "arabic_name": "أحباب",
     "meaning": "Ahbab is an indirect Quranic name for boys and girls that means beloved ones. It is the plural of Habeeb (beloved one).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ahdaf",
     "arabic_name": "أهداف",
     "meaning": "Pl. of Hadaf, aim, goal, target.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ahdia",
@@ -3483,7 +3315,7 @@ export const namesData = [
     "english_name": "Ahlam",
     "arabic_name": "أحلام",
     "meaning": "Dream, Intelligent",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ahlem",
@@ -3501,7 +3333,7 @@ export const namesData = [
     "english_name": "Ahnaf",
     "arabic_name": "أحنف",
     "meaning": "Bin Qays bin Muwiyah bin Husayn at Tamimi had this name, he was a narrator of Hadith",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ahoo",
@@ -3513,25 +3345,25 @@ export const namesData = [
     "english_name": "Ahram",
     "arabic_name": "أهرام",
     "meaning": "Ahram is an Arabic name for boys and girls that means pyramids. It is the plural of haram (pyramid).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ahvaz",
     "arabic_name": "أحفظ",
     "meaning": "Ahvaz is a Persian name for boys and girls that refers to a southern city of Iran in the Khuzestan Province, on the banks of the Karun River.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ahwaz",
     "arabic_name": "أحواز",
     "meaning": "Ahwaz is a variant of the Persian boy and girl name Ahvaz,which is the name of a city in the Khuzestan Province of Iran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ahyas",
     "arabic_name": "حيث",
     "meaning": "Ahyas is an Arabic name for boys and girls that means brave, courageous.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aicha",
@@ -3543,7 +3375,7 @@ export const namesData = [
     "english_name": "Aidan",
     "arabic_name": "أيضا",
     "meaning": "Aidan is an indirect Quranic name for boys and girls that means tall palm tree. It is derived from the Ain-D-N root (perpetuity) which is used in many places in the Quran. Help, intelligent",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aidana",
@@ -3555,7 +3387,7 @@ export const namesData = [
     "english_name": "Aighar",
     "arabic_name": "أغار",
     "meaning": "She was a religious, righteous woman (AN)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aigheen",
@@ -3579,13 +3411,13 @@ export const namesData = [
     "english_name": "Aimal",
     "arabic_name": "أعمال",
     "meaning": "Friend",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aimen",
     "arabic_name": "أيمن",
     "meaning": "Brave, fearless, lucky, right hand",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ain-alsaba",
@@ -3624,30 +3456,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Andaleeb",
-    "arabic_name": "عندليب",
-    "meaning": "Nightingale (A bird)",
-    "gender": "female"
-  },
-  {
-    "english_name": "Andalib",
-    "arabic_name": "عندليب",
-    "meaning": "Andalib is an Arabic name for boys and girls that means nightingale, which is a type of bird that sings beautifully.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Andalus",
-    "arabic_name": "أندلس",
-    "meaning": "Andalus is an Arabic name for boys and girls that refers to Muslim Spain and other European areas that were under Islamic rules for 800 years. The origin of the word is uncertain and may come from an ancient Germanic language.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Andalusi",
-    "arabic_name": "أندلسي",
-    "meaning": "Andalusi is an Arabic name for boys and girls that means one who is from Andalus. Andalus was the name of Spain and other European countries which were under Muslim rule for 800 years.",
-    "gender": "female"
-  },
-  {
     "english_name": "Andia",
     "arabic_name": "أندية",
     "meaning": "Andia is a Persian name for girls that is the name of the wife of Artaxerxes I of Persia, one of the kings of the Achaemenid Persia. She is also known as Andia of Babylon. We cannot find any information on the meaning of this name. It is possible that it is from an ancient language and its meaning is no longer known.",
@@ -3666,24 +3474,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Anfa",
-    "arabic_name": "أنفا",
-    "meaning": "High Status, Exalted, Sublime and Superb",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anfani",
-    "arabic_name": "انفعني",
-    "meaning": "Dignified",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anfas",
-    "arabic_name": "أنفاس",
-    "meaning": "Anfas is an indirect Quranic name for boys and girls that means spirits, souls, breaths. Anfas is derived from the N-F-S root which is used in many places in the Quran.",
-    "gender": "female"
-  },
-  {
     "english_name": "Angbin",
     "arabic_name": "أنجبن",
     "meaning": "Honey",
@@ -3699,12 +3489,6 @@ export const namesData = [
     "english_name": "Anghum",
     "arabic_name": "نغم",
     "meaning": "Anghum is an Arabic name for girls that means melodies, tunes, a pleasant sound created by speech of humans (such as when reading Quran), bird song, or musical devices.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anhar",
-    "arabic_name": "أنهار",
-    "meaning": "Anhar is an Arabic name for boys and girls that means rivers. It is the plural of nahr (river.",
     "gender": "female"
   },
   {
@@ -3729,12 +3513,6 @@ export const namesData = [
     "english_name": "Anila",
     "arabic_name": "أنيل",
     "meaning": "Beautiful",
-    "gender": "female"
-  },
-  {
-    "english_name": "Aniq",
-    "arabic_name": "أنيق",
-    "meaning": "Neat, elegant, smart.",
     "gender": "female"
   },
   {
@@ -3897,7 +3675,7 @@ export const namesData = [
     "english_name": "Abanus",
     "arabic_name": "أبنوس",
     "meaning": "Abanus is an Urdu variant of the Persian name Abnus. Either spelling and pronunciation is acceptable. For more details see: Abnus",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Abasi",
@@ -4032,12 +3810,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Aatiq",
-    "arabic_name": "أطيق",
-    "meaning": "Free, liberated, independent",
-    "gender": "female"
-  },
-  {
     "english_name": "Aatiqa",
     "arabic_name": "عتيقة",
     "meaning": "Aatiqa is an Arabic name for girls that means free.",
@@ -4104,12 +3876,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Abanus",
-    "arabic_name": "أبنوس",
-    "meaning": "Abanus is an Urdu variant of the Persian name Abnus. Either spelling and pronunciation is acceptable. For more details see: Abnus",
-    "gender": "female"
-  },
-  {
     "english_name": "Abasah",
     "arabic_name": "عبسة",
     "meaning": "Daughter of al-Mahdi, a woman who was distinguished among her contemporaries.",
@@ -4119,18 +3885,6 @@ export const namesData = [
     "english_name": "Abbaasah",
     "arabic_name": "باسه",
     "meaning": "Lioness, Sister of Haroon Rashid",
-    "gender": "female"
-  },
-  {
-    "english_name": "Abda",
-    "arabic_name": "أبدا",
-    "meaning": "Brave, Strong and Courageous",
-    "gender": "female"
-  },
-  {
-    "english_name": "Abdah",
-    "arabic_name": "عبده",
-    "meaning": "Nick name of Abdur - Rehman bin Sulayman the father of Muhammad Ibn Abdur Rahman, the genealogist.",
     "gender": "female"
   },
   {
@@ -4167,13 +3921,13 @@ export const namesData = [
     "english_name": "Aqrab",
     "arabic_name": "أقرب",
     "meaning": "Near, close.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aqsaa",
     "arabic_name": "اقصاء",
     "meaning": "Utmost and Pinnacle.Aqsaa is a direct Quranic name for boys and girls that means farthest, it is the name of the third holiest site in Islam: Masjid al-Aqsa (al-Aqsa Mosque). This mosque is mentioned in the first verse of Surat al-Israa:",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aqsad",
@@ -4227,19 +3981,19 @@ export const namesData = [
     "english_name": "Araj",
     "arabic_name": "أرج",
     "meaning": "Araj is an Urdu variant of the Arabic boy and girl name Arij which means fragrance.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aram",
     "arabic_name": "أرام",
     "meaning": "Quiet",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aran",
     "arabic_name": "أرن",
     "meaning": "Aran is a Kurdish, Persian and Urdu name for boys and girls that means plains (a large area of flat land with few trees). It is the name of a place in the Caucasus region to the west of the Caspian Sea.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arandas",
@@ -4251,25 +4005,25 @@ export const namesData = [
     "english_name": "Arang",
     "arabic_name": "رانج",
     "meaning": "Arang is a Persian and Urdu name for boys and girls that means color, state, phase.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arar",
     "arabic_name": "عرار",
     "meaning": "Arar is an Arabic name for boys and girls that refers to a type of flower known as wild daffodil and Lent lily in English (scientific name Narcissus pseudonarcissus).",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aras",
     "arabic_name": "عرس",
     "meaning": "Aras is a Kurdish, Persian, Turkish and Urdu name for boys and girls. In Kurdish and Persian it means equal, balanced. The word Aras commonly refers to the Aras River, which flows through Turkey, Armenia, Iran and Azerbaijan.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arash",
     "arabic_name": "عرش",
     "meaning": "A hero in Persian folklore ( He is sacrificed )",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arastoo",
@@ -4281,7 +4035,7 @@ export const namesData = [
     "english_name": "Arax",
     "arabic_name": "آركس",
     "meaning": "Arax is an Armenian name for boys and girls. It is the name of a river that flows through Armenia and other countries, commonly called Aras. Arax is derived from the Greek name of river, which is Araxes.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Araysh",
@@ -4293,7 +4047,7 @@ export const namesData = [
     "english_name": "Araz",
     "arabic_name": "أرز",
     "meaning": "Araz is an Arabic name for boys that means provisions, commodities. It also means symptoms, such as symptoms of an illness.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arbaab",
@@ -4311,7 +4065,7 @@ export const namesData = [
     "english_name": "Arbab",
     "arabic_name": "أرباب",
     "meaning": "Who looks after someone or takes care, Boss, Master, Landlord",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arbad",
@@ -4407,7 +4161,7 @@ export const namesData = [
     "english_name": "Alhan",
     "arabic_name": "ألحان",
     "meaning": "Eloquence, good voice.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Alharith",
@@ -4554,12 +4308,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Alhan",
-    "arabic_name": "ألحان",
-    "meaning": "Eloquence, good voice.",
-    "gender": "female"
-  },
-  {
     "english_name": "Alhena",
     "arabic_name": "الهنا",
     "meaning": "A ring (A star in the constellation Gemini)",
@@ -4632,12 +4380,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Allamah",
-    "arabic_name": "ألمه",
-    "meaning": "Allamah is an Arabic name for boys and girls that means extremely knowledgeable, endowed with great and rare knowledge.",
-    "gender": "female"
-  },
-  {
     "english_name": "Alleyah",
     "arabic_name": "عليه",
     "meaning": "Leader",
@@ -4647,12 +4389,6 @@ export const namesData = [
     "english_name": "Alma",
     "arabic_name": "ألما",
     "meaning": "Apple",
-    "gender": "female"
-  },
-  {
-    "english_name": "Almas",
-    "arabic_name": "ألماس",
-    "meaning": "Diamond.",
     "gender": "female"
   },
   {
@@ -4743,7 +4479,7 @@ export const namesData = [
     "english_name": "Areej",
     "arabic_name": "أريج",
     "meaning": "Fragrant, sweet-smelling.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Areen",
@@ -4767,13 +4503,13 @@ export const namesData = [
     "english_name": "Areesh",
     "arabic_name": "عريش",
     "meaning": "Areesh is an indirect Quranic name for boys and girls that means built structure, especially a wooden structure built for vines. It is derived from the Ain-R-Sh (structure, throne) which is used in many places in the Quran. Areesh is also a Farsi name that means intelligent, wise.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Areez",
     "arabic_name": "أرز",
     "meaning": "Friend.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Aref",
@@ -4785,13 +4521,13 @@ export const namesData = [
     "english_name": "Arf",
     "arabic_name": "عرف",
     "meaning": "Arf is an Arabic name for boys and girls that means scent, good scent.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arfa",
     "arabic_name": "عرفة",
     "meaning": "High Status, Exalted, Sublime and Superb",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arfaa",
@@ -4827,7 +4563,7 @@ export const namesData = [
     "english_name": "Arham",
     "arabic_name": "أرحم",
     "meaning": "Merciful, Kind, generous.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arib",
@@ -4857,7 +4593,7 @@ export const namesData = [
     "english_name": "Arij",
     "arabic_name": "أريج",
     "meaning": "Arij is an Arabic name for boys and girls that means fragrance, a good perfume-like smell.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arikah",
@@ -4923,7 +4659,7 @@ export const namesData = [
     "english_name": "Armaghan",
     "arabic_name": "أرمغا",
     "meaning": "Armaghan is a Persian and Urdu name for boys and girls that means gift.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arman",
@@ -4947,7 +4683,7 @@ export const namesData = [
     "english_name": "Aroosh",
     "arabic_name": "عروسه",
     "meaning": "Angle of heaven.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arqam",
@@ -5025,7 +4761,7 @@ export const namesData = [
     "english_name": "Arshan",
     "arabic_name": "عرسها",
     "meaning": "Strong And Brave Man.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arshaq",
@@ -5043,7 +4779,7 @@ export const namesData = [
     "english_name": "Asmar",
     "arabic_name": "أسمار",
     "meaning": "Brown skin",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asmara",
@@ -5067,13 +4803,13 @@ export const namesData = [
     "english_name": "Asra",
     "arabic_name": "أسرى",
     "meaning": "Travel by night.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asrar",
     "arabic_name": "أسرار",
     "meaning": "Secrets, mysteries, pl. of Sirr, secret.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Asreen",
@@ -5163,7 +4899,7 @@ export const namesData = [
     "english_name": "Ateeb",
     "arabic_name": "أطيب",
     "meaning": "Very pious, clean.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ateebah",
@@ -5223,13 +4959,13 @@ export const namesData = [
     "english_name": "Arshi",
     "arabic_name": "عرشي",
     "meaning": "The one living in Allah's place, angel.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arshia",
     "arabic_name": "عرسها",
     "meaning": "Throne.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arsin",
@@ -5253,7 +4989,7 @@ export const namesData = [
     "english_name": "Arta",
     "arabic_name": "أرت",
     "meaning": "Arta is a Persian name for boys and girls, it comes from ancient Persian and means pure, virtuous, sacred.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Artaban",
@@ -5313,7 +5049,7 @@ export const namesData = [
     "english_name": "Arveen",
     "arabic_name": "عارفين",
     "meaning": "Arveen is a Persian and Urdu name for boys and girls that means test, experiment. The A in the beginning can be pronounced long (as in the English word arm), it can also be pronounced short (as in the u in up).",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Arwa",
@@ -5325,12 +5061,6 @@ export const namesData = [
     "english_name": "Arwarh",
     "arabic_name": "روره",
     "meaning": "more delicate, more gracious",
-    "gender": "male"
-  },
-  {
-    "english_name": "Arya",
-    "arabic_name": "عارية",
-    "meaning": "Arya is a word that in Sanskrit, Avestan and Old Persian means noble and excellent.",
     "gender": "male"
   },
   {
@@ -5346,12 +5076,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Aryan",
-    "arabic_name": "عرين",
-    "meaning": "Of Utmost Strength.",
-    "gender": "male"
-  },
-  {
     "english_name": "Aryano",
     "arabic_name": "عريانه",
     "meaning": "Aryano is a Persian name for boys that means new Arya. Arya itself means the noble people, the excellent people, therefore Aryano means a new member of the noble people. Arya is the name that the people of ancient Persia called their own race.",
@@ -5361,12 +5085,6 @@ export const namesData = [
     "english_name": "Aryou",
     "arabic_name": "أري",
     "meaning": "Aryou is a Persian name for boys that means one who belongs to the Ari people, meaning the people of Iran, also known as Aryans.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Arz",
-    "arabic_name": "أرز",
-    "meaning": "Arz is an Arabic name for boys and girls that means mountain. It also means breadth, width, as opposed to length.",
     "gender": "male"
   },
   {
@@ -5394,12 +5112,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Asa",
-    "arabic_name": "أسا",
-    "meaning": "Asa is a Persian name for boys and girls that means similarity, likeness. It also means beautification, adornment. Asa also means might, power, capability.",
-    "gender": "male"
-  },
-  {
     "english_name": "Asaad",
     "arabic_name": "أساد",
     "meaning": "Happier, Luckier, Adjective of Saeed",
@@ -5424,21 +5136,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Asah",
-    "arabic_name": "أصح",
-    "meaning": "Asah is an Arabic name for boys and girls that means more correct, more proper, healthier.",
-    "gender": "male"
-  },
-  {
     "english_name": "Asan",
     "arabic_name": "أسن",
     "meaning": "Light, facile, easy",
-    "gender": "male"
-  },
-  {
-    "english_name": "Asar",
-    "arabic_name": "أثر",
-    "meaning": "Fourth Prayer of the day",
     "gender": "male"
   },
   {
@@ -5460,12 +5160,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Asbah",
-    "arabic_name": "أصبح",
-    "meaning": "Beautiful and Radiant",
-    "gender": "male"
-  },
-  {
     "english_name": "Asbat",
     "arabic_name": "أثبت",
     "meaning": "A narrator of hadith",
@@ -5478,21 +5172,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Aseel",
-    "arabic_name": "أسيل",
-    "meaning": "Noble, Of a good family, Genuine, Pure",
-    "gender": "male"
-  },
-  {
     "english_name": "Aseer",
     "arabic_name": "أصير",
     "meaning": "Honoured, Chosen, Preferred, noble, exquisite.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Asfa",
-    "arabic_name": "أسفة",
-    "meaning": "Tanned sun burned, Bin Asla had this name, he was a narrator of Hadith.",
     "gender": "male"
   },
   {
@@ -5505,12 +5187,6 @@ export const namesData = [
     "english_name": "Asfar",
     "arabic_name": "أصفر",
     "meaning": "The morning's light",
-    "gender": "male"
-  },
-  {
-    "english_name": "Asfour",
-    "arabic_name": "عصفور",
-    "meaning": "Asfour is an Urdu name for boys and girls that means bird. It is the Urdu pronunciation of the Arabic word Osfoor.",
     "gender": "male"
   },
   {
@@ -5535,12 +5211,6 @@ export const namesData = [
     "english_name": "Asgher",
     "arabic_name": "أصغر",
     "meaning": "Small, Junior",
-    "gender": "male"
-  },
-  {
-    "english_name": "Asha",
-    "arabic_name": "عشا",
-    "meaning": "Asha is a Persian name for boys and girls. It is a synonym of Asa and means similarity, likeness, adornment.",
     "gender": "male"
   },
   {
@@ -5742,12 +5412,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ashraf",
-    "arabic_name": "أشرف",
-    "meaning": "More honourable, most distinguished, eminent more nobler.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ashrafus-sadat",
     "arabic_name": "أشرفصصداة",
     "meaning": "Most noble of the Sayyids.",
@@ -5790,12 +5454,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Abinus",
-    "arabic_name": "أبنوس",
-    "meaning": "Abinus is an Urdu variant of the Persian name Abnus. Both are acceptable.",
-    "gender": "female"
-  },
-  {
     "english_name": "Abisha",
     "arabic_name": "بيشة",
     "meaning": "Gift of god",
@@ -5805,12 +5463,6 @@ export const namesData = [
     "english_name": "Abla",
     "arabic_name": "عبلة",
     "meaning": "Well-rounded ,  Perfectly formed, A woman possessing a beautiful figure.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Abnus",
-    "arabic_name": "آبنوس",
-    "meaning": "Abnus is a Persian name for boys and girls that means ebony, which is a dense and expensive type of wood that can sink in water, used for making musical instruments. It is not a Quranic name but Muslims can use it since it doesnt have a bad meaning.",
     "gender": "female"
   },
   {
@@ -5826,12 +5478,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Abrar",
-    "arabic_name": "أبرار",
-    "meaning": "Obedience, Pious, Righteous, Gifts, Plural of Barr, Peity",
-    "gender": "female"
-  },
-  {
     "english_name": "Abreshmina",
     "arabic_name": "أبرزهمنا",
     "meaning": "Made of silk.",
@@ -5841,12 +5487,6 @@ export const namesData = [
     "english_name": "Abrisham",
     "arabic_name": "أبرزهم",
     "meaning": "Abrisham is a Persian name for girls that means silk.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Absaar",
-    "arabic_name": "أبصار",
-    "meaning": "Absaar is a direct Quranic name for boys and girls that means vision, insight, keenness, perception, intellect, intelligence, discernment. BLANKENTER And remember Our servants, Abraham, Isaac and Jacob those of strength and [religious]. (Quran 38:45)",
     "gender": "female"
   },
   {
@@ -5868,27 +5508,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Abyan",
-    "arabic_name": "أبين",
-    "meaning": "Clearer, more distinct, Eloquent",
-    "gender": "female"
-  },
-  {
     "english_name": "Ada",
     "arabic_name": "أدى",
     "meaning": "Grace, Expression.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Adab",
-    "arabic_name": "أدب",
-    "meaning": "Hope, need. Mannered, Cultured",
-    "gender": "female"
-  },
-  {
-    "english_name": "Adan",
-    "arabic_name": "أدان",
-    "meaning": "(Garden of) Eden",
     "gender": "female"
   },
   {
@@ -5934,27 +5556,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Adeen",
-    "arabic_name": "أدين",
-    "meaning": "Adeen (also written as Azeen) is an indirect Quranic name for boys and girls that means obedient, righteous, one who listens to what is said, one who calls the Athaan (call to prayer), ruler, chief. It is derived from the A-DHAL-N Quranic root.",
-    "gender": "female"
-  },
-  {
     "english_name": "Ashtar",
     "arabic_name": "أشطر",
     "meaning": "Ashtar was the nickname of Malik bin al-Harith an-Nakha`ee, a brave Muslim figure and close companion of Ali bin Abi Talib. Ashtar means one whose eyelashes are curved backwards,one whose eye is torn.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ashti",
-    "arabic_name": "اشتي",
-    "meaning": "Ashti is a Kurdish name for boys and girls that means peace.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ashwaq",
-    "arabic_name": "أشواق",
-    "meaning": "Ashwaq is an indirect Quranic name for boys and girls that means longings, yearnings. It is the plural of Shawq (longing).",
     "gender": "male"
   },
   {
@@ -5985,12 +5589,6 @@ export const namesData = [
     "english_name": "Asiruddin",
     "arabic_name": "سردين",
     "meaning": "Honoured (person) of the religion (Islam)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Asjad",
-    "arabic_name": "أسجد",
-    "meaning": "Gold, Jewel.",
     "gender": "male"
   },
   {
@@ -6030,18 +5628,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Asma",
-    "arabic_name": "أسما",
-    "meaning": "He was Ibn Harithah Al-Aslami.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Asmar",
-    "arabic_name": "أسمار",
-    "meaning": "Brown skin",
-    "gender": "male"
-  },
-  {
     "english_name": "Aso",
     "arabic_name": "أسو",
     "meaning": "Aso is a Kurdish name for boys that means horizon.",
@@ -6057,18 +5643,6 @@ export const namesData = [
     "english_name": "Asr",
     "arabic_name": "أسر",
     "meaning": "Third Prayer of the day",
-    "gender": "male"
-  },
-  {
-    "english_name": "Asra",
-    "arabic_name": "أسرى",
-    "meaning": "Travel by night.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Asrar",
-    "arabic_name": "أسرار",
-    "meaning": "Secrets, mysteries, pl. of Sirr, secret.",
     "gender": "male"
   },
   {
@@ -6228,12 +5802,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ateeb",
-    "arabic_name": "أطيب",
-    "meaning": "Very pious, clean.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ateek",
     "arabic_name": "أطيق",
     "meaning": "Ancient",
@@ -6261,7 +5829,7 @@ export const namesData = [
     "english_name": "Atfat",
     "arabic_name": "أطفأت",
     "meaning": "Atfat is an Arabic name for boys and girls that means affection, compassion.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Atha",
@@ -6285,7 +5853,7 @@ export const namesData = [
     "english_name": "Atheel",
     "arabic_name": "أثيل",
     "meaning": "Atheel is an Arabic name for boys and girls that means noble, deep-rooted, high in status.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Atheer",
@@ -6321,18 +5889,6 @@ export const namesData = [
     "english_name": "Aadila",
     "arabic_name": "عَادِلَة",
     "meaning": "Honest, Mannered, Just, Cultured, Polite, virtuous, one who acts with justice and fairness, excellent in character",
-    "gender": "female"
-  },
-  {
-    "english_name": "Aafa",
-    "arabic_name": "عَافَة",
-    "meaning": "forgiver, pardoner, One who Forgives",
-    "gender": "female"
-  },
-  {
-    "english_name": "Aafaq",
-    "arabic_name": "آفَاق",
-    "meaning": "Horizons, The place where the earth & sky meet",
     "gender": "female"
   },
   {
@@ -6384,12 +5940,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Aala",
-    "arabic_name": "أَعْلى",
-    "meaning": "High Status, Greatness, Exalted, Sublime , Superb supremacy. Nobility, excellence, Height, elevation.",
-    "gender": "female"
-  },
-  {
     "english_name": "Aalifa",
     "arabic_name": "أَلِيْفة",
     "meaning": "Kind, Friendly, Hospitable, Compassionate and Tenderhearted",
@@ -6438,12 +5988,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Aanil",
-    "arabic_name": "انيل",
-    "meaning": "bring to memory, to recall. It also means well-known, famous.",
-    "gender": "female"
-  },
-  {
     "english_name": "Aaqilah",
     "arabic_name": "عقيله",
     "meaning": "Wise, Intelligent,  smart, Sensible, discerning",
@@ -6474,24 +6018,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Aasal",
-    "arabic_name": "أصل",
-    "meaning": "Aasal is a direct Quranic name for boys and girls that means late afternoons, evenings, it is the plural of the Arabic word Aseel (late afternoon, evening). The name Aasal is mentioned three times in the Quran. This name should not be confused with the name Asal, which means honey.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Atfat",
-    "arabic_name": "أطفأت",
-    "meaning": "Atfat is an Arabic name for boys and girls that means affection, compassion.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Atheel",
-    "arabic_name": "أثيل",
-    "meaning": "Atheel is an Arabic name for boys and girls that means noble, deep-rooted, high in status.",
-    "gender": "female"
-  },
-  {
     "english_name": "Athilah",
     "arabic_name": "أذله",
     "meaning": "Deep-rooted, firmly established",
@@ -6501,7 +6027,7 @@ export const namesData = [
     "english_name": "Athir",
     "arabic_name": "أثير",
     "meaning": "Favored, preferred",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Athmah",
@@ -6609,7 +6135,7 @@ export const namesData = [
     "english_name": "Atqa",
     "arabic_name": "أتقى",
     "meaning": "Virtuous, Pious, God-Fearing and Devoted to God",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Atqaa",
@@ -6639,7 +6165,7 @@ export const namesData = [
     "english_name": "Atuf",
     "arabic_name": "أطوف",
     "meaning": "Affectionate, kind-hearted, compassionate, loving.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Atusa",
@@ -6678,39 +6204,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Agharid",
-    "arabic_name": "أغاريد",
-    "meaning": "Agharidأغاريد",
-    "gender": "male"
-  },
-  {
     "english_name": "Agharr",
     "arabic_name": "لتي",
     "meaning": "Gentle, kind, pleasant, friendly",
     "gender": "male"
   },
   {
-    "english_name": "Aghla",
-    "arabic_name": "أغلى",
-    "meaning": "Aghla is an indirect Quranic name for girls (and rarely for boys) that means dearer, more valuable, most valuable, priceless. It is derived from the GH-L-A (to be expensive, to exceed limit) which is used in a number of places in the Quran.",
-    "gender": "male"
-  },
-  {
     "english_name": "Aghlab",
     "arabic_name": "أغلب",
     "meaning": "Superior, Supreme, Conqueror, Winner, Adjective of Ghalib",
-    "gender": "male"
-  },
-  {
-    "english_name": "Aghsan",
-    "arabic_name": "أغصان",
-    "meaning": "Aghsanأغصان",
-    "gender": "male"
-  },
-  {
-    "english_name": "Agreen",
-    "arabic_name": "أجرين",
-    "meaning": "Agreen is a Kurdish name for boys and girls that means fiery, made of fire. Figuratively it means passionate, active, brave.",
     "gender": "male"
   },
   {
@@ -6732,21 +6234,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ahbab",
-    "arabic_name": "أحباب",
-    "meaning": "Ahbab is an indirect Quranic name for boys and girls that means beloved ones. It is the plural of Habeeb (beloved one).",
-    "gender": "male"
-  },
-  {
     "english_name": "Ahd",
     "arabic_name": "أحد",
     "meaning": "Pledge, knowledge",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ahdaf",
-    "arabic_name": "أهداف",
-    "meaning": "Pl. of Hadaf, aim, goal, target.",
     "gender": "male"
   },
   {
@@ -6786,12 +6276,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ahlam",
-    "arabic_name": "أحلام",
-    "meaning": "Dream, Intelligent",
-    "gender": "male"
-  },
-  {
     "english_name": "Ahmad",
     "arabic_name": "أحمد",
     "meaning": "Most highly adored or most praised, this is also a variation of the name 'Muhammad'",
@@ -6822,18 +6306,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ahnaf",
-    "arabic_name": "أحنف",
-    "meaning": "Bin Qays bin Muwiyah bin Husayn at Tamimi had this name, he was a narrator of Hadith",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ahram",
-    "arabic_name": "أهرام",
-    "meaning": "Ahram is an Arabic name for boys and girls that means pyramids. It is the plural of haram (pyramid).",
-    "gender": "male"
-  },
-  {
     "english_name": "Ahraz",
     "arabic_name": "أحرز",
     "meaning": "Protection, piety.",
@@ -6858,12 +6330,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Areej",
-    "arabic_name": "أريج",
-    "meaning": "Fragrant, sweet-smelling.",
-    "gender": "female"
-  },
-  {
     "english_name": "Areena",
     "arabic_name": "أرينا",
     "meaning": "Voice of Bird.",
@@ -6882,39 +6348,15 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Areesh",
-    "arabic_name": "عريش",
-    "meaning": "Areesh is an indirect Quranic name for boys and girls that means built structure, especially a wooden structure built for vines. It is derived from the Ain-R-Sh (structure, throne) which is used in many places in the Quran. Areesh is also a Farsi name that means intelligent, wise.",
-    "gender": "female"
-  },
-  {
     "english_name": "Areesha",
     "arabic_name": "عريسها",
     "meaning": "Areesha is an indirect Quranic name for girls that means built structure, especially a howdah for women (the carriage thats mounted on camels and elephants and women ride inside it). It is derived from the Ain-R-Sh (structure, throne) root which is used in many places in the Quran.",
     "gender": "female"
   },
   {
-    "english_name": "Areez",
-    "arabic_name": "أرز",
-    "meaning": "Friend.",
-    "gender": "female"
-  },
-  {
     "english_name": "Aresha",
     "arabic_name": "عرسها",
     "meaning": "Under an umbrella",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arf",
-    "arabic_name": "عرف",
-    "meaning": "Arf is an Arabic name for boys and girls that means scent, good scent.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arfa",
-    "arabic_name": "عرفة",
-    "meaning": "High Status, Exalted, Sublime and Superb",
     "gender": "female"
   },
   {
@@ -6936,12 +6378,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Arham",
-    "arabic_name": "أرحم",
-    "meaning": "Merciful, Kind, generous.",
-    "gender": "female"
-  },
-  {
     "english_name": "Ariana",
     "arabic_name": "أريانة",
     "meaning": "Full of life ,Land of Arians (Arial - Noble / Pure).",
@@ -6951,12 +6387,6 @@ export const namesData = [
     "english_name": "Arianaz",
     "arabic_name": "ريناز",
     "meaning": "Arianaz is a Persian name for girls that means beautiful and noble woman, beautiful and excellent woman. It is made up of Aria (noble and excellent) and naz (a suffix used to imply beauty and cuteness).",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arij",
-    "arabic_name": "أريج",
-    "meaning": "Arij is an Arabic name for boys and girls that means fragrance, a good perfume-like smell.",
     "gender": "female"
   },
   {
@@ -6987,12 +6417,6 @@ export const namesData = [
     "english_name": "Arjumand",
     "arabic_name": "ارجومند",
     "meaning": "Excellent, Beloved .Noble, Honourable",
-    "gender": "female"
-  },
-  {
-    "english_name": "Armaghan",
-    "arabic_name": "أرمغا",
-    "meaning": "Armaghan is a Persian and Urdu name for boys and girls that means gift.",
     "gender": "female"
   },
   {
@@ -7038,21 +6462,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Afkar",
-    "arabic_name": "أفكار",
-    "meaning": "Destitue, poor.",
-    "gender": "male"
-  },
-  {
     "english_name": "Aflah",
     "arabic_name": "أفلح",
     "meaning": "Gaining success-but the Prophet (S.A.W) has discouraged us from giving such names to our children, according to Sayyidina Jab (R.A), The Prophet (S.A.W) intended to forbid such names as Yala, Barakah,",
-    "gender": "male"
-  },
-  {
-    "english_name": "Afnan",
-    "arabic_name": "أفنان",
-    "meaning": "Growth and Progress",
     "gender": "male"
   },
   {
@@ -7086,45 +6498,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Afroze",
-    "arabic_name": "أفرز",
-    "meaning": "Lightening, enlightening.",
-    "gender": "male"
-  },
-  {
     "english_name": "Afruz",
     "arabic_name": "أفرز",
     "meaning": "Standing tall like a mountain, ability to withstand all that is thrushed upon it",
     "gender": "male"
   },
   {
-    "english_name": "Afsa",
-    "arabic_name": "أفصى",
-    "meaning": "Transparent, clear.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Afsah",
-    "arabic_name": "أفصح",
-    "meaning": "Eloquent, Very polite.",
-    "gender": "male"
-  },
-  {
     "english_name": "Afsan",
     "arabic_name": "فصان",
     "meaning": "Tale, legend, fiction",
-    "gender": "male"
-  },
-  {
-    "english_name": "Afsaneh",
-    "arabic_name": "فسنه",
-    "meaning": "A fairy tale.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Afsar",
-    "arabic_name": "أفسر",
-    "meaning": "Crown.",
     "gender": "male"
   },
   {
@@ -7146,21 +6528,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Afshan",
-    "arabic_name": "فشن",
-    "meaning": "Adornment aids",
-    "gender": "male"
-  },
-  {
     "english_name": "Afshar",
     "arabic_name": "افشار",
     "meaning": "Afshar is a Persian name for boys that means friend, companion. It is originally from Turkish.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Afshin",
-    "arabic_name": "فشن",
-    "meaning": "Afshin is a Persian and Turkish given name, derived from the princely title of the rulers of Osrusana at the time of the Muslim conquest.",
     "gender": "male"
   },
   {
@@ -7188,12 +6558,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Afza",
-    "arabic_name": "أفز",
-    "meaning": "one who brings plenty, one who causes an increase (in goodness)",
-    "gender": "male"
-  },
-  {
     "english_name": "Afzaal",
     "arabic_name": "فزال",
     "meaning": "Kindness, grace, favours, virtues.",
@@ -7203,7 +6567,7 @@ export const namesData = [
     "english_name": "Awfa",
     "arabic_name": "أوفا",
     "meaning": "Awfa is a direct Quranic name for boys and girls that means faithful, true to his/her promise.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awisa",
@@ -7227,13 +6591,13 @@ export const namesData = [
     "english_name": "Awla",
     "arabic_name": "أولى",
     "meaning": "Deserving and Worthy",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awlya",
     "arabic_name": "أولية",
     "meaning": "Good Friend and Companion",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awqa",
@@ -7245,13 +6609,13 @@ export const namesData = [
     "english_name": "Awsal",
     "arabic_name": "أوصل",
     "meaning": "Awsal is an Arabic name for boys and girls that means to become closer to God through good deeds and worship.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awsam",
     "arabic_name": "أوسم",
     "meaning": "Awsam is an Arabic name for boys and girls that means badges of honor. It is the plural of Wisam.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awsima",
@@ -7263,7 +6627,7 @@ export const namesData = [
     "english_name": "Awwalan",
     "arabic_name": "أولا",
     "meaning": "Awwalan is an Arabic name for boys and girls that means those who are ahead, those who are first. It is a plural of Awwal (first).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awwazah",
@@ -7281,7 +6645,7 @@ export const namesData = [
     "english_name": "Ayaat",
     "arabic_name": "أيات",
     "meaning": "Pl. of Ayat, sign, verse of the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ayah",
@@ -7293,7 +6657,7 @@ export const namesData = [
     "english_name": "Ayamin",
     "arabic_name": "أيمن",
     "meaning": "Blessed",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ayana",
@@ -7311,13 +6675,13 @@ export const namesData = [
     "english_name": "Ayat",
     "arabic_name": "آيات",
     "meaning": "Sign, revelation, verse of the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ayd",
     "arabic_name": "عيد",
     "meaning": "Power and Strength",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aydania",
@@ -7329,7 +6693,7 @@ export const namesData = [
     "english_name": "Aydi",
     "arabic_name": "أَيْدِي",
     "meaning": "Power, Strength, hands",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ayeh",
@@ -7383,7 +6747,7 @@ export const namesData = [
     "english_name": "Auraq",
     "arabic_name": "أوراق",
     "meaning": "Auraq is an Arabic name for boys and girls that means dust-colored, sand-colored, which refers to a light brown color.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ausa",
@@ -7407,7 +6771,7 @@ export const namesData = [
     "english_name": "Avan",
     "arabic_name": "أفان",
     "meaning": "Time, Era, Epoch. Avan is the Persian variant of Awan and means time, moment. Avan can also be a Persian, non-Quranic name meaning guard.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Avaz",
@@ -7431,7 +6795,7 @@ export const namesData = [
     "english_name": "Avesta",
     "arabic_name": "فيستا",
     "meaning": "It's a Persian name for boys and girls that means principle, foundation, refuge, fellowship. It is also the name of an ancient language of Persia and the name of the holy book of Zoroastrianism, an ancient religion of Persia which some Muslim scholars consider a true religion inspired by God that, like Christianity",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Avishan",
@@ -7509,13 +6873,13 @@ export const namesData = [
     "english_name": "Awat",
     "arabic_name": "أوت",
     "meaning": "Awat is a Kurdish name for boys and girls that means wish, desire, hope.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awatif",
     "arabic_name": "عواطف",
     "meaning": "Awatif is an indirect Quranic name for boys and girls that means emotions, passions, instincts.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awayeda",
@@ -7527,13 +6891,13 @@ export const namesData = [
     "english_name": "Awb",
     "arabic_name": "أوب",
     "meaning": "Repentance",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awbi",
     "arabic_name": "أوبي",
     "meaning": "Awbi is an Arabic name for boys and girls that means one who repents, one who always returns to Gods obedience.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awbia",
@@ -7545,7 +6909,7 @@ export const namesData = [
     "english_name": "Awdaq",
     "arabic_name": "ودق",
     "meaning": "Friendly and Hospitable",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Awdiya",
@@ -7650,45 +7014,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Awat",
-    "arabic_name": "أوت",
-    "meaning": "Awat is a Kurdish name for boys and girls that means wish, desire, hope.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Awatif",
-    "arabic_name": "عواطف",
-    "meaning": "Awatif is an indirect Quranic name for boys and girls that means emotions, passions, instincts.",
-    "gender": "male"
-  },
-  {
     "english_name": "Awayed",
     "arabic_name": "أويد",
     "meaning": "Awayed is an Arabic name for boys that means habit, something accustomed to. It also means customary, tradition.",
     "gender": "male"
   },
   {
-    "english_name": "Awb",
-    "arabic_name": "أوب",
-    "meaning": "Repentance",
-    "gender": "male"
-  },
-  {
-    "english_name": "Awbi",
-    "arabic_name": "أوبي",
-    "meaning": "Awbi is an Arabic name for boys and girls that means one who repents, one who always returns to Gods obedience.",
-    "gender": "male"
-  },
-  {
     "english_name": "Awd",
     "arabic_name": "أود",
     "meaning": "Return",
-    "gender": "male"
-  },
-  {
-    "english_name": "Awdaq",
-    "arabic_name": "ودق",
-    "meaning": "Friendly and Hospitable",
     "gender": "male"
   },
   {
@@ -7701,12 +7035,6 @@ export const namesData = [
     "english_name": "Awf",
     "arabic_name": "أوف",
     "meaning": "Guest, fragrance, lion,",
-    "gender": "male"
-  },
-  {
-    "english_name": "Awfa",
-    "arabic_name": "أوفا",
-    "meaning": "Awfa is a direct Quranic name for boys and girls that means faithful, true to his/her promise.",
     "gender": "male"
   },
   {
@@ -7725,12 +7053,6 @@ export const namesData = [
     "english_name": "Awj",
     "arabic_name": "أوج",
     "meaning": "Awj is a Persian and Arabic name for boys that means height, pinnacle, top. It is originally taken from Sanskrit.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Awla",
-    "arabic_name": "أولى",
-    "meaning": "Deserving and Worthy",
     "gender": "male"
   },
   {
@@ -7803,7 +7125,7 @@ export const namesData = [
     "english_name": "Badhaa",
     "arabic_name": "بدهاء",
     "meaning": "Badhaa is an Arabic name for boys and girls that means to begin, to start, to initiate.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Badia",
@@ -7827,7 +7149,7 @@ export const namesData = [
     "english_name": "Badir",
     "arabic_name": "بادر",
     "meaning": "Moon and Moonlight",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Badira",
@@ -7863,13 +7185,13 @@ export const namesData = [
     "english_name": "Badran",
     "arabic_name": "بدران",
     "meaning": "The most beautiful, Full moon.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Badri",
     "arabic_name": "بدري",
     "meaning": "One who took part in the battle of Badr",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Badriya",
@@ -7911,7 +7233,7 @@ export const namesData = [
     "english_name": "Baha",
     "arabic_name": "بها",
     "meaning": "Beauty, glow, splendor magnificence.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bahaar",
@@ -7995,7 +7317,7 @@ export const namesData = [
     "english_name": "Ayyam",
     "arabic_name": "أيام",
     "meaning": "Ayyam is an Arabic name for boys and girls that means days. It is the plural of yawm (day).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ayyubia",
@@ -8043,7 +7365,7 @@ export const namesData = [
     "english_name": "Azal",
     "arabic_name": "أزال",
     "meaning": "Azal is a Persian and Arabic name for boys and girls that means eternity, since the beginning of time.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Azalia",
@@ -8127,13 +7449,13 @@ export const namesData = [
     "english_name": "Azhaar",
     "arabic_name": "أزهار",
     "meaning": "Pl. of Zahra, flower, blossom.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Azhar",
     "arabic_name": "أزهار",
     "meaning": "Famous, More evident, most apparent, most illuminated.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Azila",
@@ -8169,7 +7491,7 @@ export const namesData = [
     "english_name": "Aziz",
     "arabic_name": "عزيز",
     "meaning": "Might, strong, illustrious, highly esteemed, dearly loved, one of the names of Allah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aziza",
@@ -8187,7 +7509,7 @@ export const namesData = [
     "english_name": "Azka",
     "arabic_name": "أزكى",
     "meaning": "Virtuous, Pious, God-Fearing and Devoted to God",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Azma",
@@ -8235,7 +7557,7 @@ export const namesData = [
     "english_name": "Azyan",
     "arabic_name": "أزين",
     "meaning": "Azyan is an Arabic name for boys and girls that means adornments, decorations, beautiful features, any group of things that beautify something else. Azyan is the plural of Zayn.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Azza",
@@ -8259,7 +7581,7 @@ export const namesData = [
     "english_name": "Azzat",
     "arabic_name": "عززت",
     "meaning": "Azzat is the Turkish form of the Arabic name Azzah, which means gazelle. It is used for both boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Baadiyah",
@@ -8283,12 +7605,6 @@ export const namesData = [
     "english_name": "Azhaf",
     "arabic_name": "أزحف",
     "meaning": "Courageous, elite",
-    "gender": "male"
-  },
-  {
-    "english_name": "Azhar",
-    "arabic_name": "أزهار",
-    "meaning": "Famous, More evident, most apparent, most illuminated.",
     "gender": "male"
   },
   {
@@ -8334,21 +7650,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Aziz",
-    "arabic_name": "عزيز",
-    "meaning": "Might, strong, illustrious, highly esteemed, dearly loved, one of the names of Allah.",
-    "gender": "male"
-  },
-  {
     "english_name": "Azizullah",
     "arabic_name": "عزيزلله",
     "meaning": "Dear to Allah.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Azka",
-    "arabic_name": "أزكى",
-    "meaning": "Virtuous, Pious, God-Fearing and Devoted to God",
     "gender": "male"
   },
   {
@@ -8448,12 +7752,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Azyan",
-    "arabic_name": "أزين",
-    "meaning": "Azyan is an Arabic name for boys and girls that means adornments, decorations, beautiful features, any group of things that beautify something else. Azyan is the plural of Zayn.",
-    "gender": "male"
-  },
-  {
     "english_name": "Azzaam",
     "arabic_name": "عزام",
     "meaning": "Determined, Resolved",
@@ -8535,7 +7833,7 @@ export const namesData = [
     "english_name": "Baqa",
     "arabic_name": "باقة",
     "meaning": "Survival, immortality, etern",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Baqat",
@@ -8553,13 +7851,13 @@ export const namesData = [
     "english_name": "Baraa",
     "arabic_name": "براء",
     "meaning": "one who cure, sahabi name( al baraa ibnu malik)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Baraaem",
     "arabic_name": "برايم",
     "meaning": "Baraaem is an Arabic name for boys and girls that means unopened flower bud, figuratively meaning young, fresh, innocent.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Baraah",
@@ -8583,13 +7881,13 @@ export const namesData = [
     "english_name": "Baraka",
     "arabic_name": "باركا",
     "meaning": "Blessings, abundance",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Barakah",
     "arabic_name": "بركه",
     "meaning": "Blessing",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Baran",
@@ -8607,7 +7905,7 @@ export const namesData = [
     "english_name": "Barayek",
     "arabic_name": "بريق",
     "meaning": "Barayek is an Arabic name for boys and girls that means blessed.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bareea",
@@ -8652,12 +7950,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ayd",
-    "arabic_name": "عيد",
-    "meaning": "Power and Strength",
-    "gender": "male"
-  },
-  {
     "english_name": "Aydarus",
     "arabic_name": "عيدروس",
     "meaning": "Aydarus is an Arabic name for boys that means lion. This name perhaps originates from the word atrasah, which means fierceness.",
@@ -8673,12 +7965,6 @@ export const namesData = [
     "english_name": "Aydeen",
     "arabic_name": "أيدين",
     "meaning": "Aydeen is a Persian name for boys that means radiance, light, lucid, clear, translucent, figuratively it means enlightened, educated, clear-minded.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Aydi",
-    "arabic_name": "أَيْدِي",
-    "meaning": "Power, Strength, hands",
     "gender": "male"
   },
   {
@@ -8808,12 +8094,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ayyam",
-    "arabic_name": "أيام",
-    "meaning": "Ayyam is an Arabic name for boys and girls that means days. It is the plural of yawm (day).",
-    "gender": "male"
-  },
-  {
     "english_name": "Ayyan",
     "arabic_name": "أين",
     "meaning": "Allah's gift, Waliullah, Allah ka Tuhfa..",
@@ -8835,7 +8115,7 @@ export const namesData = [
     "english_name": "Bahr",
     "arabic_name": "بحر",
     "meaning": "Ocean",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bahraa",
@@ -8853,13 +8133,13 @@ export const namesData = [
     "english_name": "Bahsa",
     "arabic_name": "بحصة",
     "meaning": "Bahsa is a variant of the Persian boy and girl name Behsa which means good, virtuous. Both Behsa and Bahsa are acceptable names.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bahz",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Baiza",
@@ -8901,7 +8181,7 @@ export const namesData = [
     "english_name": "Bakht",
     "arabic_name": "بخت",
     "meaning": "Good fortune, luck, prosperity, Fortune",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bakhta",
@@ -8913,7 +8193,7 @@ export const namesData = [
     "english_name": "Bakhtawar",
     "arabic_name": "بخطور",
     "meaning": "Lucky, fortunate.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bakhtawara",
@@ -8937,7 +8217,7 @@ export const namesData = [
     "english_name": "Bakirin",
     "arabic_name": "بقرن",
     "meaning": "Early and On Time",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bakura",
@@ -9078,12 +8358,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Azal",
-    "arabic_name": "أزال",
-    "meaning": "Azal is a Persian and Arabic name for boys and girls that means eternity, since the beginning of time.",
-    "gender": "male"
-  },
-  {
     "english_name": "Azali",
     "arabic_name": "أزلي",
     "meaning": "Azali is a Persian and Arabic name for boys that means eternal.",
@@ -9174,12 +8448,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Azhaar",
-    "arabic_name": "أزهار",
-    "meaning": "Pl. of Zahra, flower, blossom.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ambar",
     "arabic_name": "أمبر",
     "meaning": "Perfume (Ambergris) .",
@@ -9249,7 +8517,7 @@ export const namesData = [
     "english_name": "Amial",
     "arabic_name": "أميال",
     "meaning": "Amial is an Arabic name for boys and girls that means lighthouses, it is the plural of meel (lighthouse, which is a building that looks like a minaret and is built near the sea with a lamp on top of it to guide ships).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Aminan",
@@ -9282,12 +8550,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Amjad",
-    "arabic_name": "أمجاد",
-    "meaning": "Most glorious, most distinguished, more illustrious, most venerable, most noble.",
-    "gender": "female"
-  },
-  {
     "english_name": "Amlaas",
     "arabic_name": "أملس",
     "meaning": "Amlaas is an Arabic name for girls that means plains or steppes, areas of land that do not have trees or much grass.",
@@ -9300,18 +8562,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Amlas",
-    "arabic_name": "أملس",
-    "meaning": "Amlas is an Arabic name for boys and girls that means soft, delicate, smooth. It can also mean innocent, blameless, one who has a spotless conscience.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Amman",
-    "arabic_name": "عمان",
-    "meaning": "Amman is an Arabic name for boys and girls that means resident, citizen, one who stays in a place for a long time,",
-    "gender": "female"
-  },
-  {
     "english_name": "Ammatunnaafe",
     "arabic_name": "ماتنفع",
     "meaning": "Ammatun Naafe is an indirect Quranic name for girls that means servant of al-Naafe, al-Naafe being one of the names of Allah subhanahu wa taala, that means the beneficent, the source of blessings. Thus the meaning is servant of Allah. Ammatun Naafe is the feminine version of the boy name Abdul Naafe. Amma is the Arabic",
@@ -9321,12 +8571,6 @@ export const namesData = [
     "english_name": "Ammuna",
     "arabic_name": "أمونة",
     "meaning": "Loyal, Trustworthy, faithful",
-    "gender": "female"
-  },
-  {
-    "english_name": "Ammuni",
-    "arabic_name": "أمني",
-    "meaning": "Ammuni is an Arabic name for boys and girls that means safe, away from harm. It also means one who trusts others and feels safe in their presence.",
     "gender": "female"
   },
   {
@@ -9351,12 +8595,6 @@ export const namesData = [
     "english_name": "Amnajane",
     "arabic_name": "منجن",
     "meaning": "A Tranquil Gif Of Peace From Allah Almighty .",
-    "gender": "female"
-  },
-  {
-    "english_name": "Amnan",
-    "arabic_name": "أمنا",
-    "meaning": "Safe and Secure",
     "gender": "female"
   },
   {
@@ -9408,12 +8646,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Bahr",
-    "arabic_name": "بحر",
-    "meaning": "Ocean",
-    "gender": "male"
-  },
-  {
     "english_name": "Bahradin",
     "arabic_name": "بحردن",
     "meaning": "Knowledgeable",
@@ -9444,12 +8676,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Bahsa",
-    "arabic_name": "بحصة",
-    "meaning": "Bahsa is a variant of the Persian boy and girl name Behsa which means good, virtuous. Both Behsa and Bahsa are acceptable names.",
-    "gender": "male"
-  },
-  {
     "english_name": "Bahu",
     "arabic_name": "به",
     "meaning": "Rod, Name of saint.",
@@ -9465,12 +8691,6 @@ export const namesData = [
     "english_name": "Bahur",
     "arabic_name": "بحور",
     "meaning": "Bahur is an Arabic name for boys that means brilliant, lucid.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Bahz",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
     "gender": "male"
   },
   {
@@ -9585,7 +8805,7 @@ export const namesData = [
     "english_name": "Barja",
     "arabic_name": "برجى",
     "meaning": "Barja is a Persian name for boys and girls that means worthy, deserving, fitting. It also means stable, firmly in place, unshakable.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Barjaa",
@@ -9597,13 +8817,13 @@ export const namesData = [
     "english_name": "Barjees",
     "arabic_name": "برجيس",
     "meaning": "Barjees is the Urdu variant of the Arabic boy and girl name Birjees which means Jupiter (the planet).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Barkat",
     "arabic_name": "بركات",
     "meaning": "Bounty, blessing, Abundance, prosperity, blessing, auspicious",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Barkha",
@@ -9810,12 +9030,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Adyan",
-    "arabic_name": "أديان",
-    "meaning": "Religions, plural of Din, A nabee was named by this name.",
-    "gender": "male"
-  },
-  {
     "english_name": "Aejaz",
     "arabic_name": "أجاز",
     "meaning": "A person who does miracles",
@@ -9870,12 +9084,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Afeen",
-    "arabic_name": "فين",
-    "meaning": "Forgiveness and Forgiving",
-    "gender": "male"
-  },
-  {
     "english_name": "Affaan",
     "arabic_name": "عفان",
     "meaning": "name of Caliph Uthman's father",
@@ -9915,12 +9123,6 @@ export const namesData = [
     "english_name": "Azzan",
     "arabic_name": "أظن",
     "meaning": "High Status, Exalted, Sublime and Superb",
-    "gender": "male"
-  },
-  {
-    "english_name": "Azzat",
-    "arabic_name": "عززت",
-    "meaning": "Azzat is the Turkish form of the Arabic name Azzah, which means gazelle. It is used for both boys and girls.",
     "gender": "male"
   },
   {
@@ -10116,39 +9318,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Aman",
-    "arabic_name": "أمان",
-    "meaning": "Trust, Safety, Protection, Tranquility, Peace of mind",
-    "gender": "male"
-  },
-  {
-    "english_name": "Amanat",
-    "arabic_name": "أمانة",
-    "meaning": "Something given in trust, deposit, security",
-    "gender": "male"
-  },
-  {
     "english_name": "Amanuddin",
     "arabic_name": "منددين",
     "meaning": "Trust of religion (Islam).",
     "gender": "male"
   },
   {
-    "english_name": "Amanullah",
-    "arabic_name": "أمانلله",
-    "meaning": "Trust, care of Allah, protection of Allah.",
-    "gender": "male"
-  },
-  {
     "english_name": "Amar",
     "arabic_name": "أمر",
     "meaning": "One with strong Imaan, Also a Sahabi",
-    "gender": "male"
-  },
-  {
-    "english_name": "Amara",
-    "arabic_name": "عمارة",
-    "meaning": "large group of ships sailing together, tribe.",
     "gender": "male"
   },
   {
@@ -10191,12 +9369,6 @@ export const namesData = [
     "english_name": "Amerulla",
     "arabic_name": "مريول",
     "meaning": "Prince",
-    "gender": "male"
-  },
-  {
-    "english_name": "Amial",
-    "arabic_name": "أميال",
-    "meaning": "Amial is an Arabic name for boys and girls that means lighthouses, it is the plural of meel (lighthouse, which is a building that looks like a minaret and is built near the sea with a lamp on top of it to guide ships).",
     "gender": "male"
   },
   {
@@ -10269,13 +9441,13 @@ export const namesData = [
     "english_name": "Bahamin",
     "arabic_name": "بهمن",
     "meaning": "Bahamin is a Persian name for boys and girls that means spring (the season). It comes from Pahlavi (ancient Persian) origins.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bahar",
     "arabic_name": "بحر",
     "meaning": "Sea",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bahar-banu",
@@ -10395,7 +9567,7 @@ export const namesData = [
     "english_name": "Bahiri",
     "arabic_name": "بحيري",
     "meaning": "Bahiri is an Arabic name for boys and girls that means brilliant, prominent, renowned.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bahiriya",
@@ -10449,7 +9621,7 @@ export const namesData = [
     "english_name": "Dara",
     "arabic_name": "دارا",
     "meaning": "Possessor, sovereign.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Darakhshaan",
@@ -10461,7 +9633,7 @@ export const namesData = [
     "english_name": "Darakhshan",
     "arabic_name": "درخشا",
     "meaning": "Bright, shining, pearl-like.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dardana",
@@ -10473,7 +9645,7 @@ export const namesData = [
     "english_name": "Daria",
     "arabic_name": "ضارية",
     "meaning": "Daria is a Persian name for boys that means owner, acquirer, figuratively meaning wealthy, blessed. Daria is the name of a king of Persia.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dariya",
@@ -10527,13 +9699,13 @@ export const namesData = [
     "english_name": "Daulah",
     "arabic_name": "دولة",
     "meaning": "Riches, happiness, felicity, prosperity",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Daulat",
     "arabic_name": "دولة",
     "meaning": "Wealth, Empire, Power",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Daumaa",
@@ -10569,13 +9741,13 @@ export const namesData = [
     "english_name": "Dawub",
     "arabic_name": "دوب",
     "meaning": "Conscientious, Diligent and Reliable. Dawub is name for both boys and girls and means conscientious and diligent, someone who takes his/her profession and hobbies seriously, who tries to do well at everything he/she does.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dawud",
     "arabic_name": "داوود",
     "meaning": "Beloved, a Prophets name (David)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Daya",
@@ -10749,7 +9921,7 @@ export const namesData = [
     "english_name": "Dalu",
     "arabic_name": "دلع",
     "meaning": "Dalu is an Arabic name for boys and girls that means well bucket, a bucket that is attached to a rope and is used for collecting water from a well. It is used in the Quran in verse 12:19.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dalwah",
@@ -10779,7 +9951,7 @@ export const namesData = [
     "english_name": "Dana",
     "arabic_name": "دانا",
     "meaning": "Wise, learned.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Danah",
@@ -10797,7 +9969,7 @@ export const namesData = [
     "english_name": "Danesh",
     "arabic_name": "دانش",
     "meaning": "Danesh is a Persian name for boys and girls that means knowledge, wisdom.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dilara",
@@ -10809,7 +9981,7 @@ export const namesData = [
     "english_name": "Dildar",
     "arabic_name": "دلدار",
     "meaning": "Charming, beloved",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dilkash",
@@ -10833,7 +10005,7 @@ export const namesData = [
     "english_name": "Dilshad",
     "arabic_name": "دلشاد",
     "meaning": "Happy",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dima",
@@ -10851,13 +10023,13 @@ export const namesData = [
     "english_name": "Dina",
     "arabic_name": "دينا",
     "meaning": "It was the name of the grandfater of Abu Bin Thabit.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dinar",
     "arabic_name": "دينار",
     "meaning": "Name of the grandfather of Abu Bin Thabit.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dinarah",
@@ -10887,13 +10059,13 @@ export const namesData = [
     "english_name": "Diya",
     "arabic_name": "ديا",
     "meaning": "Brightness, light.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Diyaa",
     "arabic_name": "ضياء",
     "meaning": "(Ziyaa) Light, spender, brilliance.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Diyana",
@@ -10947,7 +10119,7 @@ export const namesData = [
     "english_name": "Doost",
     "arabic_name": "دوست",
     "meaning": "Doost is a Persian name for boys and girls that means friend.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dordana",
@@ -10978,12 +10150,6 @@ export const namesData = [
     "arabic_name": "دورناز",
     "meaning": "Beautiful",
     "gender": "female"
-  },
-  {
-    "english_name": "Awlya",
-    "arabic_name": "أولية",
-    "meaning": "Good Friend and Companion",
-    "gender": "male"
   },
   {
     "english_name": "Awmani",
@@ -11025,18 +10191,6 @@ export const namesData = [
     "english_name": "Aws",
     "arabic_name": "أوس",
     "meaning": "To give,Name of a tree",
-    "gender": "male"
-  },
-  {
-    "english_name": "Awsal",
-    "arabic_name": "أوصل",
-    "meaning": "Awsal is an Arabic name for boys and girls that means to become closer to God through good deeds and worship.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Awsam",
-    "arabic_name": "أوسم",
-    "meaning": "Awsam is an Arabic name for boys and girls that means badges of honor. It is the plural of Wisam.",
     "gender": "male"
   },
   {
@@ -11094,12 +10248,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Awwalan",
-    "arabic_name": "أولا",
-    "meaning": "Awwalan is an Arabic name for boys and girls that means those who are ahead, those who are first. It is a plural of Awwal (first).",
-    "gender": "male"
-  },
-  {
     "english_name": "Awwam",
     "arabic_name": "أوام",
     "meaning": "Awwam is an Arabic name for boys that means skilled swimmer.",
@@ -11118,12 +10266,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ayaat",
-    "arabic_name": "أيات",
-    "meaning": "Pl. of Ayat, sign, verse of the Quran.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ayaaz",
     "arabic_name": "عايز",
     "meaning": "A trusted slave of Sultan Mehmood Ghaznavi",
@@ -11136,21 +10278,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ayamin",
-    "arabic_name": "أيمن",
-    "meaning": "Blessed",
-    "gender": "male"
-  },
-  {
     "english_name": "Ayan",
     "arabic_name": "أيان",
     "meaning": "appear",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ayat",
-    "arabic_name": "آيات",
-    "meaning": "Sign, revelation, verse of the Quran.",
     "gender": "male"
   },
   {
@@ -11226,12 +10356,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Badhaa",
-    "arabic_name": "بدهاء",
-    "meaning": "Badhaa is an Arabic name for boys and girls that means to begin, to start, to initiate.",
-    "gender": "male"
-  },
-  {
     "english_name": "Badi",
     "arabic_name": "بدي",
     "meaning": "Wonderful, marvelous, unique, amazing.",
@@ -11265,12 +10389,6 @@ export const namesData = [
     "english_name": "Badilayn",
     "arabic_name": "بديلين",
     "meaning": "Replacement",
-    "gender": "male"
-  },
-  {
-    "english_name": "Badir",
-    "arabic_name": "بادر",
-    "meaning": "Moon and Moonlight",
     "gender": "male"
   },
   {
@@ -11316,21 +10434,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Badran",
-    "arabic_name": "بدران",
-    "meaning": "The most beautiful, Full moon.",
-    "gender": "male"
-  },
-  {
     "english_name": "Badrawi",
     "arabic_name": "بدراوي",
     "meaning": "Beautiful and Radiant",
-    "gender": "male"
-  },
-  {
-    "english_name": "Badri",
-    "arabic_name": "بدري",
-    "meaning": "One who took part in the battle of Badr",
     "gender": "male"
   },
   {
@@ -11343,7 +10449,7 @@ export const namesData = [
     "english_name": "Behsa",
     "arabic_name": "بحصة",
     "meaning": "Behsa is a Persian name for boys and girls that means good, kind, virtuous, honorable. It is formed from Beh (good) and -sa (like), thus the literal meaning is one who is similar to good and virtuous people.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Behshad",
@@ -11379,7 +10485,7 @@ export const namesData = [
     "english_name": "Benazir",
     "arabic_name": "بنازير",
     "meaning": "Unequalled, matchless, unique",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Benyamin",
@@ -11403,13 +10509,13 @@ export const namesData = [
     "english_name": "Bidar",
     "arabic_name": "بدر",
     "meaning": "Bidar is an Arabic name for boys and girls that means punctuality, being early and on time. Bidar can also be a Persian name meaning awake. In the Persian version the i is a long sound, as Beedar.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Bidayat",
     "arabic_name": "بداية",
     "meaning": "Beginning and Inception",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Bihar",
@@ -11469,13 +10575,13 @@ export const namesData = [
     "english_name": "Birjees",
     "arabic_name": "برجيس",
     "meaning": "Birjees is an Arabic name for boys and girls that means Jupiter (the largest planet of the Solar System).",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Birrah",
     "arabic_name": "بيره",
     "meaning": "Good Deed.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Biryar",
@@ -11487,7 +10593,7 @@ export const namesData = [
     "english_name": "Bisharah",
     "arabic_name": "بشره",
     "meaning": "Bisharah is an Arabic name for boys and girls that means good news, good tidings.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Bishr",
@@ -11499,7 +10605,7 @@ export const namesData = [
     "english_name": "Bishry",
     "arabic_name": "بشري",
     "meaning": "Bishry is an Arabic name for boys and girls that means optimistic, cheerful, glad.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Bisyr",
@@ -11541,12 +10647,6 @@ export const namesData = [
     "english_name": "Baraq",
     "arabic_name": "براق",
     "meaning": "Electricity.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Barayek",
-    "arabic_name": "بريق",
-    "meaning": "Barayek is an Arabic name for boys and girls that means blessed.",
     "gender": "male"
   },
   {
@@ -11622,27 +10722,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Barja",
-    "arabic_name": "برجى",
-    "meaning": "Barja is a Persian name for boys and girls that means worthy, deserving, fitting. It also means stable, firmly in place, unshakable.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Barjees",
-    "arabic_name": "برجيس",
-    "meaning": "Barjees is the Urdu variant of the Arabic boy and girl name Birjees which means Jupiter (the planet).",
-    "gender": "male"
-  },
-  {
     "english_name": "Barkaat",
     "arabic_name": "بركات",
     "meaning": "Blessings, Plural of Barkat, Barakah",
-    "gender": "male"
-  },
-  {
-    "english_name": "Barkat",
-    "arabic_name": "بركات",
-    "meaning": "Bounty, blessing, Abundance, prosperity, blessing, auspicious",
     "gender": "male"
   },
   {
@@ -11709,7 +10791,7 @@ export const namesData = [
     "english_name": "Eeda",
     "arabic_name": "إذا",
     "meaning": "to deposit, to commit, to lodge, to consign (to give a person something to keep for you).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Eesha",
@@ -11721,7 +10803,7 @@ export const namesData = [
     "english_name": "Eezah",
     "arabic_name": "إِيْضَاح",
     "meaning": "Eezah is an Arabic name for boys and girls that means clarification, elucidation.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Efah",
@@ -11757,7 +10839,7 @@ export const namesData = [
     "english_name": "Eifad",
     "arabic_name": "إيفاد",
     "meaning": "Eifad is an Arabic name for boys and girls that means to send someone on a mission, to be fast, to be high and above something.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Eihaa",
@@ -11769,7 +10851,7 @@ export const namesData = [
     "english_name": "Eiham",
     "arabic_name": "إيهام",
     "meaning": "Eiham is an Arabic name for boys and girls that means illusion, fantasy.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Eileen",
@@ -11805,37 +10887,37 @@ export const namesData = [
     "english_name": "Eiman",
     "arabic_name": "إيمان",
     "meaning": "Ezaz",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Einas",
     "arabic_name": "إيناس",
     "meaning": "Einas is an Arabic name for boys and girls that means to feel at peace, to become tranquil, to stop being afraid.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Eira",
     "arabic_name": "إيراء",
     "meaning": "Kindling, to kindle a fire, to start a fire. It is derived from the W-R-Y root which is used in many places in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Eithar",
     "arabic_name": "إيثار",
     "meaning": "Eithar is an Arabic name for boys and girls that means to love another person and to give them preference over yourself.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Eiwa",
     "arabic_name": "إيوا",
     "meaning": "Caring, Guardian and Protector",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Elaf",
     "arabic_name": "إيلاف",
     "meaning": "Safety and Security",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Eleanor",
@@ -11859,7 +10941,7 @@ export const namesData = [
     "english_name": "Elijah",
     "arabic_name": "العجه",
     "meaning": "Beautyful,sweet, smart,Loving",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Elika",
@@ -11919,7 +11001,7 @@ export const namesData = [
     "english_name": "Chaman",
     "arabic_name": "شامان",
     "meaning": "Greenery, Garden green path through a forest.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Chaman-gul",
@@ -11961,7 +11043,7 @@ export const namesData = [
     "english_name": "Chand",
     "arabic_name": "كند",
     "meaning": "Moon",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Chanda",
@@ -11985,7 +11067,7 @@ export const namesData = [
     "english_name": "Charagh",
     "arabic_name": "شرجه",
     "meaning": "Lamp, Light, lantern, the Sun.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Chasheen",
@@ -12009,7 +11091,7 @@ export const namesData = [
     "english_name": "Cheragh",
     "arabic_name": "شرجه",
     "meaning": "Lamp, Light, lantern, the Sun.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Cheshideh",
@@ -12021,7 +11103,7 @@ export const namesData = [
     "english_name": "Chessy",
     "arabic_name": "كسي",
     "meaning": "Peaceful",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Cyra",
@@ -12045,7 +11127,7 @@ export const namesData = [
     "english_name": "Dabir",
     "arabic_name": "دَابِر",
     "meaning": "teacher, instructor,  ultimate,  Judge,  shaikh",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dafeenah",
@@ -12147,7 +11229,7 @@ export const namesData = [
     "english_name": "Busr",
     "arabic_name": "بسر",
     "meaning": "Unripe dates, It was the name of a companion ibn-Sufyan who was sent to scout Makkah from Zu-al-Hulayfah when they had intended to perform Umrah",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Busrah",
@@ -12159,13 +11241,13 @@ export const namesData = [
     "english_name": "Busraq",
     "arabic_name": "بسرق",
     "meaning": "Busraq is the Arabic word for yellow sapphire.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bustan",
     "arabic_name": "بوسطن",
     "meaning": "Bustan is a Persian name for boys and girls that means orchard, garden, forest, it can refer to any form of greenery and is the opposite of desert.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Butaila",
@@ -12201,7 +11283,7 @@ export const namesData = [
     "english_name": "Buzur",
     "arabic_name": "بذور",
     "meaning": "Buzur is an Arabic name for boys and girls that means seeds, anything placed in the ground for growing new plants. It is the plural of Bazr.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Caitlyn",
@@ -12261,7 +11343,7 @@ export const namesData = [
     "english_name": "Del",
     "arabic_name": "دل",
     "meaning": "Del is a Persian name for girls and boys that means heart.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Delara",
@@ -12273,25 +11355,25 @@ export const namesData = [
     "english_name": "Delaram",
     "arabic_name": "دلارم",
     "meaning": "Delaram is a Persian name for girls and boys that means peaceful-hearted, tranquil-hearted, one whose heart is at peace.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Delbar",
     "arabic_name": "دلبير",
     "meaning": "Delbar is a Persian name for girls and boys that means charming, enticing, captivating. Its literal meaning is capturer/hijacker of the heart.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Delbaz",
     "arabic_name": "دلبز",
     "meaning": "Delbaz is a Persian name for boys and girls that means in love, one whose heart has been captured by someone else.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Deldar",
     "arabic_name": "دلدار",
     "meaning": "Deldar is a Persian name for boys and girls that means in love, beloved, one who has a lover. It also means brave, courageous. The literal meaning of Deldar is one who has a heart, one who has a sweetheart.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Delisha",
@@ -12303,19 +11385,19 @@ export const namesData = [
     "english_name": "Delkash",
     "arabic_name": "ذلكش",
     "meaning": "Delkash is a Persian name for girls and boys that means captivating, enticing, charming. Its literal meaning is killer of the heart.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Delnavaz",
     "arabic_name": "دلنفز",
     "meaning": "Delnavaz is a Persian name for girls and boys that means one who brings peace and tranquility to the heart, one who consoles the heart. Delnavaz is formed from Del (heart) and navaz (one who consoles, one who comforts).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Delnawaz",
     "arabic_name": "دلنوز",
     "meaning": "Delnawaz is the Urdu variant of the Persian girl and boy name Delnavaz which means one who comforts the heart, one who consoles the heart.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Delnaz",
@@ -12339,7 +11421,7 @@ export const namesData = [
     "english_name": "Delshad",
     "arabic_name": "دلشاد",
     "meaning": "Delshad is a Persian name for boys and girls that means happy, joyful, cheerful. It is formed from the words Del (heart) and -shad (happy, joyful), thus the literal meaning is happy-hearted.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Derakhshan",
@@ -12393,13 +11475,13 @@ export const namesData = [
     "english_name": "Dibaaj",
     "arabic_name": "ديباج",
     "meaning": "Dibaaj is an Arabic name for boys and girls that refers to a type of silk cloth.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Didar",
     "arabic_name": "ديدار",
     "meaning": "Vision, sight.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Dil-afroze",
@@ -12483,7 +11565,7 @@ export const namesData = [
     "english_name": "Bawan",
     "arabic_name": "بون",
     "meaning": "Bawan is a Kurdish name for boys and girls that means fathers beloved, fathers darling. In modern Kurdish it is also used to mean parents.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bawasim",
@@ -12495,7 +11577,7 @@ export const namesData = [
     "english_name": "Bayan",
     "arabic_name": "بيان",
     "meaning": "Another name for the Quran",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Baydaa",
@@ -12645,13 +11727,13 @@ export const namesData = [
     "english_name": "Basmat",
     "arabic_name": "باسمة",
     "meaning": "Happiness, Laughter, Joy and Delight",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Basmin",
     "arabic_name": "باسمين",
     "meaning": "Basmin is an Arabic name for boys and girls that means joyful, happy, cheerful. Its literal meaning is ones who are smiling. It is the plural of Basem.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Basoom",
@@ -12750,18 +11832,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Bawan",
-    "arabic_name": "بون",
-    "meaning": "Bawan is a Kurdish name for boys and girls that means fathers beloved, fathers darling. In modern Kurdish it is also used to mean parents.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Bayan",
-    "arabic_name": "بيان",
-    "meaning": "Another name for the Quran",
-    "gender": "male"
-  },
-  {
     "english_name": "Bayazid",
     "arabic_name": "بايزيد",
     "meaning": "Name of a saint",
@@ -12789,18 +11859,6 @@ export const namesData = [
     "english_name": "Daudi",
     "arabic_name": "دودي",
     "meaning": "A flower.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Daulah",
-    "arabic_name": "دولة",
-    "meaning": "Riches, happiness, felicity, prosperity",
-    "gender": "male"
-  },
-  {
-    "english_name": "Daulat",
-    "arabic_name": "دولة",
-    "meaning": "Wealth, Empire, Power",
     "gender": "male"
   },
   {
@@ -12861,18 +11919,6 @@ export const namesData = [
     "english_name": "Dawouss",
     "arabic_name": "دووس",
     "meaning": "the brave one who always defeat his enemies",
-    "gender": "male"
-  },
-  {
-    "english_name": "Dawub",
-    "arabic_name": "دوب",
-    "meaning": "Conscientious, Diligent and Reliable. Dawub is name for both boys and girls and means conscientious and diligent, someone who takes his/her profession and hobbies seriously, who tries to do well at everything he/she does.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Dawud",
-    "arabic_name": "داوود",
-    "meaning": "Beloved, a Prophets name (David)",
     "gender": "male"
   },
   {
@@ -12954,12 +12000,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Del",
-    "arabic_name": "دل",
-    "meaning": "Del is a Persian name for girls and boys that means heart.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ahsab",
     "arabic_name": "أحسب",
     "meaning": "Nobler, more respected, of higher nobility.",
@@ -12990,21 +12030,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ahvaz",
-    "arabic_name": "أحفظ",
-    "meaning": "Ahvaz is a Persian name for boys and girls that refers to a southern city of Iran in the Khuzestan Province, on the banks of the Karun River.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ahwas",
     "arabic_name": "أحوس",
     "meaning": "Having narrow, contracted or squinting eye, he reported his father quoting a hadith from Prophet, Do not ask me about evil, but ask me about good, the worst evil consists in learned me who are evil and the best good in learned men who are good.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ahwaz",
-    "arabic_name": "أحواز",
-    "meaning": "Ahwaz is a variant of the Persian boy and girl name Ahvaz,which is the name of a city in the Khuzestan Province of Iran.",
     "gender": "male"
   },
   {
@@ -13017,12 +12045,6 @@ export const namesData = [
     "english_name": "Ahyan",
     "arabic_name": "أحيان",
     "meaning": "Gift of God",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ahyas",
-    "arabic_name": "حيث",
-    "meaning": "Ahyas is an Arabic name for boys and girls that means brave, courageous.",
     "gender": "male"
   },
   {
@@ -13044,21 +12066,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Aidan",
-    "arabic_name": "أيضا",
-    "meaning": "Aidan is an indirect Quranic name for boys and girls that means tall palm tree. It is derived from the Ain-D-N root (perpetuity) which is used in many places in the Quran. Help, intelligent",
-    "gender": "male"
-  },
-  {
     "english_name": "Aidh",
     "arabic_name": "أيده",
     "meaning": "Name of a reciter of the Holy Quran",
-    "gender": "male"
-  },
-  {
-    "english_name": "Aighar",
-    "arabic_name": "أغار",
-    "meaning": "She was a religious, righteous woman (AN)",
     "gender": "male"
   },
   {
@@ -13068,21 +12078,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Aimal",
-    "arabic_name": "أعمال",
-    "meaning": "Friend",
-    "gender": "male"
-  },
-  {
     "english_name": "Aiman",
     "arabic_name": "أيمن",
     "meaning": "Fearless, lucky, on the right",
-    "gender": "male"
-  },
-  {
-    "english_name": "Aimen",
-    "arabic_name": "أيمن",
-    "meaning": "Brave, fearless, lucky, right hand",
     "gender": "male"
   },
   {
@@ -13140,27 +12138,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Birjees",
-    "arabic_name": "برجيس",
-    "meaning": "Birjees is an Arabic name for boys and girls that means Jupiter (the largest planet of the Solar System).",
-    "gender": "female"
-  },
-  {
-    "english_name": "Birrah",
-    "arabic_name": "بيره",
-    "meaning": "Good Deed.",
-    "gender": "female"
-  },
-  {
     "english_name": "Bisar",
     "arabic_name": "بيسر",
     "meaning": "Adolescent",
-    "gender": "female"
-  },
-  {
-    "english_name": "Bisharah",
-    "arabic_name": "بشره",
-    "meaning": "Bisharah is an Arabic name for boys and girls that means good news, good tidings.",
     "gender": "female"
   },
   {
@@ -13173,12 +12153,6 @@ export const namesData = [
     "english_name": "Bishra",
     "arabic_name": "بشرى",
     "meaning": "Bishra is an Arabic name for girls that means good news, good tidings.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Bishry",
-    "arabic_name": "بشري",
-    "meaning": "Bishry is an Arabic name for boys and girls that means optimistic, cheerful, glad.",
     "gender": "female"
   },
   {
@@ -13209,7 +12183,7 @@ export const namesData = [
     "english_name": "Bokhur",
     "arabic_name": "بخور",
     "meaning": "Bokhur is an Arabic name for boys that means incense, woods and oils that are burned for their scent.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bolour",
@@ -13221,13 +12195,13 @@ export const namesData = [
     "english_name": "Borna",
     "arabic_name": "برنا",
     "meaning": "Borna is a Persian name for boys that means young, brave.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Boshry",
     "arabic_name": "بشري",
     "meaning": "Boshry is an Arabic name for boys and girls that means gladness, happiness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Budaida",
@@ -13251,7 +12225,7 @@ export const namesData = [
     "english_name": "Budur",
     "arabic_name": "بدور",
     "meaning": "Moon and Moonlight.Budur is an Arabic name for boys and girls that means full moons. It is the plural of Badr.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Buduriya",
@@ -13299,7 +12273,7 @@ export const namesData = [
     "english_name": "Buhur",
     "arabic_name": "بحور",
     "meaning": "Sea, Ocean and River",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bujaybah",
@@ -13311,19 +12285,13 @@ export const namesData = [
     "english_name": "Bujud",
     "arabic_name": "بوجود",
     "meaning": "Bujud is an Arabic name for boys and girls that means to stay , to be a resident. It also means group of people.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bukrah",
     "arabic_name": "بكره",
     "meaning": "Bukrah is an Arabic name for girls that means early morning, dawn. The word Bukrah is used seven times in the Quran, such as in verse 33:42.",
     "gender": "female"
-  },
-  {
-    "english_name": "Delaram",
-    "arabic_name": "دلارم",
-    "meaning": "Delaram is a Persian name for girls and boys that means peaceful-hearted, tranquil-hearted, one whose heart is at peace.",
-    "gender": "male"
   },
   {
     "english_name": "Delavar",
@@ -13335,48 +12303,6 @@ export const namesData = [
     "english_name": "Delawar",
     "arabic_name": "ديلاوير",
     "meaning": "Delawar is the Urdu and Kurdish variant of the Persian boy name Delavar which means brave, courageous.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Delbar",
-    "arabic_name": "دلبير",
-    "meaning": "Delbar is a Persian name for girls and boys that means charming, enticing, captivating. Its literal meaning is capturer/hijacker of the heart.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Delbaz",
-    "arabic_name": "دلبز",
-    "meaning": "Delbaz is a Persian name for boys and girls that means in love, one whose heart has been captured by someone else.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Deldar",
-    "arabic_name": "دلدار",
-    "meaning": "Deldar is a Persian name for boys and girls that means in love, beloved, one who has a lover. It also means brave, courageous. The literal meaning of Deldar is one who has a heart, one who has a sweetheart.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Delkash",
-    "arabic_name": "ذلكش",
-    "meaning": "Delkash is a Persian name for girls and boys that means captivating, enticing, charming. Its literal meaning is killer of the heart.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Delnavaz",
-    "arabic_name": "دلنفز",
-    "meaning": "Delnavaz is a Persian name for girls and boys that means one who brings peace and tranquility to the heart, one who consoles the heart. Delnavaz is formed from Del (heart) and navaz (one who consoles, one who comforts).",
-    "gender": "male"
-  },
-  {
-    "english_name": "Delnawaz",
-    "arabic_name": "دلنوز",
-    "meaning": "Delnawaz is the Urdu variant of the Persian girl and boy name Delnavaz which means one who comforts the heart, one who consoles the heart.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Delshad",
-    "arabic_name": "دلشاد",
-    "meaning": "Delshad is a Persian name for boys and girls that means happy, joyful, cheerful. It is formed from the words Del (heart) and -shad (happy, joyful), thus the literal meaning is happy-hearted.",
     "gender": "male"
   },
   {
@@ -13581,7 +12507,7 @@ export const namesData = [
     "english_name": "Farhat",
     "arabic_name": "فرحات",
     "meaning": "Calm, satisfaction, happiness, Joy.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farhatah",
@@ -13593,13 +12519,13 @@ export const namesData = [
     "english_name": "Farheen",
     "arabic_name": "فرحين",
     "meaning": "Happiness, Laughter, Joy and Delight",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farhi",
     "arabic_name": "فرحي",
     "meaning": "Farhi is an Arabic name for boys that means happy, joyous, content.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farhina",
@@ -13635,13 +12561,13 @@ export const namesData = [
     "english_name": "Farid",
     "arabic_name": "فريد",
     "meaning": "Unique, matchless,Singular, Rare, precious, a precious pearl.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farida",
     "arabic_name": "فريدة",
     "meaning": "Unique",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Faridaa",
@@ -13698,12 +12624,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Athir",
-    "arabic_name": "أثير",
-    "meaning": "Favored, preferred",
-    "gender": "male"
-  },
-  {
     "english_name": "Athtar",
     "arabic_name": "تحتار",
     "meaning": "Perfume seller",
@@ -13746,12 +12666,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Atqa",
-    "arabic_name": "أتقى",
-    "meaning": "Virtuous, Pious, God-Fearing and Devoted to God",
-    "gender": "male"
-  },
-  {
     "english_name": "Attaar",
     "arabic_name": "أطار",
     "meaning": "Perfumer, perfume vendor.",
@@ -13779,12 +12693,6 @@ export const namesData = [
     "english_name": "Attiq",
     "arabic_name": "أطيق",
     "meaning": "Old",
-    "gender": "male"
-  },
-  {
-    "english_name": "Atuf",
-    "arabic_name": "أطوف",
-    "meaning": "Affectionate, kind-hearted, compassionate, loving.",
     "gender": "male"
   },
   {
@@ -13824,12 +12732,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Auraq",
-    "arabic_name": "أوراق",
-    "meaning": "Auraq is an Arabic name for boys and girls that means dust-colored, sand-colored, which refers to a light brown color.",
-    "gender": "male"
-  },
-  {
     "english_name": "Aus",
     "arabic_name": "أوس",
     "meaning": "Myrtle, ace (in cards), Name of a number of Sahaba, e.g. Aus ibn Sabit, Aus ibn Saamit, Aus ibn Kholy.",
@@ -13845,18 +12747,6 @@ export const namesData = [
     "english_name": "Ausan",
     "arabic_name": "أوسان",
     "meaning": "Ausan is an Arabic name for boys that means relaxed, resting.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Avan",
-    "arabic_name": "أفان",
-    "meaning": "Time, Era, Epoch. Avan is the Persian variant of Awan and means time, moment. Avan can also be a Persian, non-Quranic name meaning guard.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Avesta",
-    "arabic_name": "فيستا",
-    "meaning": "It's a Persian name for boys and girls that means principle, foundation, refuge, fellowship. It is also the name of an ancient language of Persia and the name of the holy book of Zoroastrianism, an ancient religion of Persia which some Muslim scholars consider a true religion inspired by God that, like Christianity",
     "gender": "male"
   },
   {
@@ -14019,7 +12909,7 @@ export const namesData = [
     "english_name": "Behrokh",
     "arabic_name": "بحركه",
     "meaning": "Behrokh is a Persian for girls and boys that means good-looking, beautiful. Behrokh is made up of Beh (good, pretty) and rokh (face, appearance).",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Behrouz",
@@ -14043,7 +12933,7 @@ export const namesData = [
     "english_name": "Basharat",
     "arabic_name": "بشرط",
     "meaning": "Good news, glad tidings.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Bashasha",
@@ -14178,18 +13068,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Basmat",
-    "arabic_name": "باسمة",
-    "meaning": "Happiness, Laughter, Joy and Delight",
-    "gender": "female"
-  },
-  {
-    "english_name": "Basmin",
-    "arabic_name": "باسمين",
-    "meaning": "Basmin is an Arabic name for boys and girls that means joyful, happy, cheerful. Its literal meaning is ones who are smiling. It is the plural of Basem.",
-    "gender": "female"
-  },
-  {
     "english_name": "Basna",
     "arabic_name": "بسنة",
     "meaning": "Basna is an Arabic name for girls that means beautiful, attractive, and literally means soft and delicate. The formal Arabic pronunciation of this name is Bathna , but for ease both Arabs and non-Arabs write and pronounce it as Basna.",
@@ -14259,7 +13137,7 @@ export const namesData = [
     "english_name": "Fara",
     "arabic_name": "فرى",
     "meaning": "Variant transcription of FARAJ",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Faraaid",
@@ -14277,19 +13155,19 @@ export const namesData = [
     "english_name": "Farafisa",
     "arabic_name": "فرافيصا",
     "meaning": "Name of a companion, bin Umayr al-Hanafi",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farah",
     "arabic_name": "فرح",
     "meaning": "joy in Arabic. Male and Female",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farahat",
     "arabic_name": "فرحات",
     "meaning": "Joys, delights.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farahdokht",
@@ -14325,7 +13203,7 @@ export const namesData = [
     "english_name": "Farakh",
     "arabic_name": "فراقه",
     "meaning": "Farakh is a Persian name for boys and girls that means relief, end of fear, comfort after anxiety.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Faranah",
@@ -14343,7 +13221,7 @@ export const namesData = [
     "english_name": "Faras",
     "arabic_name": "فرس",
     "meaning": "Faras is an Arabic name for boys and girls that means mount, a horse used for riding.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farasah",
@@ -14361,7 +13239,7 @@ export const namesData = [
     "english_name": "Faraz",
     "arabic_name": "فرز",
     "meaning": "Ascent, Height, Exalted",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Faraza",
@@ -14373,7 +13251,7 @@ export const namesData = [
     "english_name": "Fardan",
     "arabic_name": "فردان",
     "meaning": "Unique",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fardanah",
@@ -14415,7 +13293,7 @@ export const namesData = [
     "english_name": "Fatin",
     "arabic_name": "فاتن",
     "meaning": "Clever, fascinating, smart.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fatina",
@@ -14481,7 +13359,7 @@ export const namesData = [
     "english_name": "Fauz",
     "arabic_name": "فوز",
     "meaning": "Winning, Victory and Triumph",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fauzia",
@@ -14505,7 +13383,7 @@ export const namesData = [
     "english_name": "Fawz",
     "arabic_name": "فوز",
     "meaning": "Victory, Conquest, Triumph, Success",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fawza",
@@ -14559,7 +13437,7 @@ export const namesData = [
     "english_name": "Fawzy",
     "arabic_name": "فوزي",
     "meaning": "Triumphant, victorious, successful.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fayha",
@@ -14679,12 +13557,6 @@ export const namesData = [
     "english_name": "Bashar",
     "arabic_name": "بشار",
     "meaning": "Man, mankind, Herald, bringer of glad tidings..",
-    "gender": "male"
-  },
-  {
-    "english_name": "Basharat",
-    "arabic_name": "بشرط",
-    "meaning": "Good news, glad tidings.",
     "gender": "male"
   },
   {
@@ -14814,12 +13686,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Aroosh",
-    "arabic_name": "عروسه",
-    "meaning": "Angle of heaven.",
-    "gender": "female"
-  },
-  {
     "english_name": "Aroub",
     "arabic_name": "عروب",
     "meaning": "Woman Loving to her husband",
@@ -14838,12 +13704,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Arshan",
-    "arabic_name": "عرسها",
-    "meaning": "Strong And Brave Man.",
-    "gender": "female"
-  },
-  {
     "english_name": "Arsheeda",
     "arabic_name": "أرشيد",
     "meaning": "Arsheeda is a Persian name for girls that is made up of Ar (noble and pure) + sheed (brilliant) and the suffix a (used for creating names), thus creating the meaning of noble and brilliant, pure and dazzling.",
@@ -14856,27 +13716,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Arshi",
-    "arabic_name": "عرشي",
-    "meaning": "The one living in Allah's place, angel.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arshia",
-    "arabic_name": "عرسها",
-    "meaning": "Throne.",
-    "gender": "female"
-  },
-  {
     "english_name": "Arshiya",
     "arabic_name": "عرشي",
     "meaning": "Fairy, Abode Of Allah, Lives In Skies",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arta",
-    "arabic_name": "أرت",
-    "meaning": "Arta is a Persian name for boys and girls, it comes from ancient Persian and means pure, virtuous, sacred.",
     "gender": "female"
   },
   {
@@ -14919,12 +13761,6 @@ export const namesData = [
     "english_name": "Arva",
     "arabic_name": "عرفة",
     "meaning": "Fertile, bountiful",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arveen",
-    "arabic_name": "عارفين",
-    "meaning": "Arveen is a Persian and Urdu name for boys and girls that means test, experiment. The A in the beginning can be pronounced long (as in the English word arm), it can also be pronounced short (as in the u in up).",
     "gender": "female"
   },
   {
@@ -15036,24 +13872,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Busr",
-    "arabic_name": "بسر",
-    "meaning": "Unripe dates, It was the name of a companion ibn-Sufyan who was sent to scout Makkah from Zu-al-Hulayfah when they had intended to perform Umrah",
-    "gender": "male"
-  },
-  {
-    "english_name": "Busraq",
-    "arabic_name": "بسرق",
-    "meaning": "Busraq is the Arabic word for yellow sapphire.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Bustan",
-    "arabic_name": "بوسطن",
-    "meaning": "Bustan is a Persian name for boys and girls that means orchard, garden, forest, it can refer to any form of greenery and is the opposite of desert.",
-    "gender": "male"
-  },
-  {
     "english_name": "Busyr",
     "arabic_name": "بصير",
     "meaning": "Cheerful face",
@@ -15063,12 +13881,6 @@ export const namesData = [
     "english_name": "Butrus",
     "arabic_name": "لتي",
     "meaning": "Gentle, kind, pleasant, friendly",
-    "gender": "male"
-  },
-  {
-    "english_name": "Buzur",
-    "arabic_name": "بذور",
-    "meaning": "Buzur is an Arabic name for boys and girls that means seeds, anything placed in the ground for growing new plants. It is the plural of Bazr.",
     "gender": "male"
   },
   {
@@ -15102,12 +13914,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Chaman",
-    "arabic_name": "شامان",
-    "meaning": "Greenery, Garden green path through a forest.",
-    "gender": "male"
-  },
-  {
     "english_name": "Chams",
     "arabic_name": "شمس",
     "meaning": "The Sun",
@@ -15123,7 +13929,7 @@ export const namesData = [
     "english_name": "Farzan",
     "arabic_name": "فرزان",
     "meaning": "Wise",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farzana",
@@ -15147,13 +13953,13 @@ export const namesData = [
     "english_name": "Farzeen",
     "arabic_name": "فرز",
     "meaning": "Learned.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farzin",
     "arabic_name": "فرزن",
     "meaning": "Learned",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Faseehah",
@@ -15189,7 +13995,7 @@ export const namesData = [
     "english_name": "Fateem",
     "arabic_name": "فطيم",
     "meaning": "Fateem is an Arabic name for boys and girls that means a baby that has been weaned off breast milk.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fateemah",
@@ -15207,7 +14013,7 @@ export const namesData = [
     "english_name": "Fateenah",
     "arabic_name": "فاتنه",
     "meaning": "Intelligent",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fatema",
@@ -15279,7 +14085,7 @@ export const namesData = [
     "english_name": "Fatiha",
     "arabic_name": "فتيحة",
     "meaning": "Opening",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fatihah",
@@ -15291,7 +14097,7 @@ export const namesData = [
     "english_name": "Fatim",
     "arabic_name": "فطيم",
     "meaning": "Fatim is an Arabic name for girls that means a mother who has weaned her baby off breast milk. It can also be a pet form of Fatimah, meaning a child who has been weaned off breast milk.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fatima",
@@ -15318,21 +14124,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Diya",
-    "arabic_name": "ديا",
-    "meaning": "Brightness, light.",
-    "gender": "male"
-  },
-  {
     "english_name": "Diya-al-din",
     "arabic_name": "ديالدن",
     "meaning": "Brightness of the faith",
-    "gender": "male"
-  },
-  {
-    "english_name": "Diyaa",
-    "arabic_name": "ضياء",
-    "meaning": "(Ziyaa) Light, spender, brilliance.",
     "gender": "male"
   },
   {
@@ -15390,12 +14184,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Doost",
-    "arabic_name": "دوست",
-    "meaning": "Doost is a Persian name for boys and girls that means friend.",
-    "gender": "male"
-  },
-  {
     "english_name": "Dorrah",
     "arabic_name": "دوره",
     "meaning": "precious stone (name of the famous child Shaheed Muhammad Al Dorra)  , pearl",
@@ -15405,7 +14193,7 @@ export const namesData = [
     "english_name": "Dost",
     "arabic_name": "دوست",
     "meaning": "Friend.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Dost-muhammad",
@@ -15417,7 +14205,7 @@ export const namesData = [
     "english_name": "Douha",
     "arabic_name": "دوحة",
     "meaning": "(Zuhaa) Forenoon, Name: Shamsu-Zuhaa.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Dowana",
@@ -15435,13 +14223,13 @@ export const namesData = [
     "english_name": "Duha",
     "arabic_name": "دوحة",
     "meaning": "Forenoon, (This name is generally pronounced as Zohya in non-Arabic speaking countries like Pakistan/India).",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Duhat",
     "arabic_name": "دوحة",
     "meaning": "Duhat is an Arabic name for boys and girls that means intelligent, sensible. It is a plural of Dahee.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Duhr",
@@ -15471,7 +14259,7 @@ export const namesData = [
     "english_name": "Durrah",
     "arabic_name": "دوره",
     "meaning": "Companion of prophet muhammad (bpuh)",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Durrishahwar",
@@ -15528,21 +14316,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Dara",
-    "arabic_name": "دارا",
-    "meaning": "Possessor, sovereign.",
-    "gender": "male"
-  },
-  {
     "english_name": "Darab",
     "arabic_name": "ضرب",
     "meaning": "Big gate, a name: Justice Darab Patel",
-    "gender": "male"
-  },
-  {
-    "english_name": "Darakhshan",
-    "arabic_name": "درخشا",
-    "meaning": "Bright, shining, pearl-like.",
     "gender": "male"
   },
   {
@@ -15555,12 +14331,6 @@ export const namesData = [
     "english_name": "Dareeq",
     "arabic_name": "درق",
     "meaning": "Dareeq is an Arabic name for boys that means mender, fixer, improver.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Daria",
-    "arabic_name": "ضارية",
-    "meaning": "Daria is a Persian name for boys that means owner, acquirer, figuratively meaning wealthy, blessed. Daria is the name of a king of Persia.",
     "gender": "male"
   },
   {
@@ -15708,18 +14478,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Dibaaj",
-    "arabic_name": "ديباج",
-    "meaning": "Dibaaj is an Arabic name for boys and girls that refers to a type of silk cloth.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Didar",
-    "arabic_name": "ديدار",
-    "meaning": "Vision, sight.",
-    "gender": "male"
-  },
-  {
     "english_name": "Dihya",
     "arabic_name": "ضحية",
     "meaning": "handsome,sahabi, leader of soldiers",
@@ -15774,12 +14532,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Dildar",
-    "arabic_name": "دلدار",
-    "meaning": "Charming, beloved",
-    "gender": "male"
-  },
-  {
     "english_name": "Dilf",
     "arabic_name": "دلف",
     "meaning": "Dilf is an Arabic name for boys that means brave, bold.",
@@ -15792,27 +14544,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Dilshad",
-    "arabic_name": "دلشاد",
-    "meaning": "Happy",
-    "gender": "male"
-  },
-  {
     "english_name": "Din",
     "arabic_name": "دين",
     "meaning": "Religion, faith, belief.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Dina",
-    "arabic_name": "دينا",
-    "meaning": "It was the name of the grandfater of Abu Bin Thabit.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Dinar",
-    "arabic_name": "دينار",
-    "meaning": "Name of the grandfather of Abu Bin Thabit.",
     "gender": "male"
   },
   {
@@ -16299,7 +15033,7 @@ export const namesData = [
     "english_name": "Farokh",
     "arabic_name": "فروخ",
     "meaning": "Farokh is a Persian name for boys and girls that means blessed, fortunate, good, agreeable.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farradah",
@@ -16347,19 +15081,19 @@ export const namesData = [
     "english_name": "Farvardin",
     "arabic_name": "فرفردن",
     "meaning": "Farvardin is a Persian name for boys and girls that is the name of the first month of the Persian calendar. Its literal meaning is protector of the good and pure people.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farwa",
     "arabic_name": "فروع",
     "meaning": "Farwa is an indirect Quranic name for girls and less commonly for boys (though originally it was more common for males in Arab cultures) that means crown, wealth. It is derived from the F-R-A (to create, to invent, fur, covering) which is used in many places in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farwah",
     "arabic_name": "فرواه",
     "meaning": "Some companions had this name, for instance Ibn-Musayk and Ibn-Nawfal, and ibn-Amr.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Farya",
@@ -16401,13 +15135,13 @@ export const namesData = [
     "english_name": "Firasah",
     "arabic_name": "فرصه",
     "meaning": "Perspicacity, acumen.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Firdaus",
     "arabic_name": "فردوس",
     "meaning": "Arabic, Iranian Derived from the Arabic word  (firdaws) meaning \"paradise\", ultimately derived from Avestan pairidaeza meaning \"garden, enclosure\".",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Firdausi",
@@ -16437,7 +15171,7 @@ export const namesData = [
     "english_name": "Firdous",
     "arabic_name": "فردوس",
     "meaning": "Garden, paradise",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Firdowsa",
@@ -16461,13 +15195,13 @@ export const namesData = [
     "english_name": "Firtan",
     "arabic_name": "فرطا",
     "meaning": "Firtan is an Arabic name for boys and girls that means water that is extremely fresh and refreshing to drink.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Firuz",
     "arabic_name": "فيروز",
     "meaning": "Iranian, Arabic Means \"successful\" in Persian.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Firuze",
@@ -16485,7 +15219,7 @@ export const namesData = [
     "english_name": "Firyal",
     "arabic_name": "فريال",
     "meaning": "Firyal is a Persian name for boys and girls that means one who has a beautiful neck, figuratively meaning good-looking, beautiful.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Firzah",
@@ -16521,7 +15255,7 @@ export const namesData = [
     "english_name": "Fizza",
     "arabic_name": "فيزا",
     "meaning": "Silver, Ibn Abu Mawdood, a narrator of Hadith had this name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fizzah",
@@ -16533,7 +15267,7 @@ export const namesData = [
     "english_name": "Fizzi",
     "arabic_name": "فيز",
     "meaning": "Fizzi is an Arabic name for boys and girls that means silvery, made of silver, colored like silver.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fizziyah",
@@ -16632,12 +15366,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Baqa",
-    "arabic_name": "باقة",
-    "meaning": "Survival, immortality, etern",
-    "gender": "male"
-  },
-  {
     "english_name": "Baqai",
     "arabic_name": "باقي",
     "meaning": "Immortal.",
@@ -16686,18 +15414,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Baraa",
-    "arabic_name": "براء",
-    "meaning": "one who cure, sahabi name( al baraa ibnu malik)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Baraaem",
-    "arabic_name": "برايم",
-    "meaning": "Baraaem is an Arabic name for boys and girls that means unopened flower bud, figuratively meaning young, fresh, innocent.",
-    "gender": "male"
-  },
-  {
     "english_name": "Barack",
     "arabic_name": "باراك",
     "meaning": "Variant transcription of BARAK",
@@ -16725,18 +15441,6 @@ export const namesData = [
     "english_name": "Barak",
     "arabic_name": "بارك",
     "meaning": "Meanings \"blessing\" in Arabic.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Baraka",
-    "arabic_name": "باركا",
-    "meaning": "Blessings, abundance",
-    "gender": "male"
-  },
-  {
-    "english_name": "Barakah",
-    "arabic_name": "بركه",
-    "meaning": "Blessing",
     "gender": "male"
   },
   {
@@ -16866,12 +15570,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Dalu",
-    "arabic_name": "دلع",
-    "meaning": "Dalu is an Arabic name for boys and girls that means well bucket, a bucket that is attached to a rope and is used for collecting water from a well. It is used in the Quran in verse 12:19.",
-    "gender": "male"
-  },
-  {
     "english_name": "Dameer",
     "arabic_name": "ضمير",
     "meaning": "Heart, Conscience",
@@ -16890,21 +15588,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Dana",
-    "arabic_name": "دانا",
-    "meaning": "Wise, learned.",
-    "gender": "male"
-  },
-  {
     "english_name": "Daneer",
     "arabic_name": "دينير",
     "meaning": "Daneer is an Arabic name for boys that means radiant, full of light.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Danesh",
-    "arabic_name": "دانش",
-    "meaning": "Danesh is a Persian name for boys and girls that means knowledge, wisdom.",
     "gender": "male"
   },
   {
@@ -16932,24 +15618,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Eiman",
-    "arabic_name": "إيمان",
-    "meaning": "Ezaz",
-    "gender": "male"
-  },
-  {
-    "english_name": "Einas",
-    "arabic_name": "إيناس",
-    "meaning": "Einas is an Arabic name for boys and girls that means to feel at peace, to become tranquil, to stop being afraid.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Eira",
-    "arabic_name": "إيراء",
-    "meaning": "Kindling, to kindle a fire, to start a fire. It is derived from the W-R-Y root which is used in many places in the Quran.",
-    "gender": "male"
-  },
-  {
     "english_name": "Eisa",
     "arabic_name": "عيسى",
     "meaning": "A Prophets name (Jesus)",
@@ -16968,21 +15636,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Eithar",
-    "arabic_name": "إيثار",
-    "meaning": "Eithar is an Arabic name for boys and girls that means to love another person and to give them preference over yourself.",
-    "gender": "male"
-  },
-  {
     "english_name": "Eitzaz",
     "arabic_name": "إعتزاز",
     "meaning": "Name of prophet",
-    "gender": "male"
-  },
-  {
-    "english_name": "Eiwa",
-    "arabic_name": "إيوا",
-    "meaning": "Caring, Guardian and Protector",
     "gender": "male"
   },
   {
@@ -17016,12 +15672,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Elaf",
-    "arabic_name": "إيلاف",
-    "meaning": "Safety and Security",
-    "gender": "male"
-  },
-  {
     "english_name": "Eliar",
     "arabic_name": "العار",
     "meaning": "Eliar is a Turkish-Persian name for boys that means friend of the people, beloved of the people.",
@@ -17031,12 +15681,6 @@ export const namesData = [
     "english_name": "Elias",
     "arabic_name": "إلياس",
     "meaning": "Name of one Prophet.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Elijah",
-    "arabic_name": "العجه",
-    "meaning": "Beautyful,sweet, smart,Loving",
     "gender": "male"
   },
   {
@@ -17127,7 +15771,7 @@ export const namesData = [
     "english_name": "Fahm",
     "arabic_name": "فاهم",
     "meaning": "Fahm is an Arabic name for boys that means understanding, comprehension.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fahmara",
@@ -17139,7 +15783,7 @@ export const namesData = [
     "english_name": "Fahmat",
     "arabic_name": "فهمت",
     "meaning": "Fahmat is an Arabic name for boys and girls that means understanding, comprehension.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fahmedah",
@@ -17217,7 +15861,7 @@ export const namesData = [
     "english_name": "Fairuz",
     "arabic_name": "فيروز",
     "meaning": "Variant of Arabic Fayruz, meaning 'turquoise.'",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fairuza",
@@ -17253,7 +15897,7 @@ export const namesData = [
     "english_name": "Faizee",
     "arabic_name": "فايز",
     "meaning": "Virtuous, Pious, God-Fearing and Devoted to God",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Faizia",
@@ -17295,7 +15939,7 @@ export const namesData = [
     "english_name": "Fakhitah",
     "arabic_name": "فاخته",
     "meaning": "A dove, a ringed turtledove, the name of a Sahabiyyah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fakhr-jahan",
@@ -17313,7 +15957,7 @@ export const namesData = [
     "english_name": "Fakhri",
     "arabic_name": "فخري",
     "meaning": "Honorary, glorious, Proud (for noble cause)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fakhriya",
@@ -17379,7 +16023,7 @@ export const namesData = [
     "english_name": "Falak",
     "arabic_name": "فلك",
     "meaning": "Falak is a direct Quranic name for boys and girls that means orbit, space, cosmos, path of the galaxies and ship. The word Falak is used twice in the Quran, in verses 21:33 and 36:40.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Falakara",
@@ -17403,7 +16047,7 @@ export const namesData = [
     "english_name": "Falaq",
     "arabic_name": "فالق",
     "meaning": "Dawn, Twilight and Morning",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Faleehah",
@@ -17415,7 +16059,7 @@ export const namesData = [
     "english_name": "Falih",
     "arabic_name": "فعليه",
     "meaning": "Fortunate, lucky, successful, prosperous.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Faliha",
@@ -17625,7 +16269,7 @@ export const namesData = [
     "english_name": "Ghadeer",
     "arabic_name": "غدير",
     "meaning": "Ghadeer is an Arabic name for boys small stream. It also means a spring from which a small stream flows.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghadia",
@@ -17655,18 +16299,6 @@ export const namesData = [
     "english_name": "Fahkir",
     "arabic_name": "فحقير",
     "meaning": "Proud",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fahm",
-    "arabic_name": "فاهم",
-    "meaning": "Fahm is an Arabic name for boys that means understanding, comprehension.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fahmat",
-    "arabic_name": "فهمت",
-    "meaning": "Fahmat is an Arabic name for boys and girls that means understanding, comprehension.",
     "gender": "male"
   },
   {
@@ -17748,12 +16380,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Fairuz",
-    "arabic_name": "فيروز",
-    "meaning": "Variant of Arabic Fayruz, meaning 'turquoise.'",
-    "gender": "male"
-  },
-  {
     "english_name": "Faisal",
     "arabic_name": "فيصل",
     "meaning": "Umpire, arbitrator, decisive, sword, a judge, Strong, handsome",
@@ -17802,12 +16428,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Faizee",
-    "arabic_name": "فايز",
-    "meaning": "Virtuous, Pious, God-Fearing and Devoted to God",
-    "gender": "male"
-  },
-  {
     "english_name": "Faizeen",
     "arabic_name": "فايزين",
     "meaning": "Honest",
@@ -17832,21 +16452,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Faras",
-    "arabic_name": "فرس",
-    "meaning": "Faras is an Arabic name for boys and girls that means mount, a horse used for riding.",
-    "gender": "male"
-  },
-  {
     "english_name": "Farasat",
     "arabic_name": "فرست",
     "meaning": "Perception, sagacity",
-    "gender": "male"
-  },
-  {
-    "english_name": "Faraz",
-    "arabic_name": "فرز",
-    "meaning": "Ascent, Height, Exalted",
     "gender": "male"
   },
   {
@@ -17883,12 +16491,6 @@ export const namesData = [
     "english_name": "Fardain",
     "arabic_name": "فاردين",
     "meaning": "Fardain is an Arabic name for boys that means unique, peerless, being the plural of Fard. It can also be a variant of the Persian boy name Fardeen.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fardan",
-    "arabic_name": "فردان",
-    "meaning": "Unique",
     "gender": "male"
   },
   {
@@ -17994,12 +16596,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Farhat",
-    "arabic_name": "فرحات",
-    "meaning": "Calm, satisfaction, happiness, Joy.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ghufrah",
     "arabic_name": "غفره",
     "meaning": "Ghufrah is an Arabic name for girls that means female baby mountain goat.",
@@ -18009,7 +16605,7 @@ export const namesData = [
     "english_name": "Ghufran",
     "arabic_name": "غفران",
     "meaning": "Forgiving, to conceal, Another name for god, pardon, benevolence.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghufrana",
@@ -18063,7 +16659,7 @@ export const namesData = [
     "english_name": "Ghurrah",
     "arabic_name": "غيوره",
     "meaning": "Ghurrah is an Arabic name for boys and girls that means moonrise (when the moon comes up). It also means chief, leader.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghusn",
@@ -18093,7 +16689,7 @@ export const namesData = [
     "english_name": "Ghusun",
     "arabic_name": "غصون",
     "meaning": "Branches of tree.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghuwaidah",
@@ -18270,12 +16866,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Fakhitah",
-    "arabic_name": "فاخته",
-    "meaning": "A dove, a ringed turtledove, the name of a Sahabiyyah.",
-    "gender": "male"
-  },
-  {
     "english_name": "Fakhr",
     "arabic_name": "فاخر",
     "meaning": "Glory, pride, honour, Something to feel proud about..",
@@ -18297,12 +16887,6 @@ export const namesData = [
     "english_name": "Fakhr-ud-din",
     "arabic_name": "فخرددن",
     "meaning": "Pride of the religion (Islam).",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fakhri",
-    "arabic_name": "فخري",
-    "meaning": "Honorary, glorious, Proud (for noble cause)",
     "gender": "male"
   },
   {
@@ -18342,27 +16926,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Falak",
-    "arabic_name": "فلك",
-    "meaning": "Falak is a direct Quranic name for boys and girls that means orbit, space, cosmos, path of the galaxies and ship. The word Falak is used twice in the Quran, in verses 21:33 and 36:40.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Falaq",
-    "arabic_name": "فالق",
-    "meaning": "Dawn, Twilight and Morning",
-    "gender": "male"
-  },
-  {
     "english_name": "Faleeh",
     "arabic_name": "فعليه",
     "meaning": "Faleeh is an Arabic name for boys that means successful.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Falih",
-    "arabic_name": "فعليه",
-    "meaning": "Fortunate, lucky, successful, prosperous.",
     "gender": "male"
   },
   {
@@ -18450,12 +17016,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Fara",
-    "arabic_name": "فرى",
-    "meaning": "Variant transcription of FARAJ",
-    "gender": "male"
-  },
-  {
     "english_name": "Faraasat",
     "arabic_name": "فراسة",
     "meaning": "Perception, discernment, sagacity, understanding, insight",
@@ -18468,21 +17028,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Farafisa",
-    "arabic_name": "فرافيصا",
-    "meaning": "Name of a companion, bin Umayr al-Hanafi",
-    "gender": "male"
-  },
-  {
     "english_name": "Farag",
     "arabic_name": "فرج",
     "meaning": "remedy",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farah",
-    "arabic_name": "فرح",
-    "meaning": "joy in Arabic. Male and Female",
     "gender": "male"
   },
   {
@@ -18495,12 +17043,6 @@ export const namesData = [
     "english_name": "Farahan",
     "arabic_name": "فرحان",
     "meaning": "Happiness, Laughter, Joy and Delight.Farahan is a common variant of the Arabic boy name Farhan,which means happy, joyful.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farahat",
-    "arabic_name": "فرحات",
-    "meaning": "Joys, delights.",
     "gender": "male"
   },
   {
@@ -18525,12 +17067,6 @@ export const namesData = [
     "english_name": "Farajullah",
     "arabic_name": "فارجولله",
     "meaning": "Farajullah is an Arabic name for boys that means Gods relief, Gods rescue, relief and rescue that comes from God.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farakh",
-    "arabic_name": "فراقه",
-    "meaning": "Farakh is a Persian name for boys and girls that means relief, end of fear, comfort after anxiety.",
     "gender": "male"
   },
   {
@@ -18726,18 +17262,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Farheen",
-    "arabic_name": "فرحين",
-    "meaning": "Happiness, Laughter, Joy and Delight",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farhi",
-    "arabic_name": "فرحي",
-    "meaning": "Farhi is an Arabic name for boys that means happy, joyous, content.",
-    "gender": "male"
-  },
-  {
     "english_name": "Farhiyyan",
     "arabic_name": "فرحين",
     "meaning": "Farhiyyan is an Arabic name for boys that means happy, content.",
@@ -18756,21 +17280,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Farid",
-    "arabic_name": "فريد",
-    "meaning": "Unique, matchless,Singular, Rare, precious, a precious pearl.",
-    "gender": "male"
-  },
-  {
     "english_name": "Farid-uddin",
     "arabic_name": "فرددن",
     "meaning": "Unique (person) of the religion (Islam)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farida",
-    "arabic_name": "فريدة",
-    "meaning": "Unique",
     "gender": "male"
   },
   {
@@ -18861,12 +17373,6 @@ export const namesData = [
     "english_name": "Farnoud",
     "arabic_name": "فرند",
     "meaning": "Farnoud is a Persian name for boys that means evidence, clue.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farokh",
-    "arabic_name": "فروخ",
-    "meaning": "Farokh is a Persian name for boys and girls that means blessed, fortunate, good, agreeable.",
     "gender": "male"
   },
   {
@@ -18999,7 +17505,7 @@ export const namesData = [
     "english_name": "Gulshan",
     "arabic_name": "جلسها",
     "meaning": "A flower or rose garden",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Gulzaar",
@@ -19011,7 +17517,7 @@ export const namesData = [
     "english_name": "Gulzar",
     "arabic_name": "غلظر",
     "meaning": "Flower bed, A Garden, an inhabited town.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Guzeeda",
@@ -19122,21 +17628,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Amsal",
-    "arabic_name": "أمثال",
-    "meaning": "High Status, Exalted, Sublime and Superb",
-    "gender": "female"
-  },
-  {
     "english_name": "Amtullah",
     "arabic_name": "أمتلله",
     "meaning": "Female servant of Allah",
-    "gender": "female"
-  },
-  {
-    "english_name": "Amyali",
-    "arabic_name": "أميلي",
-    "meaning": "Amyali is an Arabic name for boys and girls that means desirous, ambitious for something.",
     "gender": "female"
   },
   {
@@ -19170,12 +17664,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Anahid",
-    "arabic_name": "أناهيد",
-    "meaning": "Immaculate",
-    "gender": "female"
-  },
-  {
     "english_name": "Anahit",
     "arabic_name": "أنهيت",
     "meaning": "Anahit is an Avestan (an ancient Persian language) name for girls that means pure. It is a variant of the Avestan word Anahita.",
@@ -19188,30 +17676,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Anam",
-    "arabic_name": "أنام",
-    "meaning": "Creatures.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anan",
-    "arabic_name": "أنا",
-    "meaning": "Clouds.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anaqat",
-    "arabic_name": "أناقة",
-    "meaning": "Anaqat is a Persian and Urdu name for boys and girls that means elegance.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anar",
-    "arabic_name": "أنار",
-    "meaning": "Light and Radiance",
-    "gender": "female"
-  },
-  {
     "english_name": "Anarat",
     "arabic_name": "أنارت",
     "meaning": "Light and Radiance",
@@ -19221,18 +17685,6 @@ export const namesData = [
     "english_name": "Anasa",
     "arabic_name": "أنسى",
     "meaning": "serenity, tranquility, peace of mind, end of fear and anxiety.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anasat",
-    "arabic_name": "أنصت",
-    "meaning": "Serenity and Tranquility. BLANKENTER Anasat is a Persian and Urdu name for boys and girls that means tranquility, peace of mind, lack of fear and worry. It is a variant of the Arabic name Anasa.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anasi",
-    "arabic_name": "أنسي",
-    "meaning": "Friendly and Hospitable",
     "gender": "female"
   },
   {
@@ -19251,12 +17703,6 @@ export const namesData = [
     "english_name": "Anaum",
     "arabic_name": "أنام",
     "meaning": "The blessing of Allah",
-    "gender": "female"
-  },
-  {
-    "english_name": "Anaya",
-    "arabic_name": "أني",
-    "meaning": "Caring, Guardian, Protector",
     "gender": "female"
   },
   {
@@ -19326,18 +17772,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Behrokh",
-    "arabic_name": "بحركه",
-    "meaning": "Behrokh is a Persian for girls and boys that means good-looking, beautiful. Behrokh is made up of Beh (good, pretty) and rokh (face, appearance).",
-    "gender": "female"
-  },
-  {
-    "english_name": "Behsa",
-    "arabic_name": "بحصة",
-    "meaning": "Behsa is a Persian name for boys and girls that means good, kind, virtuous, honorable. It is formed from Beh (good) and -sa (like), thus the literal meaning is one who is similar to good and virtuous people.",
-    "gender": "female"
-  },
-  {
     "english_name": "Behshid",
     "arabic_name": "بحشد",
     "meaning": "Behshid is a Persian name for girls that means brilliant, radiant, glowing.",
@@ -19353,12 +17787,6 @@ export const namesData = [
     "english_name": "Benazeer",
     "arabic_name": "بنازير",
     "meaning": "Matchless, Unique",
-    "gender": "female"
-  },
-  {
-    "english_name": "Benazir",
-    "arabic_name": "بنازير",
-    "meaning": "Unequalled, matchless, unique",
     "gender": "female"
   },
   {
@@ -19386,20 +17814,8 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Bidar",
-    "arabic_name": "بدر",
-    "meaning": "Bidar is an Arabic name for boys and girls that means punctuality, being early and on time. Bidar can also be a Persian name meaning awake. In the Persian version the i is a long sound, as Beedar.",
-    "gender": "female"
-  },
-  {
     "english_name": "Bidayah",
     "arabic_name": "بيديه",
-    "meaning": "Beginning and Inception",
-    "gender": "female"
-  },
-  {
-    "english_name": "Bidayat",
-    "arabic_name": "بداية",
     "meaning": "Beginning and Inception",
     "gender": "female"
   },
@@ -19446,18 +17862,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Dost",
-    "arabic_name": "دوست",
-    "meaning": "Friend.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Douha",
-    "arabic_name": "دوحة",
-    "meaning": "(Zuhaa) Forenoon, Name: Shamsu-Zuhaa.",
-    "gender": "female"
-  },
-  {
     "english_name": "Dounia",
     "arabic_name": "دنيا",
     "meaning": "terrestrial life",
@@ -19485,18 +17889,6 @@ export const namesData = [
     "english_name": "Dubaah",
     "arabic_name": "ذباح",
     "meaning": "Daughter of az-Zubayr and a female companion (R.A) she said to the Prophet (S.A.W) that she intended to perform the pilgrimage but was suffering from pain. The Prophet (S.A.W) instructed her to assume",
-    "gender": "female"
-  },
-  {
-    "english_name": "Duha",
-    "arabic_name": "دوحة",
-    "meaning": "Forenoon, (This name is generally pronounced as Zohya in non-Arabic speaking countries like Pakistan/India).",
-    "gender": "female"
-  },
-  {
-    "english_name": "Duhat",
-    "arabic_name": "دوحة",
-    "meaning": "Duhat is an Arabic name for boys and girls that means intelligent, sensible. It is a plural of Dahee.",
     "gender": "female"
   },
   {
@@ -19572,12 +17964,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Durrah",
-    "arabic_name": "دوره",
-    "meaning": "Companion of prophet muhammad (bpuh)",
-    "gender": "female"
-  },
-  {
     "english_name": "Durrdana",
     "arabic_name": "دردنا",
     "meaning": "Pearl",
@@ -19617,7 +18003,7 @@ export const namesData = [
     "english_name": "Duryab",
     "arabic_name": "دريب",
     "meaning": "Duryab is a Persian name for boys and girls that means finder of good things, bringer of good things. Its literal meaning is finder of pearls. Duryab is formed from the Arabic word Dur (pearl) and the Persian suffix -yab (finder, acquirer).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Haiqa",
@@ -19980,18 +18366,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Bokhur",
-    "arabic_name": "بخور",
-    "meaning": "Bokhur is an Arabic name for boys that means incense, woods and oils that are burned for their scent.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Borna",
-    "arabic_name": "برنا",
-    "meaning": "Borna is a Persian name for boys that means young, brave.",
-    "gender": "male"
-  },
-  {
     "english_name": "Borumand",
     "arabic_name": "بروماند",
     "meaning": "Borumand is a Persian name for boys that means productive, powerful, well-guided, blessed.",
@@ -20007,12 +18381,6 @@ export const namesData = [
     "english_name": "Borzou",
     "arabic_name": "برز",
     "meaning": "Borzou is a Persian name for boys that means high in status, it is the name of the son of Sohrab, son of Rustam e Zal in Persian mythology. The origin of the name is the Avestan language.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Boshry",
-    "arabic_name": "بشري",
-    "meaning": "Boshry is an Arabic name for boys and girls that means gladness, happiness.",
     "gender": "male"
   },
   {
@@ -20106,20 +18474,8 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Budur",
-    "arabic_name": "بدور",
-    "meaning": "Moon and Moonlight.Budur is an Arabic name for boys and girls that means full moons. It is the plural of Badr.",
-    "gender": "male"
-  },
-  {
     "english_name": "Buhair",
     "arabic_name": "بحير",
-    "meaning": "Sea, Ocean and River",
-    "gender": "male"
-  },
-  {
-    "english_name": "Buhur",
-    "arabic_name": "بحور",
     "meaning": "Sea, Ocean and River",
     "gender": "male"
   },
@@ -20133,12 +18489,6 @@ export const namesData = [
     "english_name": "Bujair",
     "arabic_name": "بجير",
     "meaning": "Name of Sahabi RA who known as Bujair ibn Bujair was present in the battle of Badr.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Bujud",
-    "arabic_name": "بوجود",
-    "meaning": "Bujud is an Arabic name for boys and girls that means to stay , to be a resident. It also means group of people.",
     "gender": "male"
   },
   {
@@ -20172,18 +18522,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Firasah",
-    "arabic_name": "فرصه",
-    "meaning": "Perspicacity, acumen.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Firdaus",
-    "arabic_name": "فردوس",
-    "meaning": "Arabic, Iranian Derived from the Arabic word  (firdaws) meaning \"paradise\", ultimately derived from Avestan pairidaeza meaning \"garden, enclosure\".",
-    "gender": "male"
-  },
-  {
     "english_name": "Firdo",
     "arabic_name": "فيرده",
     "meaning": "Highest garden in paradise",
@@ -20193,12 +18531,6 @@ export const namesData = [
     "english_name": "Firdos",
     "arabic_name": "فردوس",
     "meaning": "Variant transcription of FIRDAUS",
-    "gender": "male"
-  },
-  {
-    "english_name": "Firdous",
-    "arabic_name": "فردوس",
-    "meaning": "Garden, paradise",
     "gender": "male"
   },
   {
@@ -20220,45 +18552,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Firtan",
-    "arabic_name": "فرطا",
-    "meaning": "Firtan is an Arabic name for boys and girls that means water that is extremely fresh and refreshing to drink.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Firuz",
-    "arabic_name": "فيروز",
-    "meaning": "Iranian, Arabic Means \"successful\" in Persian.",
-    "gender": "male"
-  },
-  {
     "english_name": "Firwad",
     "arabic_name": "فروض",
     "meaning": "Firwad is an Arabic name for boys that means independent-minded, unique in his opinions.",
     "gender": "male"
   },
   {
-    "english_name": "Firyal",
-    "arabic_name": "فريال",
-    "meaning": "Firyal is a Persian name for boys and girls that means one who has a beautiful neck, figuratively meaning good-looking, beautiful.",
-    "gender": "male"
-  },
-  {
     "english_name": "Fizan",
     "arabic_name": "فيزا",
     "meaning": "Popularity, Breeze",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fizza",
-    "arabic_name": "فيزا",
-    "meaning": "Silver, Ibn Abu Mawdood, a narrator of Hadith had this name.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fizzi",
-    "arabic_name": "فيز",
-    "meaning": "Fizzi is an Arabic name for boys and girls that means silvery, made of silver, colored like silver.",
     "gender": "male"
   },
   {
@@ -20370,12 +18672,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Baha",
-    "arabic_name": "بها",
-    "meaning": "Beauty, glow, splendor magnificence.",
-    "gender": "male"
-  },
-  {
     "english_name": "Baha-al-din",
     "arabic_name": "بهالدن",
     "meaning": "Magnificence of the faith",
@@ -20391,18 +18687,6 @@ export const namesData = [
     "english_name": "Bahadur",
     "arabic_name": "بحضور",
     "meaning": "Iranian, ArabicPersian form of the Turkic term Baghatur meaning \"hero, warrior, brave\",Bold, The last Mughal emperor (d. 1862)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Bahamin",
-    "arabic_name": "بهمن",
-    "meaning": "Bahamin is a Persian name for boys and girls that means spring (the season). It comes from Pahlavi (ancient Persian) origins.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Bahar",
-    "arabic_name": "بحر",
-    "meaning": "Sea",
     "gender": "male"
   },
   {
@@ -20472,12 +18756,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Bahiri",
-    "arabic_name": "بحيري",
-    "meaning": "Bahiri is an Arabic name for boys and girls that means brilliant, prominent, renowned.",
-    "gender": "male"
-  },
-  {
     "english_name": "Bahirun",
     "arabic_name": "بهرن",
     "meaning": "Bahirun is an Arabic name for boys that is the plural of Bahir, which means brilliant, lucid, renowned.",
@@ -20541,7 +18819,7 @@ export const namesData = [
     "english_name": "Furat",
     "arabic_name": "فورت",
     "meaning": "Furat is an Arabic name for boys and girls that means fresh, sweet water, water that is refreshing to drink is not salty or bitter. It is also the Arabic name for the Euphrates River, which is a river than originates in Turkey and flows through Syria and Iraq to join with the Tigris River in the southern Iraq.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Furhud",
@@ -20595,7 +18873,7 @@ export const namesData = [
     "english_name": "Fursat",
     "arabic_name": "فرصة",
     "meaning": "Fursat is the Turkish form of the Arabic name Fursah, which means opportunity, right time. It is used for boys and girls.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Furud",
@@ -20793,7 +19071,7 @@ export const namesData = [
     "english_name": "Eshaal",
     "arabic_name": "إشعال",
     "meaning": "Kindled-- Enlivened and Excited",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Eshal",
@@ -20811,7 +19089,7 @@ export const namesData = [
     "english_name": "Etemad",
     "arabic_name": "تمد",
     "meaning": "Etemad is an Arabic name for boys and girls that means reliance, trust, confidence in another person.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Etimad",
@@ -21009,7 +19287,7 @@ export const namesData = [
     "english_name": "Gul",
     "arabic_name": "جعل",
     "meaning": "Flower.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Gul-bano",
@@ -21027,7 +19305,7 @@ export const namesData = [
     "english_name": "Gul-e-rana",
     "arabic_name": "جلرنا",
     "meaning": "A beautiful flower.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Gul-filiz",
@@ -21051,13 +19329,13 @@ export const namesData = [
     "english_name": "Gul-rang",
     "arabic_name": "جلرنج",
     "meaning": "Colour of Flowers.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Gulab",
     "arabic_name": "جلب",
     "meaning": "Rose.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Chanan",
@@ -21072,21 +19350,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Chand",
-    "arabic_name": "كند",
-    "meaning": "Moon",
-    "gender": "male"
-  },
-  {
     "english_name": "Changez",
     "arabic_name": "كينجز",
     "meaning": "Firm, Solid",
-    "gender": "male"
-  },
-  {
-    "english_name": "Charagh",
-    "arabic_name": "شرجه",
-    "meaning": "Lamp, Light, lantern, the Sun.",
     "gender": "male"
   },
   {
@@ -21099,18 +19365,6 @@ export const namesData = [
     "english_name": "Chawki",
     "arabic_name": "شوقي",
     "meaning": "pleasant",
-    "gender": "male"
-  },
-  {
-    "english_name": "Cheragh",
-    "arabic_name": "شرجه",
-    "meaning": "Lamp, Light, lantern, the Sun.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Chessy",
-    "arabic_name": "كسي",
-    "meaning": "Peaceful",
     "gender": "male"
   },
   {
@@ -21192,12 +19446,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Dabir",
-    "arabic_name": "دَابِر",
-    "meaning": "teacher, instructor,  ultimate,  Judge,  shaikh",
-    "gender": "male"
-  },
-  {
     "english_name": "Daboor",
     "arabic_name": "دبور",
     "meaning": "Morning breeze.",
@@ -21237,12 +19485,6 @@ export const namesData = [
     "english_name": "Daffa",
     "arabic_name": "دفا",
     "meaning": "Encouraging, Supportive, Defensive",
-    "gender": "male"
-  },
-  {
-    "english_name": "Duryab",
-    "arabic_name": "دريب",
-    "meaning": "Duryab is a Persian name for boys and girls that means finder of good things, bringer of good things. Its literal meaning is finder of pearls. Duryab is formed from the Arabic word Dur (pearl) and the Persian suffix -yab (finder, acquirer).",
     "gender": "male"
   },
   {
@@ -21297,18 +19539,6 @@ export const namesData = [
     "english_name": "Ebrahim",
     "arabic_name": "إبراهيم",
     "meaning": "Earth, name of a prophet",
-    "gender": "male"
-  },
-  {
-    "english_name": "Eeda",
-    "arabic_name": "إذا",
-    "meaning": "to deposit, to commit, to lodge, to consign (to give a person something to keep for you).",
-    "gender": "male"
-  },
-  {
-    "english_name": "Eezah",
-    "arabic_name": "إِيْضَاح",
-    "meaning": "Eezah is an Arabic name for boys and girls that means clarification, elucidation.",
     "gender": "male"
   },
   {
@@ -21372,21 +19602,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Eifad",
-    "arabic_name": "إيفاد",
-    "meaning": "Eifad is an Arabic name for boys and girls that means to send someone on a mission, to be fast, to be high and above something.",
-    "gender": "male"
-  },
-  {
     "english_name": "Eihab",
     "arabic_name": "إيهاب",
     "meaning": "Eihab is an Arabic name for boys that means to bestow, to give freely, to endow someone with a gift.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Eiham",
-    "arabic_name": "إيهام",
-    "meaning": "Eiham is an Arabic name for boys and girls that means illusion, fantasy.",
     "gender": "male"
   },
   {
@@ -21429,7 +19647,7 @@ export const namesData = [
     "english_name": "Hanoon",
     "arabic_name": "حنون",
     "meaning": "Compassionate, merciful, affectionate, tender-hearted, soft hearted.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hanoona",
@@ -21471,7 +19689,7 @@ export const namesData = [
     "english_name": "Hanzalah",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Haola",
@@ -21513,31 +19731,31 @@ export const namesData = [
     "english_name": "Harisah",
     "arabic_name": "حريصه",
     "meaning": "Guardian, protector ,Farmer, Ibn-Wahb was a companion who had this name",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Haritha",
     "arabic_name": "حارثة",
     "meaning": "It's an indirect Quranic name for boys and girls that means cultivator, farmer (literally one who plows), it also means lion. Haritha is an ancient Arabic name for boys and is a stronger form of Harith, and it is the name of many Sahaba(companions of the Prophet(PBUH), such as Haritha ibn ar-Rabee, Haritha bin Badr,",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Harmalah",
     "arabic_name": "حرملة",
     "meaning": "A Plant (African rue), An Egyption disciple of Shafaee had this name. He was Ibn Yahya.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Haroona",
     "arabic_name": "هارون",
     "meaning": "It's an indirect Quranic name for boys and girls. It is a non-standard modification of the Quranic name Harun, common mostly in Africa (for boys) and South Asia (for girls).Since Harun is not an Arabic word, the meaning is not perfectly known. Some sources say it means mountain.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Harz",
     "arabic_name": "حرز",
     "meaning": "Harz is an Arabic name for boys and girls that means to protect, to guard.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Harzanah",
@@ -21603,7 +19821,7 @@ export const namesData = [
     "english_name": "Ghadir",
     "arabic_name": "غدير",
     "meaning": "She was a slave of Musa al-Hadi & Haroon Rashid.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghadiya",
@@ -21711,7 +19929,7 @@ export const namesData = [
     "english_name": "Gharam",
     "arabic_name": "غرام",
     "meaning": "Gharam is an Arabic name for boys and girls that means infatuation, love, devotion.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghareezat",
@@ -21786,21 +20004,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Fateem",
-    "arabic_name": "فطيم",
-    "meaning": "Fateem is an Arabic name for boys and girls that means a baby that has been weaned off breast milk.",
-    "gender": "male"
-  },
-  {
     "english_name": "Fateen",
     "arabic_name": "فطين",
     "meaning": "Clever, Smart",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fateenah",
-    "arabic_name": "فاتنه",
-    "meaning": "Intelligent",
     "gender": "male"
   },
   {
@@ -21846,12 +20052,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Fatiha",
-    "arabic_name": "فتيحة",
-    "meaning": "Opening",
-    "gender": "male"
-  },
-  {
     "english_name": "Fatihi",
     "arabic_name": "فتيحي",
     "meaning": "Fatihi is an Arabic name for boys that means conqueror, originator. It is the attributive form of Fatih.",
@@ -21861,18 +20061,6 @@ export const namesData = [
     "english_name": "Fatik",
     "arabic_name": "فاتك",
     "meaning": "Deadly, Lethal, Ibn-Fadalah a narrator of Hadith was so named.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fatim",
-    "arabic_name": "فطيم",
-    "meaning": "Fatim is an Arabic name for girls that means a mother who has weaned her baby off breast milk. It can also be a pet form of Fatimah, meaning a child who has been weaned off breast milk.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fatin",
-    "arabic_name": "فاتن",
-    "meaning": "Clever, fascinating, smart.",
     "gender": "male"
   },
   {
@@ -21915,12 +20103,6 @@ export const namesData = [
     "english_name": "Fauhad",
     "arabic_name": "فهد",
     "meaning": "Healthy child",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fauz",
-    "arabic_name": "فوز",
-    "meaning": "Winning, Victory and Triumph",
     "gender": "male"
   },
   {
@@ -21972,12 +20154,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Anzar",
-    "arabic_name": "أنظر",
-    "meaning": "Angel of paradise",
-    "gender": "female"
-  },
-  {
     "english_name": "Apana",
     "arabic_name": "أبانا",
     "meaning": "Almond.",
@@ -21987,12 +20163,6 @@ export const namesData = [
     "english_name": "Aphra",
     "arabic_name": "عفرا",
     "meaning": "Variant of Arabic Afra, meaning 'pink' or 'reddish'white.'",
-    "gender": "female"
-  },
-  {
-    "english_name": "Aqdas",
-    "arabic_name": "أقدس",
-    "meaning": "Most holy, more or most sacred.",
     "gender": "female"
   },
   {
@@ -22008,33 +20178,15 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Aqiq",
-    "arabic_name": "عقيق",
-    "meaning": "Aqiq is an Arabic, Persian and Urdu name for boys and girls that means agate, which is a type of precious stone. Aqiq is also the name of various places in the Arabia, including a place near the city of Medina in Saudi Arabia.",
-    "gender": "female"
-  },
-  {
     "english_name": "Aqlimah",
     "arabic_name": "قلمه",
     "meaning": "Intelligent,Wise,Daughter of prophet Adam,Sister of Qabeel",
     "gender": "female"
   },
   {
-    "english_name": "Aqrab",
-    "arabic_name": "أقرب",
-    "meaning": "Near, close.",
-    "gender": "female"
-  },
-  {
     "english_name": "Aqsa",
     "arabic_name": "أقسى",
     "meaning": "Height, limit, shore .Remote, Farthest, Name of the Mosque / Temple at Jerusalem",
-    "gender": "female"
-  },
-  {
-    "english_name": "Aqsaa",
-    "arabic_name": "اقصاء",
-    "meaning": "Utmost and Pinnacle.Aqsaa is a direct Quranic name for boys and girls that means farthest, it is the name of the third holiest site in Islam: Masjid al-Aqsa (al-Aqsa Mosque). This mosque is mentioned in the first verse of Surat al-Israa:",
     "gender": "female"
   },
   {
@@ -22056,18 +20208,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Araj",
-    "arabic_name": "أرج",
-    "meaning": "Araj is an Urdu variant of the Arabic boy and girl name Arij which means fragrance.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Aram",
-    "arabic_name": "أرام",
-    "meaning": "Quiet",
-    "gender": "female"
-  },
-  {
     "english_name": "Arameh",
     "arabic_name": "أرميه",
     "meaning": "Arameh is a Persian name for girls that means calm, serene. It is formed from the word Aram (calm), and the attribution suffix eh.",
@@ -22080,63 +20220,15 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Aran",
-    "arabic_name": "أرن",
-    "meaning": "Aran is a Kurdish, Persian and Urdu name for boys and girls that means plains (a large area of flat land with few trees). It is the name of a place in the Caucasus region to the west of the Caspian Sea.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arang",
-    "arabic_name": "رانج",
-    "meaning": "Arang is a Persian and Urdu name for boys and girls that means color, state, phase.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arar",
-    "arabic_name": "عرار",
-    "meaning": "Arar is an Arabic name for boys and girls that refers to a type of flower known as wild daffodil and Lent lily in English (scientific name Narcissus pseudonarcissus).",
-    "gender": "female"
-  },
-  {
     "english_name": "Ararah",
     "arabic_name": "عرعره",
     "meaning": "Greatness, might, strength.",
     "gender": "female"
   },
   {
-    "english_name": "Aras",
-    "arabic_name": "عرس",
-    "meaning": "Aras is a Kurdish, Persian, Turkish and Urdu name for boys and girls. In Kurdish and Persian it means equal, balanced. The word Aras commonly refers to the Aras River, which flows through Turkey, Armenia, Iran and Azerbaijan.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arash",
-    "arabic_name": "عرش",
-    "meaning": "A hero in Persian folklore ( He is sacrificed )",
-    "gender": "female"
-  },
-  {
     "english_name": "Arasteh",
     "arabic_name": "أرسطه",
     "meaning": "Arasteh is a Persian name for girls that means beautified, adorned, and can be used to describe both physical beauty and good manners.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arax",
-    "arabic_name": "آركس",
-    "meaning": "Arax is an Armenian name for boys and girls. It is the name of a river that flows through Armenia and other countries, commonly called Aras. Arax is derived from the Greek name of river, which is Araxes.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Araz",
-    "arabic_name": "أرز",
-    "meaning": "Araz is an Arabic name for boys that means provisions, commodities. It also means symptoms, such as symptoms of an illness.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Arbab",
-    "arabic_name": "أرباب",
-    "meaning": "Who looks after someone or takes care, Boss, Master, Landlord",
     "gender": "female"
   },
   {
@@ -22149,7 +20241,7 @@ export const namesData = [
     "english_name": "Hamas",
     "arabic_name": "حماس",
     "meaning": "Enthusiasm, fervour.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hamasah",
@@ -22173,7 +20265,7 @@ export const namesData = [
     "english_name": "Hamdan",
     "arabic_name": "حمدان",
     "meaning": "The praised one, The one who lauds, extols, variation of the name Muhammad.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hamdanah",
@@ -22185,7 +20277,7 @@ export const namesData = [
     "english_name": "Hamdat",
     "arabic_name": "هامدة",
     "meaning": "Hamdat is the Turkish form of the Arabic word Hamdah, which means praise. It is used for boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hamdiya",
@@ -22233,7 +20325,7 @@ export const namesData = [
     "english_name": "Hamidat",
     "arabic_name": "حميدة",
     "meaning": "Hamidat is the Turkish form of the Arabic name Hamidah. It is used for both boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hamima",
@@ -22257,7 +20349,7 @@ export const namesData = [
     "english_name": "Hammadah",
     "arabic_name": "حماده",
     "meaning": "Hammadah is an Arabic name for boys and girls that means one who praises often, especially one who praises God often. It can also be a pet form of names like Muhammad, Mahmud and others.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hammadiyyah",
@@ -22281,7 +20373,7 @@ export const namesData = [
     "english_name": "Hammuzah",
     "arabic_name": "حمزه",
     "meaning": "Hammuzah is an Arabic name for boys and girls that means lion.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hamna",
@@ -22311,7 +20403,7 @@ export const namesData = [
     "english_name": "Hamraz",
     "arabic_name": "حمراز",
     "meaning": "Confidant.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hamta",
@@ -22368,12 +20460,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ghadeer",
-    "arabic_name": "غدير",
-    "meaning": "Ghadeer is an Arabic name for boys small stream. It also means a spring from which a small stream flows.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ghadef",
     "arabic_name": "غادف",
     "meaning": "One who drives a boat",
@@ -22395,12 +20481,6 @@ export const namesData = [
     "english_name": "Ghadif",
     "arabic_name": "غديف",
     "meaning": "Ghadif is an Arabic name for boys that means generous, one who gives much",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ghadir",
-    "arabic_name": "غدير",
-    "meaning": "She was a slave of Musa al-Hadi & Haroon Rashid.",
     "gender": "male"
   },
   {
@@ -22578,24 +20658,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Farvardin",
-    "arabic_name": "فرفردن",
-    "meaning": "Farvardin is a Persian name for boys and girls that is the name of the first month of the Persian calendar. Its literal meaning is protector of the good and pure people.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farwa",
-    "arabic_name": "فروع",
-    "meaning": "Farwa is an indirect Quranic name for girls and less commonly for boys (though originally it was more common for males in Arab cultures) that means crown, wealth. It is derived from the F-R-A (to create, to invent, fur, covering) which is used in many places in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farwah",
-    "arabic_name": "فرواه",
-    "meaning": "Some companions had this name, for instance Ibn-Musayk and Ibn-Nawfal, and ibn-Amr.",
-    "gender": "male"
-  },
-  {
     "english_name": "Farwan",
     "arabic_name": "فروان",
     "meaning": "Farwan is an indirect Quranic name for boys that means wealthy, living in abundance. It is derived from the F-R-A (to create, to invent, fur, covering) which is used in many places in the Quran.",
@@ -22617,24 +20679,6 @@ export const namesData = [
     "english_name": "Farzam",
     "arabic_name": "فرزم",
     "meaning": "Worthy, Befitting.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farzan",
-    "arabic_name": "فرزان",
-    "meaning": "Wise",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farzeen",
-    "arabic_name": "فرز",
-    "meaning": "Learned.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Farzin",
-    "arabic_name": "فرزن",
-    "meaning": "Learned",
     "gender": "male"
   },
   {
@@ -22701,7 +20745,7 @@ export const namesData = [
     "english_name": "Huveida",
     "arabic_name": "حفيدة",
     "meaning": "Huveida is a Persian name for boys and girls that means clear, lucid, apparent, prominent.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Huwaidah",
@@ -22749,7 +20793,7 @@ export const namesData = [
     "english_name": "Ibadah",
     "arabic_name": "عبده",
     "meaning": "Ibadah is an Arabic name for boys and girls that means worship, obedience of God.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ibadat",
@@ -22779,7 +20823,7 @@ export const namesData = [
     "english_name": "Ibreez",
     "arabic_name": "إبريز",
     "meaning": "Gold, Ruby, Pearl and Coral",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ibrisami",
@@ -22797,7 +20841,7 @@ export const namesData = [
     "english_name": "Ibtihal",
     "arabic_name": "إبتهال",
     "meaning": "Supplication, prayer",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ibtihl",
@@ -22815,7 +20859,7 @@ export const namesData = [
     "english_name": "Idrak",
     "arabic_name": "إدراك",
     "meaning": "Intellect, perception, achievement, attainment.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ieasha",
@@ -22833,13 +20877,13 @@ export const namesData = [
     "english_name": "Iffat",
     "arabic_name": "عفت",
     "meaning": "Iffat is the Turkish form of the Arabic name Iffah, which means chastity, modesty, virtuousness. It is used for both boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ifra",
     "arabic_name": "عفرا",
     "meaning": "Ifra is an indirect Quranic name for girls and boys (more common for girls) t...",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ifrah",
@@ -23052,21 +21096,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ghurrah",
-    "arabic_name": "غيوره",
-    "meaning": "Ghurrah is an Arabic name for boys and girls that means moonrise (when the moon comes up). It also means chief, leader.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ghusharib",
     "arabic_name": "غشيرب",
     "meaning": "Brave",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ghusun",
-    "arabic_name": "غصون",
-    "meaning": "Branches of tree.",
     "gender": "male"
   },
   {
@@ -23148,21 +21180,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Gul",
-    "arabic_name": "جعل",
-    "meaning": "Flower.",
-    "gender": "male"
-  },
-  {
     "english_name": "Gul-baz",
     "arabic_name": "جلبز",
     "meaning": "Playing with Flowers.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Gul-e-rana",
-    "arabic_name": "جلرنا",
-    "meaning": "A beautiful flower.",
     "gender": "male"
   },
   {
@@ -23184,12 +21204,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Gul-rang",
-    "arabic_name": "جلرنج",
-    "meaning": "Colour of Flowers.",
-    "gender": "male"
-  },
-  {
     "english_name": "Gul-yar",
     "arabic_name": "جوليار",
     "meaning": "Loving Flowers.",
@@ -23208,12 +21222,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Gulab",
-    "arabic_name": "جلب",
-    "meaning": "Rose.",
-    "gender": "male"
-  },
-  {
     "english_name": "Gulbar",
     "arabic_name": "جلبير",
     "meaning": "Shedder of flowers, generous.",
@@ -23226,12 +21234,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Fawz",
-    "arabic_name": "فوز",
-    "meaning": "Victory, Conquest, Triumph, Success",
-    "gender": "male"
-  },
-  {
     "english_name": "Fawzan",
     "arabic_name": "فوزان",
     "meaning": "Successful, Slavation, Victorious.",
@@ -23241,12 +21243,6 @@ export const namesData = [
     "english_name": "Fawzi",
     "arabic_name": "فوزي",
     "meaning": "To do with success, successful, Winner",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fawzy",
-    "arabic_name": "فوزي",
-    "meaning": "Triumphant, victorious, successful.",
     "gender": "male"
   },
   {
@@ -23433,7 +21429,7 @@ export const namesData = [
     "english_name": "Hana",
     "arabic_name": "هنا",
     "meaning": "Arabic form of John",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hanafi",
@@ -23451,7 +21447,7 @@ export const namesData = [
     "english_name": "Hanan",
     "arabic_name": "هنا",
     "meaning": "Kind, Compassionate and Tenderhearted",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hananan",
@@ -23481,7 +21477,7 @@ export const namesData = [
     "english_name": "Haneef",
     "arabic_name": "حنيف",
     "meaning": "Upright, true",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Haneemanzar",
@@ -23499,7 +21495,7 @@ export const namesData = [
     "english_name": "Hani",
     "arabic_name": "هاني",
     "meaning": "Content, Delighted, happy, joyful",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hanif",
@@ -23511,7 +21507,7 @@ export const namesData = [
     "english_name": "Hanifah",
     "arabic_name": "حنيفة",
     "meaning": "Upright. Name of Al-Numan Ibn Thabit, the great jurist of Al-Kufah, the Hanafi School takes its name from him.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hanifud-din",
@@ -23523,7 +21519,7 @@ export const namesData = [
     "english_name": "Hanin",
     "arabic_name": "حنين",
     "meaning": "Yearning, desire.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hannad",
@@ -23535,18 +21531,6 @@ export const namesData = [
     "english_name": "Hannan",
     "arabic_name": "هنا",
     "meaning": "Compassionate, merciful, affectionate, tender-hearted.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hanoon",
-    "arabic_name": "حنون",
-    "meaning": "Compassionate, merciful, affectionate, tender-hearted, soft hearted.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hanzalah",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
     "gender": "male"
   },
   {
@@ -23595,13 +21579,13 @@ export const namesData = [
     "english_name": "Ihab",
     "arabic_name": "إيهاب",
     "meaning": "Leather",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ihdaf",
     "arabic_name": "اهداف",
     "meaning": "Ihdaf is an Arabic name for boys and girls that means closeness, proximity.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ihkam",
@@ -23613,25 +21597,25 @@ export const namesData = [
     "english_name": "Ihlal",
     "arabic_name": "إحلال",
     "meaning": "Ihlal is an Arabic name for boys and girls that means to look for the crescent moon, as it is done to determine the beginning of Ramadan and other Islamic dates. It also means clarity, radiance.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ihram",
     "arabic_name": "إحرام",
     "meaning": "It's an indirect Quranic name for boys and girls that refers to the state of purity that pilgrimage enters during the pilgrimage rites. It starts when the pilgrims put on their Ihram clothes, which are the white clothes that are seen during the Haj proceedings, and ends when they take off these clohes at the end of Haj",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ihsan",
     "arabic_name": "إحسان",
     "meaning": "Kindness, beneficence, highest level of Iman",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ihtiram",
     "arabic_name": "إحترام",
     "meaning": "Honour, hold in honour",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ijabo",
@@ -23661,25 +21645,25 @@ export const namesData = [
     "english_name": "Ikleel",
     "arabic_name": "إكليل",
     "meaning": "Ikleel is an Arabic name for boys and girls that means crown.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Iklil",
     "arabic_name": "إكليل",
     "meaning": "Crown, garland.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ikraam",
     "arabic_name": "إكرام",
     "meaning": "Esteem veneration",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ikram",
     "arabic_name": "إكرام",
     "meaning": "Honouring, glory, esteem, respect, veneration.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ikramiya",
@@ -23691,7 +21675,7 @@ export const namesData = [
     "english_name": "Ilan",
     "arabic_name": "الأن",
     "meaning": "Good person, Intelligent",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ilana",
@@ -23709,19 +21693,19 @@ export const namesData = [
     "english_name": "Ilhaam",
     "arabic_name": "إلهام",
     "meaning": "Inspiration, Inspiring, Revelation",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ilham",
     "arabic_name": "إلهام",
     "meaning": "Inspiration, revelation.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ilhan",
     "arabic_name": "الحان",
     "meaning": "Ruler",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ilhanath",
@@ -23751,7 +21735,7 @@ export const namesData = [
     "english_name": "Ilm",
     "arabic_name": "علم",
     "meaning": "Knowledge, science, doctrine",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ilmeeyat",
@@ -23775,7 +21759,7 @@ export const namesData = [
     "english_name": "Infisal",
     "arabic_name": "إنفصال",
     "meaning": "Infisal is a Arabic name for boys and girls that means divergence , separation, distance, disconnectedness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inga",
@@ -23787,19 +21771,19 @@ export const namesData = [
     "english_name": "Inhal",
     "arabic_name": "انهال",
     "meaning": "Inhal is an Arabic name for boys and girls that means to come in torrents, to pour, used when describing rain that falls strongly without interruption.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Injah",
     "arabic_name": "إنجاح",
     "meaning": "Success",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Injeel",
     "arabic_name": "إنجيل",
     "meaning": "Injeel is an Arabic name for boys and girls that refers to the book that was sent by God to Prophet Jesus, known as the Gospels in English. The word is originally from Greek and means messenger, message-bearer. The word Injeel is used 12 times in the Quran, such as in verse 57:27.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Injeela",
@@ -23823,31 +21807,31 @@ export const namesData = [
     "english_name": "Insha",
     "arabic_name": "إنشا",
     "meaning": "Sentence, Writing, Essay, Famous poet: Ibn-e-Insha",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inshad",
     "arabic_name": "إنشاد",
     "meaning": "Inshad is an Arabic name for boys and girls that means to raise ones voice in singing or reading.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inshiraf",
     "arabic_name": "نشرف",
     "meaning": "Inshiraf is an Arabic name for boys and girls that means honor, glory, sublimity.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inshirah",
     "arabic_name": "إنشراح",
     "meaning": "Delight, happiness, cheerfulness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Insijam",
     "arabic_name": "إنسجام",
     "meaning": "Insijam is an Arabic name for boys and girls that means harmony, symmetry.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Insiya",
@@ -23871,7 +21855,7 @@ export const namesData = [
     "english_name": "Intiha",
     "arabic_name": "إنتهى",
     "meaning": "Ending and Conclusion",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Intisaar",
@@ -23883,7 +21867,7 @@ export const namesData = [
     "english_name": "Intisar",
     "arabic_name": "إنتصار",
     "meaning": "Victory, triumph sing.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Intisarat",
@@ -23895,13 +21879,13 @@ export const namesData = [
     "english_name": "Intishal",
     "arabic_name": "انتشال",
     "meaning": "Intishal is an Arabic name for boys and girls that means recovery, when an illness becomes weaker and the symptoms fade away.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Intizar",
     "arabic_name": "إنتظار",
     "meaning": "Wait",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Iqamat",
@@ -23931,7 +21915,7 @@ export const namesData = [
     "english_name": "Iraj",
     "arabic_name": "إيراج",
     "meaning": "Iraj is a Persian name for boys that means helper of the Ari people (the people of Iran, also called Aryans).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Iram",
@@ -23955,7 +21939,7 @@ export const namesData = [
     "english_name": "Ghayat",
     "arabic_name": "غايات",
     "meaning": "Ghayat is the Turkish form of the Arabic name Ghayah which means end goal, aim. It is used for boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghayda",
@@ -23991,7 +21975,7 @@ export const namesData = [
     "english_name": "Ghazal",
     "arabic_name": "غزال",
     "meaning": "Ode, poem",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghazala",
@@ -24039,7 +22023,7 @@ export const namesData = [
     "english_name": "Ghaziyyat",
     "arabic_name": "غازية",
     "meaning": "Ghaziyyat is an Arabic name for girls that means patient, enduring.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ghazulah",
@@ -24141,7 +22125,7 @@ export const namesData = [
     "english_name": "Huda",
     "arabic_name": "هدى",
     "meaning": "Right, guidance, right path.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hudun",
@@ -24177,13 +22161,13 @@ export const namesData = [
     "english_name": "Hujayyah",
     "arabic_name": "حجيه",
     "meaning": "The father of Ajlah bin Abdullah was so called",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hujjat",
     "arabic_name": "حجة",
     "meaning": "Argument, reasoning, proof",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hukaymah",
@@ -24378,12 +22362,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Hamidat",
-    "arabic_name": "حميدة",
-    "meaning": "Hamidat is the Turkish form of the Arabic name Hamidah. It is used for both boys and girls.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hamidullah",
     "arabic_name": "حمدلله",
     "meaning": "The appreciation of Allah swt",
@@ -24432,12 +22410,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Hammadah",
-    "arabic_name": "حماده",
-    "meaning": "Hammadah is an Arabic name for boys and girls that means one who praises often, especially one who praises God often. It can also be a pet form of names like Muhammad, Mahmud and others.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hammadi",
     "arabic_name": "حمادي",
     "meaning": "Hammadi is an Arabic name for boys that means praiseworthy, being a pet form of Muhammad, Mahmud and other names. It can also be considered the attributive form of Hammadah, meaning one who praises, one who praises God.",
@@ -24456,12 +22428,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Hammuzah",
-    "arabic_name": "حمزه",
-    "meaning": "Hammuzah is an Arabic name for boys and girls that means lion.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hamood",
     "arabic_name": "حمود",
     "meaning": "One who praises Allah",
@@ -24471,12 +22437,6 @@ export const namesData = [
     "english_name": "Hamool",
     "arabic_name": "حمول",
     "meaning": "Hamool is an Arabic name for boys that means patient, enduring.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hamraz",
-    "arabic_name": "حمراز",
-    "meaning": "Confidant.",
     "gender": "male"
   },
   {
@@ -24708,12 +22668,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Bakht",
-    "arabic_name": "بخت",
-    "meaning": "Good fortune, luck, prosperity, Fortune",
-    "gender": "male"
-  },
-  {
     "english_name": "Bakht-rawan",
     "arabic_name": "باختراوا",
     "meaning": "Running Luck.",
@@ -24750,12 +22704,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Bakhtawar",
-    "arabic_name": "بخطور",
-    "meaning": "Lucky, fortunate.",
-    "gender": "male"
-  },
-  {
     "english_name": "Bakhti",
     "arabic_name": "باختي",
     "meaning": "Bakhti is an Arabic name for boys that means lucky, fortunate. It is the attributive form of Bakht.",
@@ -24783,12 +22731,6 @@ export const namesData = [
     "english_name": "Bakir",
     "arabic_name": "بكير",
     "meaning": "early",
-    "gender": "male"
-  },
-  {
-    "english_name": "Bakirin",
-    "arabic_name": "بقرن",
-    "meaning": "Early and On Time",
     "gender": "male"
   },
   {
@@ -24843,7 +22785,7 @@ export const namesData = [
     "english_name": "Haani",
     "arabic_name": "هاني",
     "meaning": "Happy, Delighted, Content",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Haarithah",
@@ -24861,7 +22803,7 @@ export const namesData = [
     "english_name": "Habaq",
     "arabic_name": "حبق",
     "meaning": "Habaq is an Arabic name for boys and girls that refers to a group of plants known as Ocimum in English, the best known plant among which is basil.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Habat",
@@ -24951,7 +22893,7 @@ export const namesData = [
     "english_name": "Hadaya",
     "arabic_name": "هدايا",
     "meaning": "Pl. of Hadiya, gift, present.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hadbaa",
@@ -24981,7 +22923,7 @@ export const namesData = [
     "english_name": "Hadees",
     "arabic_name": "حديث",
     "meaning": "Hadees, which is an easier pronunciation of Hadeeth, is a direct Quranic name for boys and girls that means speech, dialog, new, modern. Hadeeth is used commonly to refer to the sayings of Prophet Muhammad, peace and blessings of Allah upon him. Allah refers to the Quran as Ahsan al-Hadeeth (the Most Excellent Speech).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hadfah",
@@ -25032,12 +22974,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hana",
-    "arabic_name": "هنا",
-    "meaning": "Arabic form of John",
-    "gender": "female"
-  },
-  {
     "english_name": "Hanaa",
     "arabic_name": "هنا",
     "meaning": "Variant of Arabic Hana, meaning 'happiness.'",
@@ -25050,21 +22986,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hanan",
-    "arabic_name": "هنا",
-    "meaning": "Kind, Compassionate and Tenderhearted",
-    "gender": "female"
-  },
-  {
     "english_name": "Hanane",
     "arabic_name": "حنان",
     "meaning": "affectionateness",
-    "gender": "female"
-  },
-  {
-    "english_name": "Haneef",
-    "arabic_name": "حنيف",
-    "meaning": "Upright, true",
     "gender": "female"
   },
   {
@@ -25104,12 +23028,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hani",
-    "arabic_name": "هاني",
-    "meaning": "Content, Delighted, happy, joyful",
-    "gender": "female"
-  },
-  {
     "english_name": "Hania",
     "arabic_name": "هنية",
     "meaning": "Variant transcription of HANIYYA, Happy, delighted.",
@@ -25134,21 +23052,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hanifah",
-    "arabic_name": "حنيفة",
-    "meaning": "Upright. Name of Al-Numan Ibn Thabit, the great jurist of Al-Kufah, the Hanafi School takes its name from him.",
-    "gender": "female"
-  },
-  {
     "english_name": "Hanifiyyah",
     "arabic_name": "حنفيه",
     "meaning": "Hanifiyyah is an Arabic name for girls that means monotheism (belief in the oneness of God), pure religion.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Hanin",
-    "arabic_name": "حنين",
-    "meaning": "Yearning, desire.",
     "gender": "female"
   },
   {
@@ -25359,7 +23265,7 @@ export const namesData = [
     "english_name": "Hayyin",
     "arabic_name": "هايين",
     "meaning": "Hayyin is an Arabic name for boys and girls that means easy, facilitated, without obstacles. It also means lenient, forgiving.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hazar",
@@ -25500,12 +23406,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Gharam",
-    "arabic_name": "غرام",
-    "meaning": "Gharam is an Arabic name for boys and girls that means infatuation, love, devotion.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ghareeb",
     "arabic_name": "غريب",
     "meaning": "Needy, Humble, Stranger",
@@ -25611,7 +23511,7 @@ export const namesData = [
     "english_name": "Hedi",
     "arabic_name": "هدي",
     "meaning": "Hedi is a Kurdish name for boys and girls that means calm, serene.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Heera",
@@ -25665,25 +23565,25 @@ export const namesData = [
     "english_name": "Hezha",
     "arabic_name": "هذه",
     "meaning": "Hezha is a Kurdish name for boys and girls that means respected, highly regarded.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hiba",
     "arabic_name": "هبة",
     "meaning": "Gift",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hibah",
     "arabic_name": "هيبه",
     "meaning": "Grant, donation.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hibatullah",
     "arabic_name": "هيبتلله",
     "meaning": "The gift of Allah swt",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hibbaan",
@@ -25923,7 +23823,7 @@ export const namesData = [
     "english_name": "Izzat",
     "arabic_name": "عززت",
     "meaning": "High rank, Honour, fame, power.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Izzati",
@@ -25941,7 +23841,7 @@ export const namesData = [
     "english_name": "Jaan",
     "arabic_name": "جان",
     "meaning": "Life, Soul",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jabaa",
@@ -25959,7 +23859,7 @@ export const namesData = [
     "english_name": "Jabalah",
     "arabic_name": "جبله",
     "meaning": "Mountain, hill",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jabarah",
@@ -25983,7 +23883,7 @@ export const namesData = [
     "english_name": "Jabeen",
     "arabic_name": "جبين",
     "meaning": "River Ganga",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jabin",
@@ -26079,7 +23979,7 @@ export const namesData = [
     "english_name": "Jahan",
     "arabic_name": "جهان",
     "meaning": "The world.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jahan-aara",
@@ -26103,7 +24003,7 @@ export const namesData = [
     "english_name": "Hikma",
     "arabic_name": "حكمة",
     "meaning": "Hikma is an Arabic name for boys and girls that means wisdom.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hikmah",
@@ -26115,7 +24015,7 @@ export const namesData = [
     "english_name": "Hikmat",
     "arabic_name": "حكمت",
     "meaning": "Wisdom.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hilaal",
@@ -26127,7 +24027,7 @@ export const namesData = [
     "english_name": "Hilal",
     "arabic_name": "هلال",
     "meaning": "Crescent, new moon.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hilali",
@@ -26145,7 +24045,7 @@ export const namesData = [
     "english_name": "Hilf",
     "arabic_name": "حلف",
     "meaning": "Hilf is an Arabic name for boys and girls that means treaty, alliance, confederacy.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hilmi",
@@ -26157,13 +24057,13 @@ export const namesData = [
     "english_name": "Himaa",
     "arabic_name": "هيماء",
     "meaning": "Himaa is an Arabic name for boys and girls that means haven, harbor, hideaway, a place that is defended and protected.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Himayat",
     "arabic_name": "حماية",
     "meaning": "Protection, safeguarding, sheltering.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Himmat",
@@ -26217,7 +24117,7 @@ export const namesData = [
     "english_name": "Hishmat",
     "arabic_name": "حشمت",
     "meaning": "Hishmat is the Turkish form of the Arabic name Hishmah, which means modesty, virtue.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hissan",
@@ -26253,7 +24153,7 @@ export const namesData = [
     "english_name": "Hobb",
     "arabic_name": "حب",
     "meaning": "Hobb is an Arabic name for boys and girls that means love, affection. It is used in many places in the Quran, for example twice in verse 2:165.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Hoda",
@@ -26289,12 +24189,6 @@ export const namesData = [
     "english_name": "Hadeed",
     "arabic_name": "حديد",
     "meaning": "It's an Arabic name for boys that means iron, sharp, penetrating. It is derived from the H6-D-D root which is used in a number of places in the Quran.It is also the name of chapter 57 of the Quran. Scholars recommend if you use the name Hadeed, use it for its meaning, don't use it as a reference to a chapter of Quran",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hadees",
-    "arabic_name": "حديث",
-    "meaning": "Hadees, which is an easier pronunciation of Hadeeth, is a direct Quranic name for boys and girls that means speech, dialog, new, modern. Hadeeth is used commonly to refer to the sayings of Prophet Muhammad, peace and blessings of Allah upon him. Allah refers to the Quran as Ahsan al-Hadeeth (the Most Excellent Speech).",
     "gender": "male"
   },
   {
@@ -26520,21 +24414,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Harisah",
-    "arabic_name": "حريصه",
-    "meaning": "Guardian, protector ,Farmer, Ibn-Wahb was a companion who had this name",
-    "gender": "male"
-  },
-  {
     "english_name": "Harith",
     "arabic_name": "حريث",
     "meaning": "Ploughman, cultivator",
-    "gender": "male"
-  },
-  {
-    "english_name": "Haritha",
-    "arabic_name": "حارثة",
-    "meaning": "It's an indirect Quranic name for boys and girls that means cultivator, farmer (literally one who plows), it also means lion. Haritha is an ancient Arabic name for boys and is a stronger form of Harith, and it is the name of many Sahaba(companions of the Prophet(PBUH), such as Haritha ibn ar-Rabee, Haritha bin Badr,",
     "gender": "male"
   },
   {
@@ -26544,21 +24426,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Harmalah",
-    "arabic_name": "حرملة",
-    "meaning": "A Plant (African rue), An Egyption disciple of Shafaee had this name. He was Ibn Yahya.",
-    "gender": "male"
-  },
-  {
     "english_name": "Haroon",
     "arabic_name": "هارون",
     "meaning": "Chief, protector, guard, the wealth of the entire universe, a Prophet known as Aaron in the Bible and brother of Prophet Moses.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Haroona",
-    "arabic_name": "هارون",
-    "meaning": "It's an indirect Quranic name for boys and girls. It is a non-standard modification of the Quranic name Harun, common mostly in Africa (for boys) and South Asia (for girls).Since Harun is not an Arabic word, the meaning is not perfectly known. Some sources say it means mountain.",
     "gender": "male"
   },
   {
@@ -26571,12 +24441,6 @@ export const namesData = [
     "english_name": "Harun",
     "arabic_name": "هارون",
     "meaning": "Arabic form of (Aaron), lofty or exalted, A Prophet's name",
-    "gender": "male"
-  },
-  {
-    "english_name": "Harz",
-    "arabic_name": "حرز",
-    "meaning": "Harz is an Arabic name for boys and girls that means to protect, to guard.",
     "gender": "male"
   },
   {
@@ -26736,12 +24600,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ghayat",
-    "arabic_name": "غايات",
-    "meaning": "Ghayat is the Turkish form of the Arabic name Ghayah which means end goal, aim. It is used for boys and girls.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ghayid",
     "arabic_name": "جهيد",
     "meaning": "Ghayid is an Arabic name for boys that means gentle, soft, delicate.",
@@ -26799,12 +24657,6 @@ export const namesData = [
     "english_name": "Ghazaali",
     "arabic_name": "غزالي",
     "meaning": "Deer-like",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ghazal",
-    "arabic_name": "غزال",
-    "meaning": "Ode, poem",
     "gender": "male"
   },
   {
@@ -26958,12 +24810,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Furat",
-    "arabic_name": "فورت",
-    "meaning": "Furat is an Arabic name for boys and girls that means fresh, sweet water, water that is refreshing to drink is not salty or bitter. It is also the Arabic name for the Euphrates River, which is a river than originates in Turkey and flows through Syria and Iraq to join with the Tigris River in the southern Iraq.",
-    "gender": "female"
-  },
-  {
     "english_name": "Furayah",
     "arabic_name": "فوريه",
     "meaning": "Handsome, Well-built",
@@ -26985,12 +24831,6 @@ export const namesData = [
     "english_name": "Fursah",
     "arabic_name": "فرصه",
     "meaning": "Fursah is an Arabic name for girls that means opportunity, chance, right time.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Fursat",
-    "arabic_name": "فرصة",
-    "meaning": "Fursat is the Turkish form of the Arabic name Fursah, which means opportunity, right time. It is used for boys and girls.",
     "gender": "female"
   },
   {
@@ -27123,7 +24963,7 @@ export const namesData = [
     "english_name": "Kahal",
     "arabic_name": "كاهل",
     "meaning": "Kahal is an Arabic name for boys and girls that means one who has dark eyelids, a person whose eyelids have the natural appearance of having kohl on them.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kaheela",
@@ -27180,12 +25020,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Himayat",
-    "arabic_name": "حماية",
-    "meaning": "Protection, safeguarding, sheltering.",
-    "gender": "female"
-  },
-  {
     "english_name": "Hina",
     "arabic_name": "هنا",
     "meaning": "The Indian privet a shrub, the leaves of which are used for dyeing the hands, feet and hair.",
@@ -27234,12 +25068,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hishmat",
-    "arabic_name": "حشمت",
-    "meaning": "Hishmat is the Turkish form of the Arabic name Hishmah, which means modesty, virtue.",
-    "gender": "female"
-  },
-  {
     "english_name": "Hitaishi",
     "arabic_name": "هيتاشي",
     "meaning": "Well wisher",
@@ -27249,12 +25077,6 @@ export const namesData = [
     "english_name": "Hiyam",
     "arabic_name": "هيام",
     "meaning": "Passionate, love.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Hobb",
-    "arabic_name": "حب",
-    "meaning": "Hobb is an Arabic name for boys and girls that means love, affection. It is used in many places in the Quran, for example twice in verse 2:165.",
     "gender": "female"
   },
   {
@@ -27321,7 +25143,7 @@ export const namesData = [
     "english_name": "Houda",
     "arabic_name": "هود",
     "meaning": "Guided",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hounia",
@@ -27339,7 +25161,7 @@ export const namesData = [
     "english_name": "Hubab",
     "arabic_name": "حباب",
     "meaning": "Name of a Sahabi who participated in the battle of Badr.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hubabah",
@@ -27369,7 +25191,7 @@ export const namesData = [
     "english_name": "Hunain",
     "arabic_name": "حنين",
     "meaning": "Hunain is the name of a battle mentioned in the Quran, which was won by the Muslims. Hunain is the name of a valley between at-Taif and Mecca in which the battle took place. The literal meaning of the word is not known, it is derived from the H6-N-N root which has meanings of longing, yearning, nostalgia.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hunaydah",
@@ -27399,7 +25221,7 @@ export const namesData = [
     "english_name": "Huraira",
     "arabic_name": "هريرة",
     "meaning": "Huraira is an Arabic name for boys and girls that means little cat, kitten. It is used by Muslims after Abu Huraira who is a sahabi (i.e. a companion of the Prophet, peace and blessings of Allah upon him and his companions). Linguistically, huraira is the diminutive form of hirr (cat).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Huraiva",
@@ -27411,7 +25233,7 @@ export const namesData = [
     "english_name": "Hurayra",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Huriaa",
@@ -27441,7 +25263,7 @@ export const namesData = [
     "english_name": "Hurmat",
     "arabic_name": "حرمت",
     "meaning": "Respect, dignity or something declared, sacred by religion.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hurriya",
@@ -27525,7 +25347,7 @@ export const namesData = [
     "english_name": "Husni",
     "arabic_name": "حسني",
     "meaning": "Possessing beauty",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Husniya",
@@ -27549,7 +25371,7 @@ export const namesData = [
     "english_name": "Isra",
     "arabic_name": "عصرا",
     "meaning": "Travel by night, The first stage in Miraj [Ascension of the Holy Prophet Muhammad (pbuh) to heaven], in which the Prophet was taken to the Remote Mosque (Masjid al-Aqsa), or the Temple at Jerusalem",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Israa",
@@ -27561,7 +25383,7 @@ export const namesData = [
     "english_name": "Israr",
     "arabic_name": "إصرار",
     "meaning": "Obduracy, persistence, obstinacy, Secret, mystery.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Israt",
@@ -27573,7 +25395,7 @@ export const namesData = [
     "english_name": "Issam",
     "arabic_name": "عصام",
     "meaning": "Protector, safeguard",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Istabraq",
@@ -27585,7 +25407,7 @@ export const namesData = [
     "english_name": "Istibshar",
     "arabic_name": "استبشر",
     "meaning": "Istibshar is an Arabic name for boys and girls that means to become happy, to become hopeful. It also means to have hope, to receive good tidings.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Istilah",
@@ -27597,7 +25419,7 @@ export const namesData = [
     "english_name": "Istiqlal",
     "arabic_name": "إستقلال",
     "meaning": "Istiqlal is an indirect Quranic name for boys and girls that means independence, sovereignty. It is used when speaking of countries.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Itaa",
@@ -27651,13 +25473,13 @@ export const namesData = [
     "english_name": "Iyan",
     "arabic_name": "عين",
     "meaning": "Time, Era, Epoch.It is a Quranic name for boys and girls meaning time, era, epoch. It is another version of the name Ayan, with the exact same meaning. Iyan and Ayan are the same word with the same spelling in Arabic in the Quran, the word can be read as either Iyan or Ayan without changing the meaning.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Izaan",
     "arabic_name": "عزان",
     "meaning": "Obedience",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Izahet",
@@ -27693,7 +25515,7 @@ export const namesData = [
     "english_name": "Izz",
     "arabic_name": "إذ",
     "meaning": "Glory, honour, High-standing, Prestige",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Izz-an-nisa",
@@ -27837,25 +25659,25 @@ export const namesData = [
     "english_name": "Fida",
     "arabic_name": "فيضة",
     "meaning": "Redemption, Sacrifice, devotion, ransom, exchange",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fidaa",
     "arabic_name": "فداء",
     "meaning": "Redemption, Sacrifice",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fiddah",
     "arabic_name": "فيده",
     "meaning": "Silver.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fikr",
     "arabic_name": "فكر",
     "meaning": "Fikr is an Arabic name for boys and girls that means thought, concept, conception, intellect, mind.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fikraat",
@@ -27867,13 +25689,13 @@ export const namesData = [
     "english_name": "Fikrat",
     "arabic_name": "فكرة",
     "meaning": "Fikrat is the Turkish form of the Arabic name Fikrah which means thought, conception, idea. It is used for both boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fikri",
     "arabic_name": "فكري",
     "meaning": "Thought, ideas",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Fikriya",
@@ -27987,7 +25809,7 @@ export const namesData = [
     "english_name": "Jalees",
     "arabic_name": "جليس",
     "meaning": "A companion, chum, a fast friend, comrade, person with whom one sits",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jaleesah",
@@ -28029,7 +25851,7 @@ export const namesData = [
     "english_name": "Jamal",
     "arabic_name": "جمال",
     "meaning": "Beauty, grace,Handsome.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jamala",
@@ -28113,13 +25935,13 @@ export const namesData = [
     "english_name": "Irtiqa",
     "arabic_name": "ارتقى",
     "meaning": "High Status, Exalted, Sublime and Superb. BLANKENTER Irtiqa is an indirect Quranic name thats used mostly for both girls and boys, more common for girls. It means going higher, ascension , to become better, to evolve, to mature. It is derived from the R-Q-A root which is used in a number of places in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Irtiza",
     "arabic_name": "إرتيزا",
     "meaning": "Contentment, approval.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Irum",
@@ -28149,7 +25971,7 @@ export const namesData = [
     "english_name": "Isad",
     "arabic_name": "اسد",
     "meaning": "Making happy or prosperous, blessing, favoring.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Isaf",
@@ -28161,7 +25983,7 @@ export const namesData = [
     "english_name": "Isam",
     "arabic_name": "إسم",
     "meaning": "Protector, safeguard, Self-made.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Isar",
@@ -28209,13 +26031,13 @@ export const namesData = [
     "english_name": "Ishraq",
     "arabic_name": "إشراق",
     "meaning": "Brilliance, radiance, shining, The coming up of the sun(sunrise).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ishrat",
     "arabic_name": "عشرات",
     "meaning": "Society, Familiar and pleasant talk, happiness",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ishya",
@@ -28233,13 +26055,13 @@ export const namesData = [
     "english_name": "Islah",
     "arabic_name": "إصلاح",
     "meaning": "Reform, improvement, betterm",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Islam",
     "arabic_name": "إسلام",
     "meaning": "To bow ones head in submission, surrender (to the will of Allah) name of the religion of the Muslims.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Isma",
@@ -28251,13 +26073,13 @@ export const namesData = [
     "english_name": "Ismah",
     "arabic_name": "إسمح",
     "meaning": "Preservation, infallibility, A 9th century scholar, ibn Hammad had this name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ismat",
     "arabic_name": "عصمت",
     "meaning": "Purity, chastity, modesty.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Iham",
@@ -28266,33 +26088,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ihdaf",
-    "arabic_name": "اهداف",
-    "meaning": "Ihdaf is an Arabic name for boys and girls that means closeness, proximity.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ihlal",
-    "arabic_name": "إحلال",
-    "meaning": "Ihlal is an Arabic name for boys and girls that means to look for the crescent moon, as it is done to determine the beginning of Ramadan and other Islamic dates. It also means clarity, radiance.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ihram",
-    "arabic_name": "إحرام",
-    "meaning": "It's an indirect Quranic name for boys and girls that refers to the state of purity that pilgrimage enters during the pilgrimage rites. It starts when the pilgrims put on their Ihram clothes, which are the white clothes that are seen during the Haj proceedings, and ends when they take off these clohes at the end of Haj",
-    "gender": "male"
-  },
-  {
     "english_name": "Ihsaan",
     "arabic_name": "إحسان",
     "meaning": "Beneficence, Charity",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ihsan",
-    "arabic_name": "إحسان",
-    "meaning": "Kindness, beneficence, highest level of Iman",
     "gender": "male"
   },
   {
@@ -28311,12 +26109,6 @@ export const namesData = [
     "english_name": "Ihtiraam",
     "arabic_name": "إحترام",
     "meaning": "Honour, hold in honour.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ihtiram",
-    "arabic_name": "إحترام",
-    "meaning": "Honour, hold in honour",
     "gender": "male"
   },
   {
@@ -28404,30 +26196,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ikleel",
-    "arabic_name": "إكليل",
-    "meaning": "Ikleel is an Arabic name for boys and girls that means crown.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Iklil",
-    "arabic_name": "إكليل",
-    "meaning": "Crown, garland.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ikraam",
-    "arabic_name": "إكرام",
-    "meaning": "Esteem veneration",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ikram",
-    "arabic_name": "إكرام",
-    "meaning": "Honouring, glory, esteem, respect, veneration.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ikram-ul-haq",
     "arabic_name": "قرملهق",
     "meaning": "Glory of the Truth (Allah).",
@@ -28455,7 +26223,7 @@ export const namesData = [
     "english_name": "Kaleema",
     "arabic_name": "كلمة",
     "meaning": "Public speaker, singer",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kaleemah",
@@ -28656,12 +26424,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Habaq",
-    "arabic_name": "حبق",
-    "meaning": "Habaq is an Arabic name for boys and girls that refers to a group of plants known as Ocimum in English, the best known plant among which is basil.",
-    "gender": "male"
-  },
-  {
     "english_name": "Habash",
     "arabic_name": "حبش",
     "meaning": "Guinea hen, Guinea fowl,, turkey, A tabaee (successor of the companions) was so named.",
@@ -28770,12 +26532,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Hadaya",
-    "arabic_name": "هدايا",
-    "meaning": "Pl. of Hadiya, gift, present.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hadbar",
     "arabic_name": "هدبر",
     "meaning": "Beautiful",
@@ -28800,12 +26556,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Injeel",
-    "arabic_name": "إنجيل",
-    "meaning": "Injeel is an Arabic name for boys and girls that refers to the book that was sent by God to Prophet Jesus, known as the Gospels in English. The word is originally from Greek and means messenger, message-bearer. The word Injeel is used 12 times in the Quran, such as in verse 57:27.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ins",
     "arabic_name": "إنس",
     "meaning": "Ins is an Arabic name for boys that means tranquility, calmness of the heart and lack of fear.",
@@ -28824,39 +26574,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Insha",
-    "arabic_name": "إنشا",
-    "meaning": "Sentence, Writing, Essay, Famous poet: Ibn-e-Insha",
-    "gender": "male"
-  },
-  {
-    "english_name": "Inshad",
-    "arabic_name": "إنشاد",
-    "meaning": "Inshad is an Arabic name for boys and girls that means to raise ones voice in singing or reading.",
-    "gender": "male"
-  },
-  {
     "english_name": "Inshaf",
     "arabic_name": "ينشاف",
     "meaning": "Equity",
-    "gender": "male"
-  },
-  {
-    "english_name": "Inshiraf",
-    "arabic_name": "نشرف",
-    "meaning": "Inshiraf is an Arabic name for boys and girls that means honor, glory, sublimity.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Inshirah",
-    "arabic_name": "إنشراح",
-    "meaning": "Delight, happiness, cheerfulness.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Insijam",
-    "arabic_name": "إنسجام",
-    "meaning": "Insijam is an Arabic name for boys and girls that means harmony, symmetry.",
     "gender": "male"
   },
   {
@@ -28884,33 +26604,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Intiha",
-    "arabic_name": "إنتهى",
-    "meaning": "Ending and Conclusion",
-    "gender": "male"
-  },
-  {
     "english_name": "Intikhab",
     "arabic_name": "إنتخاب",
     "meaning": "Selection, choice",
-    "gender": "male"
-  },
-  {
-    "english_name": "Intisar",
-    "arabic_name": "إنتصار",
-    "meaning": "Victory, triumph sing.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Intishal",
-    "arabic_name": "انتشال",
-    "meaning": "Intishal is an Arabic name for boys and girls that means recovery, when an illness becomes weaker and the symptoms fade away.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Intizar",
-    "arabic_name": "إنتظار",
-    "meaning": "Wait",
     "gender": "male"
   },
   {
@@ -29019,7 +26715,7 @@ export const namesData = [
     "english_name": "Jawd",
     "arabic_name": "جود",
     "meaning": "Jawd is an Arabic name for boys and girls that means torrential rain.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jawda",
@@ -29031,7 +26727,7 @@ export const namesData = [
     "english_name": "Jawdah",
     "arabic_name": "جوده",
     "meaning": "Heavy rain, benevolent deed",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jawedan",
@@ -29043,7 +26739,7 @@ export const namesData = [
     "english_name": "Jawhar",
     "arabic_name": "جوهر",
     "meaning": "Jewel, gem, essence.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jawhara",
@@ -29079,19 +26775,19 @@ export const namesData = [
     "english_name": "Jaza",
     "arabic_name": "جزى",
     "meaning": "Reward.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jazaa",
     "arabic_name": "جزاء",
     "meaning": "Benefit, Blessings and Profit",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jazal",
     "arabic_name": "جزل",
     "meaning": "Jazal is an Arabic name for boys and girls that means happiness, delight.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jazeera",
@@ -29172,12 +26868,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Iraj",
-    "arabic_name": "إيراج",
-    "meaning": "Iraj is a Persian name for boys that means helper of the Ari people (the people of Iran, also called Aryans).",
-    "gender": "male"
-  },
-  {
     "english_name": "Iraq",
     "arabic_name": "عراق",
     "meaning": "Iraq is an Arabic name for boys that means shore, river bank. The word is the same as the country known as Iraq.",
@@ -29226,18 +26916,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Irtiqa",
-    "arabic_name": "ارتقى",
-    "meaning": "High Status, Exalted, Sublime and Superb. BLANKENTER Irtiqa is an indirect Quranic name thats used mostly for both girls and boys, more common for girls. It means going higher, ascension , to become better, to evolve, to mature. It is derived from the R-Q-A root which is used in a number of places in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Irtiza",
-    "arabic_name": "إرتيزا",
-    "meaning": "Contentment, approval.",
-    "gender": "male"
-  },
-  {
     "english_name": "Irtiza-husain",
     "arabic_name": "إرتيزهسن",
     "meaning": "Approval of Husayn.",
@@ -29265,18 +26943,6 @@ export const namesData = [
     "english_name": "Isaar",
     "arabic_name": "إسار",
     "meaning": "Selflessness.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Isad",
-    "arabic_name": "اسد",
-    "meaning": "Making happy or prosperous, blessing, favoring.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Isam",
-    "arabic_name": "إسم",
-    "meaning": "Protector, safeguard, Self-made.",
     "gender": "male"
   },
   {
@@ -29334,12 +27000,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ishraq",
-    "arabic_name": "إشراق",
-    "meaning": "Brilliance, radiance, shining, The coming up of the sun(sunrise).",
-    "gender": "male"
-  },
-  {
     "english_name": "Ikramullah",
     "arabic_name": "إكراملله",
     "meaning": "Glory of Allah.",
@@ -29394,33 +27054,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ilan",
-    "arabic_name": "الأن",
-    "meaning": "Good person, Intelligent",
-    "gender": "male"
-  },
-  {
     "english_name": "Ilash",
     "arabic_name": "علاش",
     "meaning": "Another name for Allah",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ilhaam",
-    "arabic_name": "إلهام",
-    "meaning": "Inspiration, Inspiring, Revelation",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ilham",
-    "arabic_name": "إلهام",
-    "meaning": "Inspiration, revelation.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ilhan",
-    "arabic_name": "الحان",
-    "meaning": "Ruler",
     "gender": "male"
   },
   {
@@ -29433,12 +27069,6 @@ export const namesData = [
     "english_name": "Ilifat",
     "arabic_name": "العفة",
     "meaning": "Friendship, kindness, obligation.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ilm",
-    "arabic_name": "علم",
-    "meaning": "Knowledge, science, doctrine",
     "gender": "male"
   },
   {
@@ -29475,7 +27105,7 @@ export const namesData = [
     "english_name": "Imaan",
     "arabic_name": "إيمان",
     "meaning": "Faith",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Imad",
@@ -29523,18 +27153,6 @@ export const namesData = [
     "english_name": "Gulfam",
     "arabic_name": "جولفم",
     "meaning": "Rose faced.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Gulshan",
-    "arabic_name": "جلسها",
-    "meaning": "A flower or rose garden",
-    "gender": "male"
-  },
-  {
-    "english_name": "Gulzar",
-    "arabic_name": "غلظر",
-    "meaning": "Flower bed, A Garden, an inhabited town.",
     "gender": "male"
   },
   {
@@ -29637,12 +27255,6 @@ export const namesData = [
     "english_name": "Haamid",
     "arabic_name": "حامد",
     "meaning": "One who praises Allah ,Loving (god), Praiser (of Allah)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Haani",
-    "arabic_name": "هاني",
-    "meaning": "Happy, Delighted, Content",
     "gender": "male"
   },
   {
@@ -29754,12 +27366,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Husni",
-    "arabic_name": "حسني",
-    "meaning": "Possessing beauty",
-    "gender": "male"
-  },
-  {
     "english_name": "Hussain",
     "arabic_name": "حسين",
     "meaning": "Handsome, Elegant, beautiful,  Grandson of the Holy Prophet Muhammad (pbuh), Son of Hazrat Ali and Hazrat Fatima (rta),Name of saint",
@@ -29787,12 +27393,6 @@ export const namesData = [
     "english_name": "Huthayfa",
     "arabic_name": "حذيفة",
     "meaning": "An old Arabic Muslim name",
-    "gender": "male"
-  },
-  {
-    "english_name": "Huveida",
-    "arabic_name": "حفيدة",
-    "meaning": "Huveida is a Persian name for boys and girls that means clear, lucid, apparent, prominent.",
     "gender": "male"
   },
   {
@@ -29862,12 +27462,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ibadah",
-    "arabic_name": "عبده",
-    "meaning": "Ibadah is an Arabic name for boys and girls that means worship, obedience of God.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ibadullah",
     "arabic_name": "عبدلله",
     "meaning": "Ibadullah is an Arabic name for boys that means worshipers of God, devoted servants of God.",
@@ -29913,7 +27507,7 @@ export const namesData = [
     "english_name": "Kasra",
     "arabic_name": "كسرة",
     "meaning": "A Character In Shahnameh.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kasturi",
@@ -29991,7 +27585,7 @@ export const namesData = [
     "english_name": "Kawnain",
     "arabic_name": "كونين",
     "meaning": "Kawnain is an Arabic name for boys and girls that means the two beings, the two existences, the two universes. It is usually used to refer to this world and the hereafter together.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kawtar",
@@ -30102,12 +27696,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Houda",
-    "arabic_name": "هود",
-    "meaning": "Guided",
-    "gender": "male"
-  },
-  {
     "english_name": "Houmaan",
     "arabic_name": "هيومان",
     "meaning": "Houmaan is a Persian name for boys that means one who has good thoughts, one who has a good heart.",
@@ -30156,12 +27744,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Hubab",
-    "arabic_name": "حباب",
-    "meaning": "Name of a Sahabi who participated in the battle of Badr.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hubaibi",
     "arabic_name": "حبيبي",
     "meaning": "Hubaibi is an Arabic name for boys that means loving, beloved.",
@@ -30192,12 +27774,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Huda",
-    "arabic_name": "هدى",
-    "meaning": "Right, guidance, right path.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hudad",
     "arabic_name": "حداد",
     "meaning": "Name of a pre Islamic Arabic king",
@@ -30225,18 +27801,6 @@ export const namesData = [
     "english_name": "Hufaiz",
     "arabic_name": "حفيظ",
     "meaning": "Hufaiz is an Arabic name for boys that means protector.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hujayyah",
-    "arabic_name": "حجيه",
-    "meaning": "The father of Ajlah bin Abdullah was so called",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hujjat",
-    "arabic_name": "حجة",
-    "meaning": "Argument, reasoning, proof",
     "gender": "male"
   },
   {
@@ -30273,12 +27837,6 @@ export const namesData = [
     "english_name": "Ghazir",
     "arabic_name": "غزير",
     "meaning": "Plentiful, ample",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ghaziyyat",
-    "arabic_name": "غازية",
-    "meaning": "Ghaziyyat is an Arabic name for girls that means patient, enduring.",
     "gender": "male"
   },
   {
@@ -30366,12 +27924,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ghufran",
-    "arabic_name": "غفران",
-    "meaning": "Forgiving, to conceal, Another name for god, pardon, benevolence.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ghulam",
     "arabic_name": "غلام",
     "meaning": "Slave, Servant, boy, youth..",
@@ -30429,7 +27981,7 @@ export const namesData = [
     "english_name": "Kulthum",
     "arabic_name": "كلثوم",
     "meaning": "name of companion",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kulus",
@@ -30459,7 +28011,7 @@ export const namesData = [
     "english_name": "Kundas",
     "arabic_name": "قندس",
     "meaning": "Kundas is an Arabic name for boys and girls that means magpie, which is a type of bird.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kunza",
@@ -30471,7 +28023,7 @@ export const namesData = [
     "english_name": "Kuram",
     "arabic_name": "كرم",
     "meaning": "Kuram is an Arabic name for boys and girls that means generous, selfless, one who honors others.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kuwaysah",
@@ -30600,12 +28152,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Ishrat",
-    "arabic_name": "عشرات",
-    "meaning": "Society, Familiar and pleasant talk, happiness",
-    "gender": "male"
-  },
-  {
     "english_name": "Ishtiyaq",
     "arabic_name": "إشتياق",
     "meaning": "Longing, craving, Fondness, wish, desire, yearning, eagerness.",
@@ -30621,18 +28167,6 @@ export const namesData = [
     "english_name": "Iskandar",
     "arabic_name": "إسكندر",
     "meaning": "Name of a Greek king, Iskander Mirza: President of Pakistan (1956-58), Indonesian Arabic and Indonesian form of ALEXANDER.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Islah",
-    "arabic_name": "إصلاح",
-    "meaning": "Reform, improvement, betterm",
-    "gender": "male"
-  },
-  {
-    "english_name": "Islam",
-    "arabic_name": "إسلام",
-    "meaning": "To bow ones head in submission, surrender (to the will of Allah) name of the religion of the Muslims.",
     "gender": "male"
   },
   {
@@ -30654,27 +28188,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ismah",
-    "arabic_name": "إسمح",
-    "meaning": "Preservation, infallibility, A 9th century scholar, ibn Hammad had this name.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ismail",
     "arabic_name": "إسماعيل",
     "meaning": "Preservation, infallibility, A 9th century scholar, ibn Hammad had this name.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ismat",
-    "arabic_name": "عصمت",
-    "meaning": "Purity, chastity, modesty.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Isra",
-    "arabic_name": "عصرا",
-    "meaning": "Travel by night, The first stage in Miraj [Ascension of the Holy Prophet Muhammad (pbuh) to heaven], in which the Prophet was taken to the Remote Mosque (Masjid al-Aqsa), or the Temple at Jerusalem",
     "gender": "male"
   },
   {
@@ -30702,21 +28218,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Israr",
-    "arabic_name": "إصرار",
-    "meaning": "Obduracy, persistence, obstinacy, Secret, mystery.",
-    "gender": "male"
-  },
-  {
     "english_name": "Issa",
     "arabic_name": "عيسى",
     "meaning": "Variant transcription of ISA",
-    "gender": "male"
-  },
-  {
-    "english_name": "Issam",
-    "arabic_name": "عصام",
-    "meaning": "Protector, safeguard",
     "gender": "male"
   },
   {
@@ -30732,21 +28236,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Istibshar",
-    "arabic_name": "استبشر",
-    "meaning": "Istibshar is an Arabic name for boys and girls that means to become happy, to become hopeful. It also means to have hope, to receive good tidings.",
-    "gender": "male"
-  },
-  {
     "english_name": "Istifa",
     "arabic_name": "اصطفى",
     "meaning": "To choose, to prefer, to give prefer to one over the other.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Istiqlal",
-    "arabic_name": "إستقلال",
-    "meaning": "Istiqlal is an indirect Quranic name for boys and girls that means independence, sovereignty. It is used when speaking of countries.",
     "gender": "male"
   },
   {
@@ -30792,12 +28284,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Imaan",
-    "arabic_name": "إيمان",
-    "meaning": "Faith",
-    "gender": "female"
-  },
-  {
     "english_name": "Imama",
     "arabic_name": "إمام",
     "meaning": "Imama is an Arabic name for girls that means leadership, command.",
@@ -30831,7 +28317,7 @@ export const namesData = [
     "english_name": "Imhal",
     "arabic_name": "إمهال",
     "meaning": "Patient",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Imrana",
@@ -30867,7 +28353,7 @@ export const namesData = [
     "english_name": "Imtisal",
     "arabic_name": "إمتثال",
     "meaning": "To Follow and Idolize",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Imtithal",
@@ -30885,7 +28371,7 @@ export const namesData = [
     "english_name": "Inab",
     "arabic_name": "عنب",
     "meaning": "Inab is an Arabic name for boys and girls that means grape. The word Inab is used twice in the Quran, in verse 17:91 and 80:28.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inabah",
@@ -30909,7 +28395,7 @@ export const namesData = [
     "english_name": "Inas",
     "arabic_name": "إيناس",
     "meaning": "Capable, Sociability",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inaya",
@@ -30933,25 +28419,25 @@ export const namesData = [
     "english_name": "Inayat",
     "arabic_name": "عناية",
     "meaning": "Care, concern, favour, bounty, kindness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inayatullah",
     "arabic_name": "عنايتلله",
     "meaning": "Care of Allah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inbihaj",
     "arabic_name": "انبهج",
     "meaning": "Happiness, Laughter, Joy and Delight",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inbisat",
     "arabic_name": "انبساط",
     "meaning": "Happiness, Laughter, Joy and Delight",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Inci",
@@ -30981,12 +28467,6 @@ export const namesData = [
     "english_name": "Imen",
     "arabic_name": "عمن",
     "meaning": "Variant transcription of IMAN",
-    "gender": "male"
-  },
-  {
-    "english_name": "Imhal",
-    "arabic_name": "إمهال",
-    "meaning": "Patient",
     "gender": "male"
   },
   {
@@ -31026,12 +28506,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Imtisal",
-    "arabic_name": "إمتثال",
-    "meaning": "To Follow and Idolize",
-    "gender": "male"
-  },
-  {
     "english_name": "Imtiyaz",
     "arabic_name": "إمتياز",
     "meaning": "Distinct, mark of distinction or excellence",
@@ -31047,12 +28521,6 @@ export const namesData = [
     "english_name": "Inaayat",
     "arabic_name": "عناية",
     "meaning": "Concern Attention",
-    "gender": "male"
-  },
-  {
-    "english_name": "Inab",
-    "arabic_name": "عنب",
-    "meaning": "Inab is an Arabic name for boys and girls that means grape. The word Inab is used twice in the Quran, in verse 17:91 and 80:28.",
     "gender": "male"
   },
   {
@@ -31074,18 +28542,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Inas",
-    "arabic_name": "إيناس",
-    "meaning": "Capable, Sociability",
-    "gender": "male"
-  },
-  {
-    "english_name": "Inayat",
-    "arabic_name": "عناية",
-    "meaning": "Care, concern, favour, bounty, kindness.",
-    "gender": "male"
-  },
-  {
     "english_name": "Inayat-uddin",
     "arabic_name": "عنايتدن",
     "meaning": "Care of religion (Islam).",
@@ -31098,45 +28554,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Inayatullah",
-    "arabic_name": "عنايتلله",
-    "meaning": "Care of Allah.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Inbihaj",
-    "arabic_name": "انبهج",
-    "meaning": "Happiness, Laughter, Joy and Delight",
-    "gender": "male"
-  },
-  {
-    "english_name": "Inbisat",
-    "arabic_name": "انبساط",
-    "meaning": "Happiness, Laughter, Joy and Delight",
-    "gender": "male"
-  },
-  {
-    "english_name": "Infisal",
-    "arabic_name": "إنفصال",
-    "meaning": "Infisal is a Arabic name for boys and girls that means divergence , separation, distance, disconnectedness.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Inhal",
-    "arabic_name": "انهال",
-    "meaning": "Inhal is an Arabic name for boys and girls that means to come in torrents, to pour, used when describing rain that falls strongly without interruption.",
-    "gender": "male"
-  },
-  {
     "english_name": "Iniat",
     "arabic_name": "إنت",
     "meaning": "Blessing",
-    "gender": "male"
-  },
-  {
-    "english_name": "Injah",
-    "arabic_name": "إنجاح",
-    "meaning": "Success",
     "gender": "male"
   },
   {
@@ -31254,27 +28674,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Fida",
-    "arabic_name": "فيضة",
-    "meaning": "Redemption, Sacrifice, devotion, ransom, exchange",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fidaa",
-    "arabic_name": "فداء",
-    "meaning": "Redemption, Sacrifice",
-    "gender": "male"
-  },
-  {
     "english_name": "Fidda",
     "arabic_name": "لتي",
     "meaning": "Gentle, kind, pleasant, friendly",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fiddah",
-    "arabic_name": "فيده",
-    "meaning": "Silver.",
     "gender": "male"
   },
   {
@@ -31293,24 +28695,6 @@ export const namesData = [
     "english_name": "Fikhar",
     "arabic_name": "فخر",
     "meaning": "Honour, pride, glory.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fikr",
-    "arabic_name": "فكر",
-    "meaning": "Fikr is an Arabic name for boys and girls that means thought, concept, conception, intellect, mind.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fikrat",
-    "arabic_name": "فكرة",
-    "meaning": "Fikrat is the Turkish form of the Arabic name Fikrah which means thought, conception, idea. It is used for both boys and girls.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Fikri",
-    "arabic_name": "فكري",
-    "meaning": "Thought, ideas",
     "gender": "male"
   },
   {
@@ -31350,12 +28734,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ibreez",
-    "arabic_name": "إبريز",
-    "meaning": "Gold, Ruby, Pearl and Coral",
-    "gender": "male"
-  },
-  {
     "english_name": "Ibrisam",
     "arabic_name": "بريسم",
     "meaning": "Silk.",
@@ -31386,12 +28764,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ibtihal",
-    "arabic_name": "إبتهال",
-    "meaning": "Supplication, prayer",
-    "gender": "male"
-  },
-  {
     "english_name": "Ibtisam",
     "arabic_name": "إبتسم",
     "meaning": "Smiling, smile, cheerfulness.",
@@ -31407,12 +28779,6 @@ export const namesData = [
     "english_name": "Idhar",
     "arabic_name": "عذر",
     "meaning": "Fluff",
-    "gender": "male"
-  },
-  {
-    "english_name": "Idrak",
-    "arabic_name": "إدراك",
-    "meaning": "Intellect, perception, achievement, attainment.",
     "gender": "male"
   },
   {
@@ -31443,18 +28809,6 @@ export const namesData = [
     "english_name": "Iesa",
     "arabic_name": "عسى",
     "meaning": "A Prophets name",
-    "gender": "male"
-  },
-  {
-    "english_name": "Iffat",
-    "arabic_name": "عفت",
-    "meaning": "Iffat is the Turkish form of the Arabic name Iffah, which means chastity, modesty, virtuousness. It is used for both boys and girls.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ifra",
-    "arabic_name": "عفرا",
-    "meaning": "Ifra is an indirect Quranic name for girls and boys (more common for girls) t...",
     "gender": "male"
   },
   {
@@ -31491,12 +28845,6 @@ export const namesData = [
     "english_name": "Iftikharus-sadat",
     "arabic_name": "افتخرسصداة",
     "meaning": "Pride of the chiefs.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ihab",
-    "arabic_name": "إيهاب",
-    "meaning": "Leather",
     "gender": "male"
   },
   {
@@ -31593,7 +28941,7 @@ export const namesData = [
     "english_name": "Jumanah",
     "arabic_name": "جومانه",
     "meaning": "Pearl, name of a companion.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Jumaymah",
@@ -31683,7 +29031,7 @@ export const namesData = [
     "english_name": "Khaleefa",
     "arabic_name": "خليفة",
     "meaning": "Khaleefa is a direct Quranic name for boys and girls. It means heir, successor, agent, deputy, trustee, and the Quran uses it to refer to all humanity, since humans are Gods agents, successors and representatives on Earth as is mentioned in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Khaleela",
@@ -31809,7 +29157,7 @@ export const namesData = [
     "english_name": "Kharijah",
     "arabic_name": "خارجه",
     "meaning": "Outside, external, Ibn Huzafah a companion, had this name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kharo",
@@ -31863,7 +29211,7 @@ export const namesData = [
     "english_name": "Lail",
     "arabic_name": "ليل",
     "meaning": "Night.Lail is an Arabic name for boys and girls that means night, nighttime. BLANKENTER It is Allah who made for you the night that you may rest therein and the day giving sight. Indeed, Allah is full of bounty to the people, but most of the people are not grateful. (Quran 40:61)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Laila",
@@ -31881,7 +29229,7 @@ export const namesData = [
     "english_name": "Lailan",
     "arabic_name": "ليلا",
     "meaning": "Lailan is an Arabic name for boys and girls that means two nights, it is the plural of Lail (night). It can also be considered to mean like the night.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Lailat",
@@ -31989,7 +29337,7 @@ export const namesData = [
     "english_name": "Lamaan",
     "arabic_name": "لامان",
     "meaning": "Lamaan is an Arabic name for boys and girls that means glimmer, shimmer, glow.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Lamah",
@@ -32007,7 +29355,7 @@ export const namesData = [
     "english_name": "Lamees",
     "arabic_name": "لميس",
     "meaning": "Lamees is an Arabic name for boys and girls that means soft to the touch, smooth. It also means the sun.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Lamia",
@@ -32031,7 +29379,7 @@ export const namesData = [
     "english_name": "Lamis",
     "arabic_name": "لميس",
     "meaning": "Lamis is an Arabic name for boys that means toucher, one who touches something.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Lamisa",
@@ -32217,7 +29565,7 @@ export const namesData = [
     "english_name": "Khaleef",
     "arabic_name": "خليف",
     "meaning": "Khaleef is an indirect Quranic name for boys and girls. It means successor (synonym of Khaleefa), heir, a road that goes between two mountains, or any path that is found in the mountains, including paths through which water flows. It is derived from the Kh-L-F root which is found in many locations in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Hajid",
@@ -32370,33 +29718,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Hamas",
-    "arabic_name": "حماس",
-    "meaning": "Enthusiasm, fervour.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hamd",
     "arabic_name": "حامد",
     "meaning": "Praise, laudation of Allah.",
     "gender": "male"
   },
   {
-    "english_name": "Hamdan",
-    "arabic_name": "حمدان",
-    "meaning": "The praised one, The one who lauds, extols, variation of the name Muhammad.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hamdast",
     "arabic_name": "حمديسة",
     "meaning": "Friend, one who remains close.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hamdat",
-    "arabic_name": "هامدة",
-    "meaning": "Hamdat is the Turkish form of the Arabic word Hamdah, which means praise. It is used for boys and girls.",
     "gender": "male"
   },
   {
@@ -32409,7 +29739,7 @@ export const namesData = [
     "english_name": "Khilaal",
     "arabic_name": "خلال",
     "meaning": "Khilaal is a direct Quranic name for boys and girls that means friendship, companionship.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Khilfah",
@@ -32457,7 +29787,7 @@ export const namesData = [
     "english_name": "Khitam",
     "arabic_name": "ختام",
     "meaning": "Khitam is an Arabic name for boys that means seal. It also means ending, final, finale.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Khitfa",
@@ -32541,13 +29871,13 @@ export const namesData = [
     "english_name": "Khulaidah",
     "arabic_name": "خليدة",
     "meaning": "A form of Khalidah, meaning: permanent. Name of a Sahabi who participated in the battle of Badr.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Khulaifah",
     "arabic_name": "خليفه",
     "meaning": "Khulaifah is an Arabic name for boys and girls that means successor. It is the diminutive form of Khalifah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Khulaisah",
@@ -32578,12 +29908,6 @@ export const namesData = [
     "arabic_name": "خلله",
     "meaning": "Khullah is an Arabic name for girls that means friendship, love.",
     "gender": "female"
-  },
-  {
-    "english_name": "Eshaal",
-    "arabic_name": "إشعال",
-    "meaning": "Kindled-- Enlivened and Excited",
-    "gender": "male"
   },
   {
     "english_name": "Eshaan",
@@ -32631,12 +29955,6 @@ export const namesData = [
     "english_name": "Essam",
     "arabic_name": "عصام",
     "meaning": "Safeguard",
-    "gender": "male"
-  },
-  {
-    "english_name": "Etemad",
-    "arabic_name": "تمد",
-    "meaning": "Etemad is an Arabic name for boys and girls that means reliance, trust, confidence in another person.",
     "gender": "male"
   },
   {
@@ -32763,7 +30081,7 @@ export const namesData = [
     "english_name": "Jibal",
     "arabic_name": "جبال",
     "meaning": "Mountain",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Jibillah",
@@ -32829,7 +30147,7 @@ export const namesData = [
     "english_name": "Jinan",
     "arabic_name": "جنان",
     "meaning": "garden or \"paradise\" in Arabic. Male and Female",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Jiyaad",
@@ -32859,7 +30177,7 @@ export const namesData = [
     "english_name": "Jodd",
     "arabic_name": "جود",
     "meaning": "Jodd is an Arabic name for boys and girls that means side, coast, beach. It also means fortunate.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Johar",
@@ -32871,7 +30189,7 @@ export const namesData = [
     "english_name": "Johd",
     "arabic_name": "جهد",
     "meaning": "Johd is an Arabic name for boys and girls that means struggle, strife.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Joinda",
@@ -32907,7 +30225,7 @@ export const namesData = [
     "english_name": "Joud",
     "arabic_name": "جود",
     "meaning": "Joud is an Arabic name for boys and girls that means generosity, goodness toward others.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Juail",
@@ -32970,33 +30288,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hezha",
-    "arabic_name": "هذه",
-    "meaning": "Hezha is a Kurdish name for boys and girls that means respected, highly regarded.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Hiba",
-    "arabic_name": "هبة",
-    "meaning": "Gift",
-    "gender": "female"
-  },
-  {
-    "english_name": "Hibah",
-    "arabic_name": "هيبه",
-    "meaning": "Grant, donation.",
-    "gender": "female"
-  },
-  {
     "english_name": "Hibat-allah",
     "arabic_name": "هيبتلله",
     "meaning": "Gift of Allah",
-    "gender": "female"
-  },
-  {
-    "english_name": "Hibatullah",
-    "arabic_name": "هيبتلله",
-    "meaning": "The gift of Allah swt",
     "gender": "female"
   },
   {
@@ -33060,33 +30354,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hikma",
-    "arabic_name": "حكمة",
-    "meaning": "Hikma is an Arabic name for boys and girls that means wisdom.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Hikmat",
-    "arabic_name": "حكمت",
-    "meaning": "Wisdom.",
-    "gender": "female"
-  },
-  {
     "english_name": "Hila",
     "arabic_name": "حيلة",
     "meaning": "Hope.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Hilal",
-    "arabic_name": "هلال",
-    "meaning": "Crescent, new moon.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Hilf",
-    "arabic_name": "حلف",
-    "meaning": "Hilf is an Arabic name for boys and girls that means treaty, alliance, confederacy.",
     "gender": "female"
   },
   {
@@ -33105,12 +30375,6 @@ export const namesData = [
     "english_name": "Hilyah",
     "arabic_name": "هليه",
     "meaning": "Hiliyah is an Arabic name for girls that means adornment, jewelry. Figuratively it means good manners.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Himaa",
-    "arabic_name": "هيماء",
-    "meaning": "Himaa is an Arabic name for boys and girls that means haven, harbor, hideaway, a place that is defended and protected.",
     "gender": "female"
   },
   {
@@ -33192,12 +30456,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Jalees",
-    "arabic_name": "جليس",
-    "meaning": "A companion, chum, a fast friend, comrade, person with whom one sits",
-    "gender": "male"
-  },
-  {
     "english_name": "Jalib",
     "arabic_name": "جليب",
     "meaning": "Jalib is an indirect Quranic name for boys that means attractive, one who captures hearts. Literally the word Jalib means attractor, and for this reason the word can also be used to mean motive, cause (the thing that attracts you to do something).",
@@ -33243,12 +30501,6 @@ export const namesData = [
     "english_name": "Jamaan",
     "arabic_name": "جمان",
     "meaning": "Two teams",
-    "gender": "male"
-  },
-  {
-    "english_name": "Jamal",
-    "arabic_name": "جمال",
-    "meaning": "Beauty, grace,Handsome.",
     "gender": "male"
   },
   {
@@ -33354,12 +30606,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Iyan",
-    "arabic_name": "عين",
-    "meaning": "Time, Era, Epoch.It is a Quranic name for boys and girls meaning time, era, epoch. It is another version of the name Ayan, with the exact same meaning. Iyan and Ayan are the same word with the same spelling in Arabic in the Quran, the word can be read as either Iyan or Ayan without changing the meaning.",
-    "gender": "male"
-  },
-  {
     "english_name": "Iyas",
     "arabic_name": "إياس",
     "meaning": "Consoling",
@@ -33375,12 +30621,6 @@ export const namesData = [
     "english_name": "Izaad",
     "arabic_name": "ازاد",
     "meaning": "Izaad is an Arabic name for boys that means advocacy, loyalty, support.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Izaan",
-    "arabic_name": "عزان",
-    "meaning": "Obedience",
     "gender": "male"
   },
   {
@@ -33426,12 +30666,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Izz",
-    "arabic_name": "إذ",
-    "meaning": "Glory, honour, High-standing, Prestige",
-    "gender": "male"
-  },
-  {
     "english_name": "Izz-al-din",
     "arabic_name": "عزالدين",
     "meaning": "glory of religion, derived from Arabic (izz) \"glory, power\" and (din) \"religion\".",
@@ -33441,12 +30675,6 @@ export const namesData = [
     "english_name": "Izzaddin",
     "arabic_name": "يزدن",
     "meaning": "Izzaddin is an Arabic name for boys that means might and greatness of the faith, honor of the faith, a person who strengthens and empowers the followers of Islam.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Izzat",
-    "arabic_name": "عززت",
-    "meaning": "High rank, Honour, fame, power.",
     "gender": "male"
   },
   {
@@ -33702,12 +30930,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hayyin",
-    "arabic_name": "هايين",
-    "meaning": "Hayyin is an Arabic name for boys and girls that means easy, facilitated, without obstacles. It also means lenient, forgiving.",
-    "gender": "female"
-  },
-  {
     "english_name": "Hazarah",
     "arabic_name": "حذره",
     "meaning": "Hazarah is an Arabic name for girls that means civilization, culture, the state of being civilized.",
@@ -33792,12 +31014,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Hedi",
-    "arabic_name": "هدي",
-    "meaning": "Hedi is a Kurdish name for boys and girls that means calm, serene.",
-    "gender": "female"
-  },
-  {
     "english_name": "Heela",
     "arabic_name": "حيلة",
     "meaning": "Hope",
@@ -33840,12 +31056,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Jawhar",
-    "arabic_name": "جوهر",
-    "meaning": "Jewel, gem, essence.",
-    "gender": "male"
-  },
-  {
     "english_name": "Jawid",
     "arabic_name": "جاويد",
     "meaning": "Always",
@@ -33879,24 +31089,6 @@ export const namesData = [
     "english_name": "Jayyid",
     "arabic_name": "جيد",
     "meaning": "Jayyid is an Arabic name for boys that means good, a deed or speech that is good.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Jaza",
-    "arabic_name": "جزى",
-    "meaning": "Reward.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Jazaa",
-    "arabic_name": "جزاء",
-    "meaning": "Benefit, Blessings and Profit",
-    "gender": "male"
-  },
-  {
-    "english_name": "Jazal",
-    "arabic_name": "جزل",
-    "meaning": "Jazal is an Arabic name for boys and girls that means happiness, delight.",
     "gender": "male"
   },
   {
@@ -34089,7 +31281,7 @@ export const namesData = [
     "english_name": "Maali",
     "arabic_name": "مالي",
     "meaning": "Noble, sublime, Greatness, Excellency.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Maanah",
@@ -34101,13 +31293,13 @@ export const namesData = [
     "english_name": "Maarij",
     "arabic_name": "مارج",
     "meaning": "ascents, routes of ascent, stairs”, The 70th Surah of the Quran",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Maash",
     "arabic_name": "ماش",
     "meaning": "livelihood, sustenance.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Maawa",
@@ -34149,7 +31341,7 @@ export const namesData = [
     "english_name": "Madhat",
     "arabic_name": "مدحت",
     "meaning": "Praise, lauding, eulogy..",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Madiha",
@@ -34191,7 +31383,7 @@ export const namesData = [
     "english_name": "Maftuh",
     "arabic_name": "مفتوح",
     "meaning": "For whom the doors of good things are open, one whose heart is open to goodness, literally meaning open / free.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mafzalah",
@@ -34215,7 +31407,7 @@ export const namesData = [
     "english_name": "Khulud",
     "arabic_name": "خلود",
     "meaning": "Immortality, eternity.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Khurmi",
@@ -34239,7 +31431,7 @@ export const namesData = [
     "english_name": "Khushbakht",
     "arabic_name": "خشبخة",
     "meaning": "Fortunate, of good fortune",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Khushbu",
@@ -34293,7 +31485,7 @@ export const namesData = [
     "english_name": "Khuzaimah",
     "arabic_name": "خزيمة",
     "meaning": "Old Arabic name",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Khuzama",
@@ -34341,7 +31533,7 @@ export const namesData = [
     "english_name": "Kifah",
     "arabic_name": "كيفه",
     "meaning": "Struggle, fight.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kifahah",
@@ -34359,7 +31551,7 @@ export const namesData = [
     "english_name": "Kifayatullah",
     "arabic_name": "كفاياتلله",
     "meaning": "Kifayatulllah is an Arabic name for boys and girls that means contentment that comes from God, meaning that the person is a gift from God that makes one needless of other things.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kimia",
@@ -34401,7 +31593,7 @@ export const namesData = [
     "english_name": "Kinza",
     "arabic_name": "كينز",
     "meaning": "Hidden Treasure",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kiram",
@@ -34419,13 +31611,13 @@ export const namesData = [
     "english_name": "Kishwar",
     "arabic_name": "قشور",
     "meaning": "A country, region",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kiswa",
     "arabic_name": "قيسوا",
     "meaning": "Arabic for garment, clothing. It refers to the black silk cloth that covers the Kaaba in Mecca, Saudi Arabia.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kiswar",
@@ -34455,7 +31647,7 @@ export const namesData = [
     "english_name": "Kohl",
     "arabic_name": "كحل",
     "meaning": "Kohl is an Arabic name for boys and girls that means kohl, which is a substance that women use to beautify their eyes.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Koila",
@@ -34509,7 +31701,7 @@ export const namesData = [
     "english_name": "Kufah",
     "arabic_name": "كفاح",
     "meaning": "Kufah is an Arabic name for boys and girls that means mound of sand, red sand. It is the name of a city in southern Iraq.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kuhaylah",
@@ -34545,7 +31737,7 @@ export const namesData = [
     "english_name": "Kulsoom",
     "arabic_name": "كلثوم",
     "meaning": "Ibn Al-Husayn al-Ghifari a well-known companion had this name, and quite a few others.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kulsumah",
@@ -34599,7 +31791,7 @@ export const namesData = [
     "english_name": "Layyin",
     "arabic_name": "لييين",
     "meaning": "Tender, resilient.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Layyina",
@@ -34908,12 +32100,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Kharijah",
-    "arabic_name": "خارجه",
-    "meaning": "Outside, external, Ibn Huzafah a companion, had this name.",
-    "gender": "male"
-  },
-  {
     "english_name": "Khasab",
     "arabic_name": "خصب",
     "meaning": "Khasab is an Arabic name for boys that means blessed, filled with blessings.",
@@ -34959,7 +32145,7 @@ export const namesData = [
     "english_name": "Laraib",
     "arabic_name": "لاريب",
     "meaning": "Faultless, pure, intact.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Larisaa",
@@ -34995,7 +32181,7 @@ export const namesData = [
     "english_name": "Latafat",
     "arabic_name": "لطافة",
     "meaning": "Latafat is the Turkish form of the Arabic word Latafah which means gentleness, kindness. It is used for boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Latayif",
@@ -35019,7 +32205,7 @@ export const namesData = [
     "english_name": "Latif",
     "arabic_name": "لطيف",
     "meaning": "Kind, gracious, courteous, gentle, friendly.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Latifa",
@@ -35049,7 +32235,7 @@ export const namesData = [
     "english_name": "Lawahiz",
     "arabic_name": "لوحظ",
     "meaning": "Lawahiz is an Arabic name for boys and girls that means eyes. It also means one who glances. It is the plural of Lahizah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Lawaiza",
@@ -35265,7 +32451,7 @@ export const namesData = [
     "english_name": "Maidan",
     "arabic_name": "ميدان",
     "meaning": "Name of the tutor of the family of Ziyad ibn Abih at Basrah and then at Kufah, he was called al-fil because of the elephant his master had given.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mailiha",
@@ -35337,7 +32523,7 @@ export const namesData = [
     "english_name": "Janan",
     "arabic_name": "جنان",
     "meaning": "Heart, paradise, heaven.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Janasheen",
@@ -35421,13 +32607,13 @@ export const namesData = [
     "english_name": "Jariya",
     "arabic_name": "جارية",
     "meaning": "This was the name of Ibn Jamil, he was on eof the Ashab-As-Suffa",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Jariyah",
     "arabic_name": "جريح",
     "meaning": "Name of a Ashb-as-Suffa",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Jarood",
@@ -35463,12 +32649,6 @@ export const namesData = [
     "english_name": "Kawkab",
     "arabic_name": "كوكب",
     "meaning": "Star.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kawnain",
-    "arabic_name": "كونين",
-    "meaning": "Kawnain is an Arabic name for boys and girls that means the two beings, the two existences, the two universes. It is usually used to refer to this world and the hereafter together.",
     "gender": "male"
   },
   {
@@ -35856,12 +33036,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Jibal",
-    "arabic_name": "جبال",
-    "meaning": "Mountain",
-    "gender": "female"
-  },
-  {
     "english_name": "Jibalah",
     "arabic_name": "جبله",
     "meaning": "Jibalah is an Arabic name for girls that means mountains.",
@@ -35904,33 +33078,15 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Jinan",
-    "arabic_name": "جنان",
-    "meaning": "garden or \"paradise\" in Arabic. Male and Female",
-    "gender": "female"
-  },
-  {
     "english_name": "Jinani",
     "arabic_name": "جناني",
     "meaning": "Jinani is an Arabic name for girls that means heavenly, from Paradise.",
     "gender": "female"
   },
   {
-    "english_name": "Jodd",
-    "arabic_name": "جود",
-    "meaning": "Jodd is an Arabic name for boys and girls that means side, coast, beach. It also means fortunate.",
-    "gender": "female"
-  },
-  {
     "english_name": "Johara",
     "arabic_name": "جوهرة",
     "meaning": "Jewel",
-    "gender": "female"
-  },
-  {
-    "english_name": "Johd",
-    "arabic_name": "جهد",
-    "meaning": "Johd is an Arabic name for boys and girls that means struggle, strife.",
     "gender": "female"
   },
   {
@@ -35949,12 +33105,6 @@ export const namesData = [
     "english_name": "Joodi",
     "arabic_name": "جودي",
     "meaning": "Kind, working.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Joud",
-    "arabic_name": "جود",
-    "meaning": "Joud is an Arabic name for boys and girls that means generosity, goodness toward others.",
     "gender": "female"
   },
   {
@@ -36099,7 +33249,7 @@ export const namesData = [
     "english_name": "Khawatir",
     "arabic_name": "خواطر",
     "meaning": "Khawatir is an Arabic name for boys and girls that means thoughts, ideas, notions.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Khawli",
@@ -36129,7 +33279,7 @@ export const namesData = [
     "english_name": "Khayal",
     "arabic_name": "خيال",
     "meaning": "Imagination, concentration.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Khayr",
@@ -36141,7 +33291,7 @@ export const namesData = [
     "english_name": "Khayrat",
     "arabic_name": "خيرات",
     "meaning": "Derived from Arabic  (khayrah) meaning \"good deed\". Male and Female",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Khayree",
@@ -36189,7 +33339,7 @@ export const namesData = [
     "english_name": "Khazana",
     "arabic_name": "خزانة",
     "meaning": "Treasure",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Khazeer",
@@ -36213,7 +33363,7 @@ export const namesData = [
     "english_name": "Kheer",
     "arabic_name": "خير",
     "meaning": "Kheer is an Arabic name for boys and girls that means virtue, honor, generosity.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Khidash",
@@ -36231,12 +33381,6 @@ export const namesData = [
     "english_name": "Khidr",
     "arabic_name": "خضر",
     "meaning": "Green",
-    "gender": "male"
-  },
-  {
-    "english_name": "Khilaal",
-    "arabic_name": "خلال",
-    "meaning": "Khilaal is a direct Quranic name for boys and girls that means friendship, companionship.",
     "gender": "male"
   },
   {
@@ -36261,12 +33405,6 @@ export const namesData = [
     "english_name": "Khitab",
     "arabic_name": "خطاب",
     "meaning": "Khitab is an Arabic name for boys that means speech, letter, dispatch.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Khitam",
-    "arabic_name": "ختام",
-    "meaning": "Khitam is an Arabic name for boys that means seal. It also means ending, final, finale.",
     "gender": "male"
   },
   {
@@ -36450,12 +33588,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Jahan",
-    "arabic_name": "جهان",
-    "meaning": "The world.",
-    "gender": "male"
-  },
-  {
     "english_name": "Jahanafirin",
     "arabic_name": "جهنفرن",
     "meaning": "Another name for Allah, creator, of the world",
@@ -36582,12 +33714,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Kifah",
-    "arabic_name": "كيفه",
-    "meaning": "Struggle, fight.",
-    "gender": "male"
-  },
-  {
     "english_name": "Kifat",
     "arabic_name": "كيفة",
     "meaning": "Lion, cheetah, tiger.",
@@ -36597,12 +33723,6 @@ export const namesData = [
     "english_name": "Kifayat",
     "arabic_name": "كيفية",
     "meaning": "Enough, sufficient, Self-sufficiency.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kifayatullah",
-    "arabic_name": "كفاياتلله",
-    "meaning": "Kifayatulllah is an Arabic name for boys and girls that means contentment that comes from God, meaning that the person is a gift from God that makes one needless of other things.",
     "gender": "male"
   },
   {
@@ -36630,33 +33750,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Kinza",
-    "arabic_name": "كينز",
-    "meaning": "Hidden Treasure",
-    "gender": "male"
-  },
-  {
     "english_name": "Kishwa",
     "arabic_name": "قشوع",
     "meaning": "A Country, Region.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kishwar",
-    "arabic_name": "قشور",
-    "meaning": "A country, region",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kiswa",
-    "arabic_name": "قيسوا",
-    "meaning": "Arabic for garment, clothing. It refers to the black silk cloth that covers the Kaaba in Mecca, Saudi Arabia.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kohl",
-    "arabic_name": "كحل",
-    "meaning": "Kohl is an Arabic name for boys and girls that means kohl, which is a substance that women use to beautify their eyes.",
     "gender": "male"
   },
   {
@@ -36684,45 +33780,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Kufah",
-    "arabic_name": "كفاح",
-    "meaning": "Kufah is an Arabic name for boys and girls that means mound of sand, red sand. It is the name of a city in southern Iraq.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kulsoom",
-    "arabic_name": "كلثوم",
-    "meaning": "Ibn Al-Husayn al-Ghifari a well-known companion had this name, and quite a few others.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kulthum",
-    "arabic_name": "كلثوم",
-    "meaning": "name of companion",
-    "gender": "male"
-  },
-  {
     "english_name": "Kumail",
     "arabic_name": "كميل",
     "meaning": "Kumail is an indirect Quranic name for boys that means complete, perfect, mature, whole. It is derived from the K-M-L root which is used in many places in the Quran.",
     "gender": "male"
   },
   {
-    "english_name": "Kundas",
-    "arabic_name": "قندس",
-    "meaning": "Kundas is an Arabic name for boys and girls that means magpie, which is a type of bird.",
-    "gender": "male"
-  },
-  {
     "english_name": "Kuraiman",
     "arabic_name": "كريمان",
     "meaning": "Kuraiman is an Arabic name for boys that means generous, selfless, one who honors others.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kuram",
-    "arabic_name": "كرم",
-    "meaning": "Kuram is an Arabic name for boys and girls that means generous, selfless, one who honors others.",
     "gender": "male"
   },
   {
@@ -36804,18 +33870,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Lail",
-    "arabic_name": "ليل",
-    "meaning": "Night.Lail is an Arabic name for boys and girls that means night, nighttime. BLANKENTER It is Allah who made for you the night that you may rest therein and the day giving sight. Indeed, Allah is full of bounty to the people, but most of the people are not grateful. (Quran 40:61)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Lailan",
-    "arabic_name": "ليلا",
-    "meaning": "Lailan is an Arabic name for boys and girls that means two nights, it is the plural of Lail (night). It can also be considered to mean like the night.",
-    "gender": "male"
-  },
-  {
     "english_name": "Laiq",
     "arabic_name": "لائق",
     "meaning": "Suitable, qualified, eligible, Worthy, deserving, capable, decent, qualified, decent.",
@@ -36852,12 +33906,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Lamaan",
-    "arabic_name": "لامان",
-    "meaning": "Lamaan is an Arabic name for boys and girls that means glimmer, shimmer, glow.",
-    "gender": "male"
-  },
-  {
     "english_name": "Lamee",
     "arabic_name": "لامي",
     "meaning": "Bright",
@@ -36870,33 +33918,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Lamees",
-    "arabic_name": "لميس",
-    "meaning": "Lamees is an Arabic name for boys and girls that means soft to the touch, smooth. It also means the sun.",
-    "gender": "male"
-  },
-  {
     "english_name": "Lami",
     "arabic_name": "لم",
     "meaning": "Bright",
     "gender": "male"
   },
   {
-    "english_name": "Lamis",
-    "arabic_name": "لميس",
-    "meaning": "Lamis is an Arabic name for boys that means toucher, one who touches something.",
-    "gender": "male"
-  },
-  {
     "english_name": "Laqeet",
     "arabic_name": "لقيت",
     "meaning": "Well known companion of the Prophet (S.A.W)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Laraib",
-    "arabic_name": "لاريب",
-    "meaning": "Faultless, pure, intact.",
     "gender": "male"
   },
   {
@@ -36951,7 +33981,7 @@ export const namesData = [
     "english_name": "Masakin",
     "arabic_name": "مساكين",
     "meaning": "Masakin is an Arabic name for boys that means residence, habitation.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Masar",
@@ -36975,7 +34005,7 @@ export const namesData = [
     "english_name": "Masarrat",
     "arabic_name": "مسارات",
     "meaning": "Happiness, delight, joy, (Mussarrat is not correct).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Masbubah",
@@ -37005,13 +34035,13 @@ export const namesData = [
     "english_name": "Mashal",
     "arabic_name": "ماشال",
     "meaning": "Lamp, night light.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mashar",
     "arabic_name": "ماشر",
     "meaning": "Mashar is an Arabic name for boys and girls that means honeycomb cell, the hexagonal cells found inside a honeycomb that contain honey.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mashara",
@@ -37047,7 +34077,7 @@ export const namesData = [
     "english_name": "Mashiyat",
     "arabic_name": "مشيط",
     "meaning": "Mashiyat is an indirect Quranic name for boys and girls that means will power, ability to make choices, will. It is derived from the SH-Y-A root which is used in over 200 places in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mashmool",
@@ -37065,7 +34095,7 @@ export const namesData = [
     "english_name": "Mashta",
     "arabic_name": "ماشطة",
     "meaning": "Mashta is an Arabic name for boys and girls that means wintertime. It also means winter resort, a place where people spend time during the winter.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mashurah",
@@ -37173,7 +34203,7 @@ export const namesData = [
     "english_name": "Marjaan",
     "arabic_name": "مرجان",
     "meaning": "Small pearls or corals",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Marjana",
@@ -37356,33 +34386,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Hunain",
-    "arabic_name": "حنين",
-    "meaning": "Hunain is the name of a battle mentioned in the Quran, which was won by the Muslims. Hunain is the name of a valley between at-Taif and Mecca in which the battle took place. The literal meaning of the word is not known, it is derived from the H6-N-N root which has meanings of longing, yearning, nostalgia.",
-    "gender": "male"
-  },
-  {
     "english_name": "Hunayn",
     "arabic_name": "حنين",
     "meaning": "This was the name of the most important man in the Baytal Hikmah (House of Wisdom)",
     "gender": "male"
   },
   {
-    "english_name": "Huraira",
-    "arabic_name": "هريرة",
-    "meaning": "Huraira is an Arabic name for boys and girls that means little cat, kitten. It is used by Muslims after Abu Huraira who is a sahabi (i.e. a companion of the Prophet, peace and blessings of Allah upon him and his companions). Linguistically, huraira is the diminutive form of hirr (cat).",
-    "gender": "male"
-  },
-  {
     "english_name": "Hurairah",
     "arabic_name": "هريرة",
     "meaning": "Narrator of Hadith, a close companion to Prophet Mohammed (PBUH)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hurayra",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
     "gender": "male"
   },
   {
@@ -37395,12 +34407,6 @@ export const namesData = [
     "english_name": "Hurayth",
     "arabic_name": "حريث",
     "meaning": "A small cultivator",
-    "gender": "male"
-  },
-  {
-    "english_name": "Hurmat",
-    "arabic_name": "حرمت",
-    "meaning": "Respect, dignity or something declared, sacred by religion.",
     "gender": "male"
   },
   {
@@ -37575,7 +34581,7 @@ export const namesData = [
     "english_name": "Maymun",
     "arabic_name": "ميمون",
     "meaning": "Fortunate, blessed, Lucky, Blessings and Profit",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mays",
@@ -37695,12 +34701,6 @@ export const namesData = [
     "english_name": "Jumal",
     "arabic_name": "جمل",
     "meaning": "Jumal is an Arabic name for boys that means handsome, good-looking.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Jumanah",
-    "arabic_name": "جومانه",
-    "meaning": "Pearl, name of a companion.",
     "gender": "male"
   },
   {
@@ -37863,7 +34863,7 @@ export const namesData = [
     "english_name": "Kashaaf",
     "arabic_name": "كشاف",
     "meaning": "Kashaaf is an indirect Quranic name for boys and girls that means discoverer, finder. It is derived from the K-SH-F root which is used in many places in the Quran.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Kashaf",
@@ -37917,12 +34917,6 @@ export const namesData = [
     "english_name": "Kasoor",
     "arabic_name": "قصور",
     "meaning": "Kasoor is an Arabic name for boys that means plenty, abounding, much.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kasra",
-    "arabic_name": "كسرة",
-    "meaning": "A Character In Shahnameh.",
     "gender": "male"
   },
   {
@@ -37989,12 +34983,6 @@ export const namesData = [
     "english_name": "Kafil",
     "arabic_name": "كفيل",
     "meaning": "Guarantor, surety, sponsor, responsible.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kahal",
-    "arabic_name": "كاهل",
-    "meaning": "Kahal is an Arabic name for boys and girls that means one who has dark eyelids, a person whose eyelids have the natural appearance of having kohl on them.",
     "gender": "male"
   },
   {
@@ -38103,12 +35091,6 @@ export const namesData = [
     "english_name": "Kaleem",
     "arabic_name": "كليم",
     "meaning": "Speaker, talker",
-    "gender": "male"
-  },
-  {
-    "english_name": "Kaleema",
-    "arabic_name": "كلمة",
-    "meaning": "Public speaker, singer",
     "gender": "male"
   },
   {
@@ -38352,21 +35334,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Latafat",
-    "arabic_name": "لطافة",
-    "meaning": "Latafat is the Turkish form of the Arabic word Latafah which means gentleness, kindness. It is used for boys and girls.",
-    "gender": "male"
-  },
-  {
     "english_name": "Latee",
     "arabic_name": "لتي",
     "meaning": "Gentle, kind, pleasant, friendly",
-    "gender": "male"
-  },
-  {
-    "english_name": "Latif",
-    "arabic_name": "لطيف",
-    "meaning": "Kind, gracious, courteous, gentle, friendly.",
     "gender": "male"
   },
   {
@@ -38376,21 +35346,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Lawahiz",
-    "arabic_name": "لوحظ",
-    "meaning": "Lawahiz is an Arabic name for boys and girls that means eyes. It also means one who glances. It is the plural of Lahizah.",
-    "gender": "male"
-  },
-  {
     "english_name": "Layth",
     "arabic_name": "ليث",
     "meaning": "Lion, A famous jurist had this name",
-    "gender": "male"
-  },
-  {
-    "english_name": "Layyin",
-    "arabic_name": "لييين",
-    "meaning": "Tender, resilient.",
     "gender": "male"
   },
   {
@@ -38517,18 +35475,12 @@ export const namesData = [
     "english_name": "Luham",
     "arabic_name": "لهم",
     "meaning": "Luham is an Arabic name for boys and girls that means great.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Khulaid",
     "arabic_name": "خليد",
     "meaning": "Khulaid is an Arabic name for boys that means immortal, eternal. It is the diminutive form of Khalid.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Khulaidah",
-    "arabic_name": "خليدة",
-    "meaning": "A form of Khalidah, meaning: permanent. Name of a Sahabi who participated in the battle of Badr.",
     "gender": "male"
   },
   {
@@ -38538,21 +35490,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Khulaifah",
-    "arabic_name": "خليفه",
-    "meaning": "Khulaifah is an Arabic name for boys and girls that means successor. It is the diminutive form of Khalifah.",
-    "gender": "male"
-  },
-  {
     "english_name": "Khulayd",
     "arabic_name": "خليد",
     "meaning": "Abidingt, A companion of the Prophet PBUH.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Khulud",
-    "arabic_name": "خلود",
-    "meaning": "Immortality, eternity.",
     "gender": "male"
   },
   {
@@ -38646,12 +35586,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Khushbakht",
-    "arabic_name": "خشبخة",
-    "meaning": "Fortunate, of good fortune",
-    "gender": "male"
-  },
-  {
     "english_name": "Khushdel",
     "arabic_name": "خوشدل",
     "meaning": "Khushdel is an Arabic name for boys that means happy, joyful.",
@@ -38685,12 +35619,6 @@ export const namesData = [
     "english_name": "Khuwailid",
     "arabic_name": "خويلد",
     "meaning": "Khuwailid is an Arabic name for boys that means immortal ,eternal. It is a diminutive form of Khalid.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Khuzaimah",
-    "arabic_name": "خزيمة",
-    "meaning": "Old Arabic name",
     "gender": "male"
   },
   {
@@ -38925,7 +35853,7 @@ export const namesData = [
     "english_name": "Mastoor",
     "arabic_name": "مستور",
     "meaning": "Mastoor is an Arabic name for boys and girls that means hidden, covered, figuratively meaning modest. If Mastoor it is spelled in Arabic, the meaning would recorded, written. Both spellings are directly used in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mastoorah",
@@ -38937,7 +35865,7 @@ export const namesData = [
     "english_name": "Mastoori",
     "arabic_name": "مستور",
     "meaning": "Mastoori is an Arabic name for boys and girls that means hidden, covered.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mastura",
@@ -38967,13 +35895,13 @@ export const namesData = [
     "english_name": "Mataf",
     "arabic_name": "مطاف",
     "meaning": "Mataf is an indirect Quranic name for boys and girls that means place of tawaf (a place where people perform circumambulation, which refers to the courtyard of the Holy Sanctuary in Mecca, Saudi Arabia), a place that is visited often.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Matahir",
     "arabic_name": "متحير",
     "meaning": "Matahir is an Arabic name for boys and girls that means cleansers, purifiers, all things used for purification and cleansing.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Matana",
@@ -39021,13 +35949,13 @@ export const namesData = [
     "english_name": "Mathnawi",
     "arabic_name": "مثنوي",
     "meaning": "It's an Arabic name for boys and girls that means couplet, binary, in twos, in pairs.It usually refers to a format of poetry in which each two lines rhyme and have the same metre.It is usually pronounced in the Persian way (Masnavi) to refer to the Masnavi of Rumi, which is a work of poetry composed by the Persian poet",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mathwa",
     "arabic_name": "مثوى",
     "meaning": "Mathwa is an Arabic name for boys and girls that means home, abode.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Matia",
@@ -39390,18 +36318,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Jawd",
-    "arabic_name": "جود",
-    "meaning": "Jawd is an Arabic name for boys and girls that means torrential rain.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Jawdah",
-    "arabic_name": "جوده",
-    "meaning": "Heavy rain, benevolent deed",
-    "gender": "male"
-  },
-  {
     "english_name": "Jawdan",
     "arabic_name": "جودان",
     "meaning": "Goodness",
@@ -39507,7 +36423,7 @@ export const namesData = [
     "english_name": "Majal",
     "arabic_name": "مجال",
     "meaning": "Majal is an Arabic name for boys and girls that means chance, opportunity. It also means domain, scope, area of knowledge, Its literal meaning is space, room, elbowroom.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Majda",
@@ -39567,7 +36483,7 @@ export const namesData = [
     "english_name": "Makeen",
     "arabic_name": "ماكين",
     "meaning": "Strong, Firm",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Makeenah",
@@ -39639,7 +36555,7 @@ export const namesData = [
     "english_name": "Kanz",
     "arabic_name": "كنز",
     "meaning": "Treasure",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kanza",
@@ -39657,13 +36573,13 @@ export const namesData = [
     "english_name": "Karamah",
     "arabic_name": "كرامه",
     "meaning": "Nobility, miracle",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Karawan",
     "arabic_name": "كروان",
     "meaning": "Karawan is an Arabic name for boys and girls that refers to a group of birds known as curlew in English.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Kardawaiyah",
@@ -39729,12 +36645,6 @@ export const namesData = [
     "english_name": "Kas",
     "arabic_name": "كاس",
     "meaning": "Glass, This was the name of a woman, daughter of Buhayr bin Jundub",
-    "gender": "female"
-  },
-  {
-    "english_name": "Kashaaf",
-    "arabic_name": "كشاف",
-    "meaning": "Kashaaf is an indirect Quranic name for boys and girls that means discoverer, finder. It is derived from the K-SH-F root which is used in many places in the Quran.",
     "gender": "female"
   },
   {
@@ -39840,12 +36750,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Janan",
-    "arabic_name": "جنان",
-    "meaning": "Heart, paradise, heaven.",
-    "gender": "female"
-  },
-  {
     "english_name": "Janina",
     "arabic_name": "جنينة",
     "meaning": "Janina means garden, a variant of Junaina. Janina also refers to a type of silk chador.",
@@ -39873,18 +36777,6 @@ export const namesData = [
     "english_name": "Jannat",
     "arabic_name": "جنات",
     "meaning": "Heaven, paradise.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Jariya",
-    "arabic_name": "جارية",
-    "meaning": "This was the name of Ibn Jamil, he was on eof the Ashab-As-Suffa",
-    "gender": "female"
-  },
-  {
-    "english_name": "Jariyah",
-    "arabic_name": "جريح",
-    "meaning": "Name of a Ashb-as-Suffa",
     "gender": "female"
   },
   {
@@ -39990,21 +36882,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Maarij",
-    "arabic_name": "مارج",
-    "meaning": "ascents, routes of ascent, stairs”, The 70th Surah of the Quran",
-    "gender": "male"
-  },
-  {
     "english_name": "Maarufi",
     "arabic_name": "مارفع",
     "meaning": "Maarufi is an Arabic name for boys that means doer of good deeds, one who does what is appropriate and acceptable.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Maash",
-    "arabic_name": "ماش",
-    "meaning": "livelihood, sustenance.",
     "gender": "male"
   },
   {
@@ -40143,7 +37023,7 @@ export const namesData = [
     "english_name": "Lujain",
     "arabic_name": "لوجين",
     "meaning": "Lujain is an Arabic name for girls and less commonly for boys that means silver.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Luqman",
@@ -40299,12 +37179,6 @@ export const namesData = [
     "english_name": "Maalam",
     "arabic_name": "مالم",
     "meaning": "Maalam is an Arabic name for boys that means milestone, road sign.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Maali",
-    "arabic_name": "مالي",
-    "meaning": "Noble, sublime, Greatness, Excellency.",
     "gender": "male"
   },
   {
@@ -40482,18 +37356,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Khaleef",
-    "arabic_name": "خليف",
-    "meaning": "Khaleef is an indirect Quranic name for boys and girls. It means successor (synonym of Khaleefa), heir, a road that goes between two mountains, or any path that is found in the mountains, including paths through which water flows. It is derived from the Kh-L-F root which is found in many locations in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Khaleefa",
-    "arabic_name": "خليفة",
-    "meaning": "Khaleefa is a direct Quranic name for boys and girls. It means heir, successor, agent, deputy, trustee, and the Quran uses it to refer to all humanity, since humans are Gods agents, successors and representatives on Earth as is mentioned in the Quran.",
-    "gender": "male"
-  },
-  {
     "english_name": "Khaleel",
     "arabic_name": "خليل",
     "meaning": "Beautiful, good friend",
@@ -40515,19 +37377,19 @@ export const namesData = [
     "english_name": "Minhal",
     "arabic_name": "مِنْهَال",
     "meaning": "Generous, Honorable.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Minnah",
     "arabic_name": "منه",
     "meaning": "Kindness, grace, blessing.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Minnat",
     "arabic_name": "معينة",
     "meaning": "Prudent, wise, a sword of the Prophet Muhammad",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Minnatullah",
@@ -40581,7 +37443,7 @@ export const namesData = [
     "english_name": "Misaq",
     "arabic_name": "ميثاق",
     "meaning": "Agreement, covenant, contract, pact.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Misba",
@@ -40617,7 +37479,7 @@ export const namesData = [
     "english_name": "Mishal",
     "arabic_name": "ميشال",
     "meaning": "Torch, light",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mishall",
@@ -40635,7 +37497,7 @@ export const namesData = [
     "english_name": "Mishkat",
     "arabic_name": "مشكاة",
     "meaning": "Mishkat is a direct Quranic name for boys and girls that means means niche, which is a shallow recess in a wall that contains a lantern (it is like a shelf to put lanterns on, but the shelf is embedded inside the wall). The word Mishkat is used in the Quran in verse 24:35:",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Miskah",
@@ -40671,7 +37533,7 @@ export const namesData = [
     "english_name": "Mizn",
     "arabic_name": "مزن",
     "meaning": "Cloud and Rain.Mizn is direct Quranic name for boys and girls that means white cloud, rain-bearing cloud and rain. It is a common, though non-Standard, pronunciation of the name Muzn. BLANKENTER This word is used in the Quran in Surat al-Waqiah (chapter 56 of the Quran)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mizna",
@@ -40683,12 +37545,6 @@ export const namesData = [
     "english_name": "Madeeh",
     "arabic_name": "ماضيه",
     "meaning": "Madeeh is an Arabic name for boys that means praise.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Madhat",
-    "arabic_name": "مدحت",
-    "meaning": "Praise, lauding, eulogy..",
     "gender": "male"
   },
   {
@@ -40743,12 +37599,6 @@ export const namesData = [
     "english_name": "Mafaz",
     "arabic_name": "مافاز",
     "meaning": "Successful",
-    "gender": "male"
-  },
-  {
-    "english_name": "Maftuh",
-    "arabic_name": "مفتوح",
-    "meaning": "For whom the doors of good things are open, one whose heart is open to goodness, literally meaning open / free.",
     "gender": "male"
   },
   {
@@ -40923,19 +37773,19 @@ export const namesData = [
     "english_name": "Manal",
     "arabic_name": "منال",
     "meaning": "Successful",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Manar",
     "arabic_name": "منار",
     "meaning": "radiant, brilliant, literally meaning one who is like a lighthouse.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Manari",
     "arabic_name": "منار",
     "meaning": "radiant, brilliant, literally meaning one who is like a lighthouse.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Manazir",
@@ -40959,13 +37809,13 @@ export const namesData = [
     "english_name": "Manha",
     "arabic_name": "منها",
     "meaning": "Gift of Allah.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Manhal",
     "arabic_name": "منهل",
     "meaning": "Fountains, spring of salubrious water.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Mani",
@@ -41049,7 +37899,7 @@ export const namesData = [
     "english_name": "Mughirah",
     "arabic_name": "مغيره",
     "meaning": "Mughirah is an Arabic name for boys that means attacker, raider.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mughithah",
@@ -41139,7 +37989,7 @@ export const namesData = [
     "english_name": "Muhizzat",
     "arabic_name": "مهزة",
     "meaning": "Muhizzat is the Turkish form of the Arabic name Muhizzah which means gracious, extra generous, extra honorable, one who is ahead of others when it comes to generosity and honor. It is used for both boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Muhja",
@@ -41499,7 +38349,7 @@ export const namesData = [
     "english_name": "Mubin",
     "arabic_name": "مبين",
     "meaning": "Clear, plain, distinct, manifest.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mubina",
@@ -41625,7 +38475,7 @@ export const namesData = [
     "english_name": "Mukafat",
     "arabic_name": "موقفة",
     "meaning": "Mukafat is an Arabic name for boys and girls that means reward, recompense.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mukai",
@@ -41727,7 +38577,7 @@ export const namesData = [
     "english_name": "Mumtaz",
     "arabic_name": "ممتاز",
     "meaning": "Distinguished, superior, outstanding.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mumtaza",
@@ -41745,13 +38595,13 @@ export const namesData = [
     "english_name": "Muna",
     "arabic_name": "مونى",
     "meaning": "Wish, Desire.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Munaam",
     "arabic_name": "منام",
     "meaning": "Benefit, Blessings and Profit",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Munadiyah",
@@ -41781,18 +38631,6 @@ export const namesData = [
     "english_name": "Manfoosah",
     "arabic_name": "منفصة",
     "meaning": "She was the daughter of Abu Yazid bin Abu al-FAwaris a very pious woman, she wept often for fear of Allah.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Manha",
-    "arabic_name": "منها",
-    "meaning": "Gift of Allah.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Manhal",
-    "arabic_name": "منهل",
-    "meaning": "Fountains, spring of salubrious water.",
     "gender": "female"
   },
   {
@@ -41919,7 +38757,7 @@ export const namesData = [
     "english_name": "Maram",
     "arabic_name": "مرام",
     "meaning": "Wish, desire, aspiration.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Maranat",
@@ -41937,13 +38775,13 @@ export const namesData = [
     "english_name": "Mareekh",
     "arabic_name": "مريخ",
     "meaning": "Mareekh is an Arabic name for boys and girls that is a synonym of Murdasanj , which is a chemical that was used in Medieval times in alchemy and medicine. In English it is known as lead monoxide (chemical formula PbO).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Muntahi",
     "arabic_name": "منتهي",
     "meaning": "Muntahi is an Arabic name for boys that means one who has arrived, one who has reached his goal or destination.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Muntasiriyyah",
@@ -41991,7 +38829,7 @@ export const namesData = [
     "english_name": "Muqla",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Muradat",
@@ -42069,7 +38907,7 @@ export const namesData = [
     "english_name": "Muruj",
     "arabic_name": "مروج",
     "meaning": "Muruj is an Arabic name for boys that means green fields, green pastures.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Murvareed",
@@ -42174,21 +39012,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Masakin",
-    "arabic_name": "مساكين",
-    "meaning": "Masakin is an Arabic name for boys that means residence, habitation.",
-    "gender": "male"
-  },
-  {
     "english_name": "Masari",
     "arabic_name": "مصاري",
     "meaning": "Masari is an Arabic name for boys that is an attribution to Masar, which means road, path, direction of travel, thus Masari means on the road, belonging to the road.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Masarrat",
-    "arabic_name": "مسارات",
-    "meaning": "Happiness, delight, joy, (Mussarrat is not correct).",
     "gender": "male"
   },
   {
@@ -42231,18 +39057,6 @@ export const namesData = [
     "english_name": "Mashahid",
     "arabic_name": "مَشَاهِد",
     "meaning": "landscapes, panoramas, spectacles, views",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mashal",
-    "arabic_name": "ماشال",
-    "meaning": "Lamp, night light.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mashar",
-    "arabic_name": "ماشر",
-    "meaning": "Mashar is an Arabic name for boys and girls that means honeycomb cell, the hexagonal cells found inside a honeycomb that contain honey.",
     "gender": "male"
   },
   {
@@ -42399,7 +39213,7 @@ export const namesData = [
     "english_name": "Nafasat",
     "arabic_name": "نفسة",
     "meaning": "Refinement",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nafay",
@@ -42486,12 +39300,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mashiyat",
-    "arabic_name": "مشيط",
-    "meaning": "Mashiyat is an indirect Quranic name for boys and girls that means will power, ability to make choices, will. It is derived from the SH-Y-A root which is used in over 200 places in the Quran.",
-    "gender": "male"
-  },
-  {
     "english_name": "Mashkoor",
     "arabic_name": "مشكور",
     "meaning": "One who is worthy of thanks, deserving, commendable, The person to whom one is indebted.",
@@ -42543,12 +39351,6 @@ export const namesData = [
     "english_name": "Mashruh",
     "arabic_name": "مشروح",
     "meaning": "Mashruh is an Arabic name for boys that means explained. It also means relaxed, opened, especially referring to a heart that is open to accept something.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mashta",
-    "arabic_name": "ماشطة",
-    "meaning": "Mashta is an Arabic name for boys and girls that means wintertime. It also means winter resort, a place where people spend time during the winter.",
     "gender": "male"
   },
   {
@@ -42636,18 +39438,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mastoor",
-    "arabic_name": "مستور",
-    "meaning": "Mastoor is an Arabic name for boys and girls that means hidden, covered, figuratively meaning modest. If Mastoor it is spelled in Arabic, the meaning would recorded, written. Both spellings are directly used in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mastoori",
-    "arabic_name": "مستور",
-    "meaning": "Mastoori is an Arabic name for boys and girls that means hidden, covered.",
-    "gender": "male"
-  },
-  {
     "english_name": "Mastur",
     "arabic_name": "ماستر",
     "meaning": "Close, Hidden",
@@ -42663,12 +39453,6 @@ export const namesData = [
     "english_name": "Makan",
     "arabic_name": "مكان",
     "meaning": "Makan is an Arabic name for boys that means place. It is used 28 times in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Makeen",
-    "arabic_name": "ماكين",
-    "meaning": "Strong, Firm",
     "gender": "male"
   },
   {
@@ -42735,7 +39519,7 @@ export const namesData = [
     "english_name": "Malak",
     "arabic_name": "ملاك",
     "meaning": "angel",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Malang",
@@ -42885,7 +39669,7 @@ export const namesData = [
     "english_name": "Naghmat",
     "arabic_name": "نغمة",
     "meaning": "Naghmat is an Arabic name for girls that means tune, melody.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nagina",
@@ -42915,7 +39699,7 @@ export const namesData = [
     "english_name": "Nahad",
     "arabic_name": "ناهد",
     "meaning": "Nahad is an Arabic name for boys and girls that means honorable, strong, mighty.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nahal",
@@ -42933,7 +39717,7 @@ export const namesData = [
     "english_name": "Nahar",
     "arabic_name": "نهار",
     "meaning": "Nahar is an Arabic name for boys and girls that means daytime, day. It is used 57 times in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Naheed",
@@ -42951,7 +39735,7 @@ export const namesData = [
     "english_name": "Nahid",
     "arabic_name": "ناهد",
     "meaning": "Generosity",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nahida",
@@ -43011,7 +39795,7 @@ export const namesData = [
     "english_name": "Nahran",
     "arabic_name": "نهران",
     "meaning": "Nahran is an Arabic name for boys and girls that means rivers. It is a plural of Nahr.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nahwah",
@@ -43083,7 +39867,7 @@ export const namesData = [
     "english_name": "Mouminin",
     "arabic_name": "مؤمنين",
     "meaning": "Believer in Allah",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Mouminun",
@@ -43227,19 +40011,19 @@ export const namesData = [
     "english_name": "Munar",
     "arabic_name": "منار",
     "meaning": "Munar is an Arabic name for boys and girls that means well-lit, bright, enlightened, clear.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Munawar",
     "arabic_name": "منور",
     "meaning": "Illuminated, brilliant.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Munawwar",
     "arabic_name": "منور",
     "meaning": "Enlightened, lighted.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Munawwara",
@@ -43377,7 +40161,7 @@ export const namesData = [
     "english_name": "Muntaha",
     "arabic_name": "منتهى",
     "meaning": "Muntaha is an Arabic name for boys that means goal, aspiration, target. It also means end, finale, final destination.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Lu-luah",
@@ -43476,21 +40260,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Luham",
-    "arabic_name": "لهم",
-    "meaning": "Luham is an Arabic name for boys and girls that means great.",
-    "gender": "female"
-  },
-  {
     "english_name": "Luja",
     "arabic_name": "لوجى",
     "meaning": "of great depth",
-    "gender": "female"
-  },
-  {
-    "english_name": "Lujain",
-    "arabic_name": "لوجين",
-    "meaning": "Lujain is an Arabic name for girls and less commonly for boys that means silver.",
     "gender": "female"
   },
   {
@@ -43558,12 +40330,6 @@ export const namesData = [
     "arabic_name": "لنا",
     "meaning": "Moon.",
     "gender": "female"
-  },
-  {
-    "english_name": "Minnat",
-    "arabic_name": "معينة",
-    "meaning": "Prudent, wise, a sword of the Prophet Muhammad",
-    "gender": "male"
   },
   {
     "english_name": "Minnat-ullah",
@@ -43776,18 +40542,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mataf",
-    "arabic_name": "مطاف",
-    "meaning": "Mataf is an indirect Quranic name for boys and girls that means place of tawaf (a place where people perform circumambulation, which refers to the courtyard of the Holy Sanctuary in Mecca, Saudi Arabia), a place that is visited often.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Matahir",
-    "arabic_name": "متحير",
-    "meaning": "Matahir is an Arabic name for boys and girls that means cleansers, purifiers, all things used for purification and cleansing.",
-    "gender": "male"
-  },
-  {
     "english_name": "Matalib",
     "arabic_name": "مطاليب",
     "meaning": "Matalib is an Arabic name for boys that means demands, desires, things that are sought. It is the plural of Matlab.",
@@ -43833,18 +40587,6 @@ export const namesData = [
     "english_name": "Mathar",
     "arabic_name": "مثار",
     "meaning": "Rain",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mathnawi",
-    "arabic_name": "مثنوي",
-    "meaning": "It's an Arabic name for boys and girls that means couplet, binary, in twos, in pairs.It usually refers to a format of poetry in which each two lines rhyme and have the same metre.It is usually pronounced in the Persian way (Masnavi) to refer to the Masnavi of Rumi, which is a work of poetry composed by the Persian poet",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mathwa",
-    "arabic_name": "مثوى",
-    "meaning": "Mathwa is an Arabic name for boys and girls that means home, abode.",
     "gender": "male"
   },
   {
@@ -44031,7 +40773,7 @@ export const namesData = [
     "english_name": "Midhat",
     "arabic_name": "مدحت",
     "meaning": "Means \"praise, eulogy\" in Arabic.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Midlaj",
@@ -44073,7 +40815,7 @@ export const namesData = [
     "english_name": "Mifrah",
     "arabic_name": "مفرح",
     "meaning": "A person who is easily made happy, who is always or often happy and joyous.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Miftaah",
@@ -44109,7 +40851,7 @@ export const namesData = [
     "english_name": "Mihad",
     "arabic_name": "معهد",
     "meaning": "Mihad is a direct Quranic name for boys and girls that means cradle, place of comfort, plain (large area of flat land). The word Mihad is used seven times in the Quran.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Mihammad",
@@ -44223,7 +40965,7 @@ export const namesData = [
     "english_name": "Milhaan",
     "arabic_name": "ملحان",
     "meaning": "Milhaan is an indirect Quranic name for boys and girls that refers to Kanoon al-Awwal or Kanoon ath-Thani (the months of December or January in English). The name comes from milh (salt), which is also used to refer to a pure white color, and December/January is named so due to its whiteness caused by snowfall.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Milhas",
@@ -44262,21 +41004,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Minhal",
-    "arabic_name": "مِنْهَال",
-    "meaning": "Generous, Honorable.",
-    "gender": "male"
-  },
-  {
     "english_name": "Minhali",
     "arabic_name": "منهل",
     "meaning": "Minhali is an Arabic name for boys that means generous, honorable. It is an attribution to Minhal.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Minnah",
-    "arabic_name": "منه",
-    "meaning": "Kindness, grace, blessing.",
     "gender": "male"
   },
   {
@@ -44295,7 +41025,7 @@ export const namesData = [
     "english_name": "Nail",
     "arabic_name": "نيل",
     "meaning": "Winner, gainer, Acquirer, earner",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nailah",
@@ -44379,13 +41109,13 @@ export const namesData = [
     "english_name": "Najah",
     "arabic_name": "نجاح",
     "meaning": "Success.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Najat",
     "arabic_name": "نجاة",
     "meaning": "Successful, prosperous",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Najdah",
@@ -44694,12 +41424,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Malak",
-    "arabic_name": "ملاك",
-    "meaning": "angel",
-    "gender": "female"
-  },
-  {
     "english_name": "Malakah",
     "arabic_name": "ملكه",
     "meaning": "Talent",
@@ -44784,33 +41508,15 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Manal",
-    "arabic_name": "منال",
-    "meaning": "Successful",
-    "gender": "female"
-  },
-  {
     "english_name": "Manaliaa",
     "arabic_name": "منالا",
     "meaning": "Manaliaa is an Arabic name for girls that means achievement, attainment. It is a variant of Manaliyah.",
     "gender": "female"
   },
   {
-    "english_name": "Manar",
-    "arabic_name": "منار",
-    "meaning": "radiant, brilliant, literally meaning one who is like a lighthouse.",
-    "gender": "female"
-  },
-  {
     "english_name": "Manara",
     "arabic_name": "منارة",
     "meaning": "Fem. of Manar, Minarat of masjid  light-house.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Manari",
-    "arabic_name": "منار",
-    "meaning": "radiant, brilliant, literally meaning one who is like a lighthouse.",
     "gender": "female"
   },
   {
@@ -44991,7 +41697,7 @@ export const namesData = [
     "english_name": "Muzammil",
     "arabic_name": "مزمل",
     "meaning": "Wrapped,One who is enwrapped in garments. Al-Muzzammil: title of the 73rd Sura of the Quran. In this sura, Allah addresses the Prophet Muhammad.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Muzaynah",
@@ -45066,12 +41772,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Khawatir",
-    "arabic_name": "خواطر",
-    "meaning": "Khawatir is an Arabic name for boys and girls that means thoughts, ideas, notions.",
-    "gender": "female"
-  },
-  {
     "english_name": "Khawdan",
     "arabic_name": "خودا",
     "meaning": "Khawdan is an Arabic name for girls that means tender, delicate, good-mannered.",
@@ -45090,21 +41790,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Khayal",
-    "arabic_name": "خيال",
-    "meaning": "Imagination, concentration.",
-    "gender": "female"
-  },
-  {
     "english_name": "Khayrah",
     "arabic_name": "خيره",
     "meaning": "Good",
-    "gender": "female"
-  },
-  {
-    "english_name": "Khayrat",
-    "arabic_name": "خيرات",
-    "meaning": "Derived from Arabic  (khayrah) meaning \"good deed\". Male and Female",
     "gender": "female"
   },
   {
@@ -45129,12 +41817,6 @@ export const namesData = [
     "english_name": "Khayyira",
     "arabic_name": "خيرا",
     "meaning": "Beautiful and Radiant | Noble, Admirable and Praiseworthy. Khayyira is a synonym of (has the same meaning as) Khaira, it means a woman who is good in character and beautiful in looks and manners. Look at the page for Khaira for more information on these two names.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Khazana",
-    "arabic_name": "خزانة",
-    "meaning": "Treasure",
     "gender": "female"
   },
   {
@@ -45165,12 +41847,6 @@ export const namesData = [
     "english_name": "Khazzarah",
     "arabic_name": "خزارة",
     "meaning": "Khazzarah is an Arabic name for girls that means soft, green.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Kheer",
-    "arabic_name": "خير",
-    "meaning": "Kheer is an Arabic name for boys and girls that means virtue, honor, generosity.",
     "gender": "female"
   },
   {
@@ -45360,12 +42036,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Misaq",
-    "arabic_name": "ميثاق",
-    "meaning": "Agreement, covenant, contract, pact.",
-    "gender": "male"
-  },
-  {
     "english_name": "Misbaah",
     "arabic_name": "مصباح",
     "meaning": "Lamp, Light",
@@ -45414,12 +42084,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mishal",
-    "arabic_name": "ميشال",
-    "meaning": "Torch, light",
-    "gender": "male"
-  },
-  {
     "english_name": "Mishbaah",
     "arabic_name": "مشبه",
     "meaning": "Lamp",
@@ -45429,12 +42093,6 @@ export const namesData = [
     "english_name": "Mishdad",
     "arabic_name": "مشدد",
     "meaning": "Mishdad is an Arabic name for boys that means strong, tough.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mishkat",
-    "arabic_name": "مشكاة",
-    "meaning": "Mishkat is a direct Quranic name for boys and girls that means means niche, which is a shallow recess in a wall that contains a lantern (it is like a shelf to put lanterns on, but the shelf is embedded inside the wall). The word Mishkat is used in the Quran in verse 24:35:",
     "gender": "male"
   },
   {
@@ -45528,16 +42186,10 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mizn",
-    "arabic_name": "مزن",
-    "meaning": "Cloud and Rain.Mizn is direct Quranic name for boys and girls that means white cloud, rain-bearing cloud and rain. It is a common, though non-Standard, pronunciation of the name Muzn. BLANKENTER This word is used in the Quran in Surat al-Waqiah (chapter 56 of the Quran)",
-    "gender": "male"
-  },
-  {
     "english_name": "Mizyan",
     "arabic_name": "مزيان",
     "meaning": "Mizyan is an Arabic name for boys and girls that means good-looking, beautiful.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Mubayyin",
@@ -45567,12 +42219,6 @@ export const namesData = [
     "english_name": "Mubid",
     "arabic_name": "مبيد",
     "meaning": "Intellectual",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mubin",
-    "arabic_name": "مبين",
-    "meaning": "Clear, plain, distinct, manifest.",
     "gender": "male"
   },
   {
@@ -45822,12 +42468,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Midhat",
-    "arabic_name": "مدحت",
-    "meaning": "Means \"praise, eulogy\" in Arabic.",
-    "gender": "female"
-  },
-  {
     "english_name": "Miesha",
     "arabic_name": "ميشا",
     "meaning": "Life and Alive",
@@ -45846,21 +42486,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Mifrah",
-    "arabic_name": "مفرح",
-    "meaning": "A person who is easily made happy, who is always or often happy and joyous.",
-    "gender": "female"
-  },
-  {
     "english_name": "Miftahah",
     "arabic_name": "مفتاحه",
     "meaning": "Miftahah is an Arabic name for girls that means one who guides others to the right path. It also means key.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Mihad",
-    "arabic_name": "معهد",
-    "meaning": "Mihad is a direct Quranic name for boys and girls that means cradle, place of comfort, plain (large area of flat land). The word Mihad is used seven times in the Quran.",
     "gender": "female"
   },
   {
@@ -45873,12 +42501,6 @@ export const namesData = [
     "english_name": "Mihri",
     "arabic_name": "مهري",
     "meaning": "Sun",
-    "gender": "female"
-  },
-  {
-    "english_name": "Milhaan",
-    "arabic_name": "ملحان",
-    "meaning": "Milhaan is an indirect Quranic name for boys and girls that refers to Kanoon al-Awwal or Kanoon ath-Thani (the months of December or January in English). The name comes from milh (salt), which is also used to refer to a pure white color, and December/January is named so due to its whiteness caused by snowfall.",
     "gender": "female"
   },
   {
@@ -45903,12 +42525,6 @@ export const namesData = [
     "english_name": "Marduf",
     "arabic_name": "مردف",
     "meaning": "Marduf is an Arabic name for boys that means followed, one after whom others come.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Mareekh",
-    "arabic_name": "مريخ",
-    "meaning": "Mareekh is an Arabic name for boys and girls that is a synonym of Murdasanj , which is a chemical that was used in Medieval times in alchemy and medicine. In English it is known as lead monoxide (chemical formula PbO).",
     "gender": "male"
   },
   {
@@ -45957,12 +42573,6 @@ export const namesData = [
     "english_name": "Marin",
     "arabic_name": "مرن",
     "meaning": "Marin is an Arabic name for boys that means gentle, lenient.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Marjaan",
-    "arabic_name": "مرجان",
-    "meaning": "Small pearls or corals",
     "gender": "male"
   },
   {
@@ -46233,7 +42843,7 @@ export const namesData = [
     "english_name": "Nadidah",
     "arabic_name": "نضيدة",
     "meaning": "Equal to anyone else",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nadima",
@@ -46257,7 +42867,7 @@ export const namesData = [
     "english_name": "Nadira",
     "arabic_name": "نادرة",
     "meaning": "Rare,Inaccessible",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Izzudeen",
@@ -46308,12 +42918,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Jaan",
-    "arabic_name": "جان",
-    "meaning": "Life, Soul",
-    "gender": "male"
-  },
-  {
     "english_name": "Jaar",
     "arabic_name": "جار",
     "meaning": "Jaar is an Arabic name for boys that means neighbor.",
@@ -46344,12 +42948,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Jabalah",
-    "arabic_name": "جبله",
-    "meaning": "Mountain, hill",
-    "gender": "male"
-  },
-  {
     "english_name": "Jaban",
     "arabic_name": "جبان",
     "meaning": "Soft hearted",
@@ -46377,12 +42975,6 @@ export const namesData = [
     "english_name": "Jabbar",
     "arabic_name": "جبار",
     "meaning": "Mighty, brave",
-    "gender": "male"
-  },
-  {
-    "english_name": "Jabeen",
-    "arabic_name": "جبين",
-    "meaning": "River Ganga",
     "gender": "male"
   },
   {
@@ -46575,7 +43167,7 @@ export const namesData = [
     "english_name": "Mushtaq",
     "arabic_name": "مشتاق",
     "meaning": "Ardent, Longing, yearning, eager.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Mushtaree",
@@ -46695,12 +43287,6 @@ export const namesData = [
     "english_name": "Muhiz",
     "arabic_name": "مهز",
     "meaning": "Muhiz is an Arabic name for boys that means extra generous, extra honorable, one who is ahead of others when it comes to generosity and honor.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Muhizzat",
-    "arabic_name": "مهزة",
-    "meaning": "Muhizzat is the Turkish form of the Arabic name Muhizzah which means gracious, extra generous, extra honorable, one who is ahead of others when it comes to generosity and honor. It is used for both boys and girls.",
     "gender": "male"
   },
   {
@@ -46941,12 +43527,6 @@ export const namesData = [
     "english_name": "Marahi",
     "arabic_name": "مره",
     "meaning": "Marahi is an Arabic name for boys that means joyous, lively, exuberant.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Maram",
-    "arabic_name": "مرام",
-    "meaning": "Wish, desire, aspiration.",
     "gender": "male"
   },
   {
@@ -47232,12 +43812,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mukafat",
-    "arabic_name": "موقفة",
-    "meaning": "Mukafat is an Arabic name for boys and girls that means reward, recompense.",
-    "gender": "male"
-  },
-  {
     "english_name": "Mukafih",
     "arabic_name": "موقفه",
     "meaning": "Freedom fighter.",
@@ -47361,7 +43935,7 @@ export const namesData = [
     "english_name": "Noori",
     "arabic_name": "نوري",
     "meaning": "Light, luminous, Shining, brightness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Noorie",
@@ -47481,13 +44055,13 @@ export const namesData = [
     "english_name": "Noum",
     "arabic_name": "نوم",
     "meaning": "Noum is an Arabic name for boys and girls that means easy and luxurious life.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nour",
     "arabic_name": "نور",
     "meaning": "Light radiance",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nouran",
@@ -47763,7 +44337,7 @@ export const namesData = [
     "english_name": "Najlan",
     "arabic_name": "نجلا",
     "meaning": "Najlan is an Arabic name for boys and girls that means one who has wide beautiful eyes.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Najlat",
@@ -47775,7 +44349,7 @@ export const namesData = [
     "english_name": "Najm",
     "arabic_name": "نجم",
     "meaning": "Star, planet, celestial body",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Najma",
@@ -47805,7 +44379,7 @@ export const namesData = [
     "english_name": "Najud",
     "arabic_name": "نجد",
     "meaning": "Najud is an Arabic name for boys and girls that means one who rescues others often. It also means wise, intelligent, sensible.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Najumah",
@@ -47841,7 +44415,7 @@ export const namesData = [
     "english_name": "Nakheel",
     "arabic_name": "نخيل",
     "meaning": "Nakheel is an Arabic name for boys and girls that means date palm trees. It is the plural of Nakhlah. It also means something that is purified.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nakhlah",
@@ -47937,18 +44511,6 @@ export const namesData = [
     "english_name": "Munsif",
     "arabic_name": "منصف",
     "meaning": "Just, fair, righteous.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Muntaha",
-    "arabic_name": "منتهى",
-    "meaning": "Muntaha is an Arabic name for boys that means goal, aspiration, target. It also means end, finale, final destination.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Muntahi",
-    "arabic_name": "منتهي",
-    "meaning": "Muntahi is an Arabic name for boys that means one who has arrived, one who has reached his goal or destination.",
     "gender": "male"
   },
   {
@@ -48375,7 +44937,7 @@ export const namesData = [
     "english_name": "Neem",
     "arabic_name": "نيم",
     "meaning": "Neem is an Arabic name for boys and girls that means luxury, ease. It also means something brings peace and calm to those who see it.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Neeshad",
@@ -48426,12 +44988,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Maidan",
-    "arabic_name": "ميدان",
-    "meaning": "Name of the tutor of the family of Ziyad ibn Abih at Basrah and then at Kufah, he was called al-fil because of the elephant his master had given.",
-    "gender": "male"
-  },
-  {
     "english_name": "Maiin",
     "arabic_name": "مين",
     "meaning": "Flowing",
@@ -48471,12 +45027,6 @@ export const namesData = [
     "english_name": "Maja",
     "arabic_name": "ماجا",
     "meaning": "Splendid",
-    "gender": "male"
-  },
-  {
-    "english_name": "Majal",
-    "arabic_name": "مجال",
-    "meaning": "Majal is an Arabic name for boys and girls that means chance, opportunity. It also means domain, scope, area of knowledge, Its literal meaning is space, room, elbowroom.",
     "gender": "male"
   },
   {
@@ -48633,12 +45183,6 @@ export const namesData = [
     "english_name": "Muqid",
     "arabic_name": "مقيد",
     "meaning": "Muqid is an Arabic name for boys that means kindler, lighter, a person who lights a fire or a lamp.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Muqla",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
     "gender": "male"
   },
   {
@@ -48831,13 +45375,13 @@ export const namesData = [
     "english_name": "Nijat",
     "arabic_name": "نجاة",
     "meaning": "Nijat or Nejat is the Persian and Urdu pronunciation of the Arabic word Najat, which means salvation, success, to be saved.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nikhat",
     "arabic_name": "نكهات",
     "meaning": "Fragrance",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nila",
@@ -48915,7 +45459,7 @@ export const namesData = [
     "english_name": "Nimatullah",
     "arabic_name": "نيماتلله",
     "meaning": "Nimatullah is an Arabic name for boys and girls that means Gods blessings, Gods bounties, the good things that God bestows upon humans.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nimerah",
@@ -48957,7 +45501,7 @@ export const namesData = [
     "english_name": "Nisbat",
     "arabic_name": "نسبة",
     "meaning": "Nisbat is the Turkish form of the Arabic name Nisbah which means relationship, connection, harmony, proportion.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Noushaa",
@@ -48999,7 +45543,7 @@ export const namesData = [
     "english_name": "Nuaim",
     "arabic_name": "نواعم",
     "meaning": "Name of several of the Prophets companions",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nuaimaat",
@@ -49137,7 +45681,7 @@ export const namesData = [
     "english_name": "Numou",
     "arabic_name": "نمو",
     "meaning": "Numou is an Arabic name for boys and girls that means growth, increase.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nawra",
@@ -49161,7 +45705,7 @@ export const namesData = [
     "english_name": "Nawroz",
     "arabic_name": "نوروز",
     "meaning": "It's a Kurdish name for boys and girls that refers to the Persian New Years Day, which is the first day of spring (March 21).The word literally means new day, and is the same as the Persian name Nowrooz. The difference is that the Kurdish word Nawroz is used for both boys and girls while Nowrooz  used only for boys",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nawwal",
@@ -49173,7 +45717,7 @@ export const namesData = [
     "english_name": "Nawwar",
     "arabic_name": "نور",
     "meaning": "Nawwar is an Arabic name for boys and girls that means radiant, glowing, brilliant, dazzling, beautiful.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nawwarah",
@@ -49203,7 +45747,7 @@ export const namesData = [
     "english_name": "Nayir",
     "arabic_name": "نير",
     "meaning": "Nayir is an Arabic name for boys and girls that means radiant, brilliant.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nayla",
@@ -49269,7 +45813,7 @@ export const namesData = [
     "english_name": "Nazakat",
     "arabic_name": "نزكيه",
     "meaning": "Delicacy",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nazan",
@@ -49614,12 +46158,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mughirah",
-    "arabic_name": "مغيره",
-    "meaning": "Mughirah is an Arabic name for boys that means attacker, raider.",
-    "gender": "male"
-  },
-  {
     "english_name": "Mughis",
     "arabic_name": "مغيث",
     "meaning": "Helper, assistant.",
@@ -49683,13 +46221,13 @@ export const namesData = [
     "english_name": "Nushur",
     "arabic_name": "نشر",
     "meaning": "Nushur is an Arabic name for boys and girls that means resurrection, when people are brought back to life after death.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nusrah",
     "arabic_name": "نصره",
     "meaning": "Help, support",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nusrat",
@@ -49701,7 +46239,7 @@ export const namesData = [
     "english_name": "Nutou",
     "arabic_name": "نت",
     "meaning": "Nutou is an Arabic name for boys and girls that means highness of status, elevation, loftiness, greatness, prominence.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nuwaira",
@@ -49791,7 +46329,7 @@ export const namesData = [
     "english_name": "Nuzhat",
     "arabic_name": "نزهة",
     "meaning": "Nuzhat is the Turkish form of the Arabic name Nuzhah which means virtue, chastity, distance from sins. It also means stroll, walk, a short journey taken for pleasure.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nyasia",
@@ -49944,12 +46482,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Kanz",
-    "arabic_name": "كنز",
-    "meaning": "Treasure",
-    "gender": "male"
-  },
-  {
     "english_name": "Kanzuddin",
     "arabic_name": "كنزدن",
     "meaning": "Kanzuddin is an Arabic name for boys that means treasure of the faith, which means a person who is a treasure to the Muslims due to his virtues.",
@@ -49968,12 +46500,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Karamah",
-    "arabic_name": "كرامه",
-    "meaning": "Nobility, miracle",
-    "gender": "male"
-  },
-  {
     "english_name": "Karamat",
     "arabic_name": "كرامات",
     "meaning": "Karimah is dignity, honour, respect. Name of a companion of the Prophet PBUH.",
@@ -49983,12 +46509,6 @@ export const namesData = [
     "english_name": "Karamullah",
     "arabic_name": "قرمله",
     "meaning": "Bounty of Allah.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Karawan",
-    "arabic_name": "كروان",
-    "meaning": "Karawan is an Arabic name for boys and girls that refers to a group of birds known as curlew in English.",
     "gender": "male"
   },
   {
@@ -50241,13 +46761,13 @@ export const namesData = [
     "english_name": "Nur",
     "arabic_name": "نور",
     "meaning": "Light",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nur-al-huda",
     "arabic_name": "نورالهدى",
     "meaning": "Light of the faith",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nura",
@@ -50271,7 +46791,7 @@ export const namesData = [
     "english_name": "Nurahan",
     "arabic_name": "نورهان",
     "meaning": "Nurahan is a Turkish name for boys and girls that means radiant king, radiant leader. It is also a Persian name meaning gift, good tiding, souvenir.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nuralain",
@@ -50337,7 +46857,7 @@ export const namesData = [
     "english_name": "Nurshah",
     "arabic_name": "نرشح",
     "meaning": "Nurshah is an Arabic-Perisan name for boys and girls that is made up of the Arabic word Nur (light) and the Persian word shah (king), thus meaning kings light. Since shah is also used for adding emphasis to names, the name also means the most powerful light.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nurtaj",
@@ -50472,27 +46992,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Munar",
-    "arabic_name": "منار",
-    "meaning": "Munar is an Arabic name for boys and girls that means well-lit, bright, enlightened, clear.",
-    "gender": "male"
-  },
-  {
     "english_name": "Munasir",
     "arabic_name": "منسير",
     "meaning": "Helper, protector, friend.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Munawar",
-    "arabic_name": "منور",
-    "meaning": "Illuminated, brilliant.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Munawwar",
-    "arabic_name": "منور",
-    "meaning": "Enlightened, lighted.",
     "gender": "male"
   },
   {
@@ -50967,7 +47469,7 @@ export const namesData = [
     "english_name": "Muzn",
     "arabic_name": "مزن",
     "meaning": "Cloud and Rain",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Muzna",
@@ -51111,7 +47613,7 @@ export const namesData = [
     "english_name": "Naba",
     "arabic_name": "نبى",
     "meaning": "Arabic for announcement, news, tidings. It is the name of chapter 78 of the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nabaahat",
@@ -51327,7 +47829,7 @@ export const namesData = [
     "english_name": "Qabool",
     "arabic_name": "قبول",
     "meaning": "Accepted, accreditec",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qaddarah",
@@ -51363,7 +47865,7 @@ export const namesData = [
     "english_name": "Qadri",
     "arabic_name": "قدري",
     "meaning": "Qadri is an Arabic name for boys and girls that menas powerful, able.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qadriyyah",
@@ -51411,13 +47913,13 @@ export const namesData = [
     "english_name": "Qaleeb",
     "arabic_name": "قليب",
     "meaning": "Qaleeb is an Arabic name for boys and girls that means well, a hole in the ground from which water (or other materials) is acquired.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qamar",
     "arabic_name": "قمر",
     "meaning": "The moon. Al-Qamar",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qamara",
@@ -51435,7 +47937,7 @@ export const namesData = [
     "english_name": "Qamari",
     "arabic_name": "قمري",
     "meaning": "Qamari is an Arabic name for boys and girls that means moon-like, meaning bright, radiant, good-looking.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qamariyyah",
@@ -51465,7 +47967,7 @@ export const namesData = [
     "english_name": "Qamrun",
     "arabic_name": "قمرن",
     "meaning": "Qamrun is an Arabic name for boys and girls that means moon, being a pet form of Qamar.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qanaat",
@@ -51519,7 +48021,7 @@ export const namesData = [
     "english_name": "Qareen",
     "arabic_name": "قرين",
     "meaning": "Qareen is an Arabic name for boys and girls that means friend, companion.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qaribah",
@@ -51633,7 +48135,7 @@ export const namesData = [
     "english_name": "Qiblah",
     "arabic_name": "قبله",
     "meaning": "Qiblah is an Arabic name for boys and girls that means direction, especially the direction of the Kaaba in Mecca, Saudi Arabia, which the Muslims face during formal prayer.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qiladah",
@@ -51651,7 +48153,7 @@ export const namesData = [
     "english_name": "Qindil",
     "arabic_name": "قنديل",
     "meaning": "Qindil is an Arabic name for boys and girls that means oil lamp, a lamp that burns oil, such as olive oil, to give off light.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qindilah",
@@ -51873,7 +48375,7 @@ export const namesData = [
     "english_name": "Qiyam",
     "arabic_name": "قييم",
     "meaning": "Qiyam is an Arabic name for boys and girls that means to stand up late at night to pray. The word is used in many places in the Quran, such as 25:64.There is another Arabic word Qiyam which means values, a persons principles or standards and what he/she consider important in life.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qiyyama",
@@ -51891,7 +48393,7 @@ export const namesData = [
     "english_name": "Quba",
     "arabic_name": "قبة",
     "meaning": "Quba is an Arabic name for boys and girls that is the name of a place in the city of Medina where the first mosque of Islam was built. The mosque itself is known as Quba Mosque. The meaning of the word may be that which is built up, that which has been erected, from the word Qabaa (he built).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qubilah",
@@ -51945,7 +48447,7 @@ export const namesData = [
     "english_name": "Qudwa",
     "arabic_name": "قدوة",
     "meaning": "Model, example.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qudwah",
@@ -51957,7 +48459,7 @@ export const namesData = [
     "english_name": "Qumr",
     "arabic_name": "قمر",
     "meaning": "Qumr is an Arabic name for girls that means extremely fair-skinned, extremely white-skinned.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qumrah",
@@ -51993,7 +48495,7 @@ export const namesData = [
     "english_name": "Qurb",
     "arabic_name": "قرب",
     "meaning": "Qurb is an Arabic name for boys and girls that means closeness, nearness, proximity.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Qurrah",
@@ -52023,7 +48525,7 @@ export const namesData = [
     "english_name": "Nisbi",
     "arabic_name": "نسبي",
     "meaning": "Nisbi is an Arabic name for boys and girls that means relative, comparative, proportional.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nisha",
@@ -52035,7 +48537,7 @@ export const namesData = [
     "english_name": "Nishat",
     "arabic_name": "نشاط",
     "meaning": "Mirth, ecstacy.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nisma",
@@ -52053,7 +48555,7 @@ export const namesData = [
     "english_name": "Nismat",
     "arabic_name": "نسمات",
     "meaning": "Nismat is the Turkish form of the Arabic name Nismah which means soft breeze.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nisreen",
@@ -52101,7 +48603,7 @@ export const namesData = [
     "english_name": "Niyaz",
     "arabic_name": "نياز",
     "meaning": "Dedication, Offering",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Niyusha",
@@ -52227,7 +48729,7 @@ export const namesData = [
     "english_name": "Quwa",
     "arabic_name": "قوة",
     "meaning": "Power and Strength",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Raabia",
@@ -52704,27 +49206,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mumtaz",
-    "arabic_name": "ممتاز",
-    "meaning": "Distinguished, superior, outstanding.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Muna",
-    "arabic_name": "مونى",
-    "meaning": "Wish, Desire.",
-    "gender": "male"
-  },
-  {
     "english_name": "Munaadi",
     "arabic_name": "منادي",
     "meaning": "Called",
-    "gender": "male"
-  },
-  {
-    "english_name": "Munaam",
-    "arabic_name": "منام",
-    "meaning": "Benefit, Blessings and Profit",
     "gender": "male"
   },
   {
@@ -52738,12 +49222,6 @@ export const namesData = [
     "arabic_name": "منبها",
     "meaning": "Munabbahan is an Arabic name for boys that means awake, wakeful, vigilant.",
     "gender": "male"
-  },
-  {
-    "english_name": "Mizyan",
-    "arabic_name": "مزيان",
-    "meaning": "Mizyan is an Arabic name for boys and girls that means good-looking, beautiful.",
-    "gender": "female"
   },
   {
     "english_name": "Moattar",
@@ -52844,12 +49322,6 @@ export const namesData = [
   {
     "english_name": "Mouminat",
     "arabic_name": "مؤمنة",
-    "meaning": "Believer in Allah",
-    "gender": "female"
-  },
-  {
-    "english_name": "Mouminin",
-    "arabic_name": "مؤمنين",
     "meaning": "Believer in Allah",
     "gender": "female"
   },
@@ -52995,7 +49467,7 @@ export const namesData = [
     "english_name": "Orjun",
     "arabic_name": "أرجون",
     "meaning": "Orjun is an Arabic name for boys and girls that refers to the branch of a palm tree that holds the cluster of dates (i.e. what remains of the branch once the dates are removed).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Orna",
@@ -53328,12 +49800,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Muruj",
-    "arabic_name": "مروج",
-    "meaning": "Muruj is an Arabic name for boys that means green fields, green pastures.",
-    "gender": "male"
-  },
-  {
     "english_name": "Murur",
     "arabic_name": "مرور",
     "meaning": "Murur is an Arabic name for boys that means to pass, to go, passage, crossing.",
@@ -53481,7 +49947,7 @@ export const namesData = [
     "english_name": "Nasirah",
     "arabic_name": "نصيره",
     "meaning": "A companion of prophet muhammed, helper,",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Nasiraldin",
@@ -53499,7 +49965,7 @@ export const namesData = [
     "english_name": "Nasooh",
     "arabic_name": "نصوح",
     "meaning": "Nasooh is an Arabic name for boys that means faithful, loyal, sincere.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Nasr",
@@ -53523,7 +49989,7 @@ export const namesData = [
     "english_name": "Nasrat",
     "arabic_name": "نصرت",
     "meaning": "Nasrat is the Turkish form of the Arabic word Nasrah which means help, support.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Nasruddin",
@@ -53535,7 +50001,7 @@ export const namesData = [
     "english_name": "Nasrullah",
     "arabic_name": "ناصرلله",
     "meaning": "Nasrullah is an Arabic name for boys that means Gods help, Gods support, help and support that comes from God.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Nassah",
@@ -53715,7 +50181,7 @@ export const namesData = [
     "english_name": "Parizad",
     "arabic_name": "برذاذ",
     "meaning": "Of divine origin",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Parla",
@@ -53763,7 +50229,7 @@ export const namesData = [
     "english_name": "Parsa",
     "arabic_name": "بارسا",
     "meaning": "Devout or abstemious person, pious",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Parto",
@@ -53850,12 +50316,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Muzammil",
-    "arabic_name": "مزمل",
-    "meaning": "Wrapped,One who is enwrapped in garments. Al-Muzzammil: title of the 73rd Sura of the Quran. In this sura, Allah addresses the Prophet Muhammad.",
-    "gender": "male"
-  },
-  {
     "english_name": "Muzarib",
     "arabic_name": "مذرب",
     "meaning": "Muzarib is an indirect Quranic name for boys that means striker, fierce attacker. It is the name of one of the Sahaba (companions of the Prophet (PBUH), whose full name is Muzarib bin Zaid. Muzarib is derived from the DHAD-R-B root which is used in many places in the Quran.",
@@ -53895,12 +50355,6 @@ export const namesData = [
     "english_name": "Muzhir",
     "arabic_name": "مزهر",
     "meaning": "Witnessed, name of companion",
-    "gender": "male"
-  },
-  {
-    "english_name": "Muzn",
-    "arabic_name": "مزن",
-    "meaning": "Cloud and Rain",
     "gender": "male"
   },
   {
@@ -54003,7 +50457,7 @@ export const namesData = [
     "english_name": "Nashwan",
     "arabic_name": "نشوان",
     "meaning": "Nashwan is an Arabic name for boys and girls that means delirious, drunk, ecstatic. It is the name of a famous Yemeni scholoar, Nashwan al-Humairi (died 573 Hijri) and Nashwan bint Abdullah al-Kinaniyyah (died 880 Hijri), who is a female scholar of hadith.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nasia",
@@ -54063,7 +50517,7 @@ export const namesData = [
     "english_name": "Nasim",
     "arabic_name": "نسيم",
     "meaning": "Breath of Fresh air, breeze",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nasima",
@@ -54096,12 +50550,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Nasirah",
-    "arabic_name": "نصيره",
-    "meaning": "A companion of prophet muhammed, helper,",
-    "gender": "female"
-  },
-  {
     "english_name": "Nasma",
     "arabic_name": "نسمة",
     "meaning": "Ripple.",
@@ -54120,12 +50568,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Nasooh",
-    "arabic_name": "نصوح",
-    "meaning": "Nasooh is an Arabic name for boys that means faithful, loyal, sincere.",
-    "gender": "female"
-  },
-  {
     "english_name": "Nasra",
     "arabic_name": "ناصرا",
     "meaning": "Helper",
@@ -54135,12 +50577,6 @@ export const namesData = [
     "english_name": "Nasraa",
     "arabic_name": "نصرا",
     "meaning": "Nasraa is an Arabic name for girls that means helper, support.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Nasrat",
-    "arabic_name": "نصرت",
-    "meaning": "Nasrat is the Turkish form of the Arabic word Nasrah which means help, support.",
     "gender": "female"
   },
   {
@@ -54159,12 +50595,6 @@ export const namesData = [
     "english_name": "Nasrin",
     "arabic_name": "نسرين",
     "meaning": "Eglantier, Blue scented flower",
-    "gender": "female"
-  },
-  {
-    "english_name": "Nasrullah",
-    "arabic_name": "ناصرلله",
-    "meaning": "Nasrullah is an Arabic name for boys that means Gods help, Gods support, help and support that comes from God.",
     "gender": "female"
   },
   {
@@ -54291,7 +50721,7 @@ export const namesData = [
     "english_name": "Rawh",
     "arabic_name": "روح",
     "meaning": "Refreshment, Rest",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rawhah",
@@ -54345,7 +50775,7 @@ export const namesData = [
     "english_name": "Rawza",
     "arabic_name": "روزا",
     "meaning": "Garden",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Raya",
@@ -54375,13 +50805,13 @@ export const namesData = [
     "english_name": "Nasar",
     "arabic_name": "نصر",
     "meaning": "Nasar is a Persian name for girls that means shade, shaded, a place not reached by sunlight.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nasayir",
     "arabic_name": "نصير",
     "meaning": "Nasayir is an Arabic name for boys and girls that means supporter, helper of the oppressed.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Naseeba",
@@ -54447,7 +50877,7 @@ export const namesData = [
     "english_name": "Nashat",
     "arabic_name": "نشأت",
     "meaning": "Joy, Cheer, Growing up, youth",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nasheed",
@@ -54603,7 +51033,7 @@ export const namesData = [
     "english_name": "Naoum",
     "arabic_name": "نوم",
     "meaning": "Naoum is an Arabic name for boys and girls that means blessed, one given many blessings.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Naqeeb",
@@ -54675,24 +51105,12 @@ export const namesData = [
     "english_name": "Narmin",
     "arabic_name": "نرمين",
     "meaning": "Clean, Soft",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Nasaar",
     "arabic_name": "نصار",
     "meaning": "Prose writer",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nasar",
-    "arabic_name": "نصر",
-    "meaning": "Nasar is a Persian name for girls that means shade, shaded, a place not reached by sunlight.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nasayir",
-    "arabic_name": "نصير",
-    "meaning": "Nasayir is an Arabic name for boys and girls that means supporter, helper of the oppressed.",
     "gender": "male"
   },
   {
@@ -54915,7 +51333,7 @@ export const namesData = [
     "english_name": "Ramlat",
     "arabic_name": "رملة",
     "meaning": "Ramlat is the Turkish form of the Arabic name Ramlah. It is used for boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ramsha",
@@ -54927,7 +51345,7 @@ export const namesData = [
     "english_name": "Ramza",
     "arabic_name": "رمزا",
     "meaning": "Symbol, sign",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ramzah",
@@ -54951,7 +51369,7 @@ export const namesData = [
     "english_name": "Ranaa",
     "arabic_name": "رنا",
     "meaning": "Moving gracefully, lovely, beautiful, graceful, delicate, tender.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ranada",
@@ -55011,7 +51429,7 @@ export const namesData = [
     "english_name": "Ranin",
     "arabic_name": "رنين",
     "meaning": "Ranin is an Arabic name for boys and girls that means tinkle, resonance, buzz.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Raniya",
@@ -55122,12 +51540,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nashat",
-    "arabic_name": "نشأت",
-    "meaning": "Joy, Cheer, Growing up, youth",
-    "gender": "male"
-  },
-  {
     "english_name": "Nasheet",
     "arabic_name": "نشيط",
     "meaning": "Energetic, dynamic, lively, fresh, vigorous.",
@@ -55182,12 +51594,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nashwan",
-    "arabic_name": "نشوان",
-    "meaning": "Nashwan is an Arabic name for boys and girls that means delirious, drunk, ecstatic. It is the name of a famous Yemeni scholoar, Nashwan al-Humairi (died 573 Hijri) and Nashwan bint Abdullah al-Kinaniyyah (died 880 Hijri), who is a female scholar of hadith.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nasib",
     "arabic_name": "نصيب",
     "meaning": "Noble, highborn., relative",
@@ -55227,12 +51633,6 @@ export const namesData = [
     "english_name": "Nasikh",
     "arabic_name": "نسخ",
     "meaning": "Nasikh is an Arabic name for boys that means copyist, clerk. It also means changer, editor, blotter, a person who makes changes to a text.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nasim",
-    "arabic_name": "نسيم",
-    "meaning": "Breath of Fresh air, breeze",
     "gender": "male"
   },
   {
@@ -55293,12 +51693,6 @@ export const namesData = [
     "english_name": "Nangialai",
     "arabic_name": "ننجيل",
     "meaning": "Honorable.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Naoum",
-    "arabic_name": "نوم",
-    "meaning": "Naoum is an Arabic name for boys and girls that means blessed, one given many blessings.",
     "gender": "female"
   },
   {
@@ -55428,12 +51822,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Narmin",
-    "arabic_name": "نرمين",
-    "meaning": "Clean, Soft",
-    "gender": "female"
-  },
-  {
     "english_name": "Narmina",
     "arabic_name": "نرمين",
     "meaning": "Clean, Soft, Delicate",
@@ -55551,7 +51939,7 @@ export const namesData = [
     "english_name": "Rameen",
     "arabic_name": "رامين",
     "meaning": "that means joyous, jubilant, happy and active. Loyal, Obedient, Submissive.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rameesah",
@@ -55629,13 +52017,13 @@ export const namesData = [
     "english_name": "Rifaah",
     "arabic_name": "رفاه",
     "meaning": "Rifaah is an Arabic name for boys and girls that means greatness, highness of status according to many sources, though it is a non-standard derivation from the word rafaa (he became elevated). It is the name of many companions of the Prophet, both male and female, such as Rifaah al-Ansari, Rifaah al-Badri.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rifaat",
     "arabic_name": "رفات",
     "meaning": "Rifaat is the Turkish form of the Arabic name Rifah which means greatness, highness of rank and status. It is used for both boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rifah",
@@ -55647,13 +52035,13 @@ export const namesData = [
     "english_name": "Rifaq",
     "arabic_name": "رفاق",
     "meaning": "Rifaq is an Arabic name for boys and girls that means friends, companions. It is the plural of Rafeeq, which can also mean gentle, tender.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rifat",
     "arabic_name": "رفات",
     "meaning": "High rank, high standing, dignity, exaltation, eminence.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rifaya",
@@ -55689,7 +52077,7 @@ export const namesData = [
     "english_name": "Rifqat",
     "arabic_name": "رفقة",
     "meaning": "Rifqat is the Turkish form of the Arabic name Rifqah which means gentleness, leniency, kindness. It can be used for boys and girls both.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Riha",
@@ -55785,7 +52173,7 @@ export const namesData = [
     "english_name": "Riqqah",
     "arabic_name": "ريقه",
     "meaning": "Riqqah is an Arabic name for boys and girls that means gentleness, leniency, kindness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rishona",
@@ -55839,7 +52227,7 @@ export const namesData = [
     "english_name": "Rehab",
     "arabic_name": "رحاب",
     "meaning": "Rehab is an indirect Quranic name for boys and girls that means vast, spacious, open-minded, generous. It is derived from the R-H6-B Quranic root.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Reham",
@@ -55947,7 +52335,7 @@ export const namesData = [
     "english_name": "Rida",
     "arabic_name": "رضا",
     "meaning": "(In Gods) favor, contentment, satisfaction",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ridaa",
@@ -55965,7 +52353,7 @@ export const namesData = [
     "english_name": "Ridwan",
     "arabic_name": "رضوان",
     "meaning": "Acceptance, satisfaction, name of the keeper of the gates of Heaven",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ridwana",
@@ -55989,7 +52377,7 @@ export const namesData = [
     "english_name": "Riza",
     "arabic_name": "ريزا",
     "meaning": "Pleasure, assent al-Sharif Abu al-Hasan Ibn-Tahir had this name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rizeen",
@@ -56163,7 +52551,7 @@ export const namesData = [
     "english_name": "Rahmi",
     "arabic_name": "رحمي",
     "meaning": "Love and care",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rahmiyyah",
@@ -56343,7 +52731,7 @@ export const namesData = [
     "english_name": "Nazeef",
     "arabic_name": "نزيف",
     "meaning": "Pure, clean, innocent, neat and clean, chaste.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nazeefah",
@@ -56487,7 +52875,7 @@ export const namesData = [
     "english_name": "Nazish",
     "arabic_name": "نزيش",
     "meaning": "Pride, arrogance",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nazlar",
@@ -56790,18 +53178,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Najlan",
-    "arabic_name": "نجلا",
-    "meaning": "Najlan is an Arabic name for boys and girls that means one who has wide beautiful eyes.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Najm",
-    "arabic_name": "نجم",
-    "meaning": "Star, planet, celestial body",
-    "gender": "male"
-  },
-  {
     "english_name": "Najm-al-din",
     "arabic_name": "نجملدن",
     "meaning": "Star of the faith",
@@ -56841,18 +53217,6 @@ export const namesData = [
     "english_name": "Najmuddin",
     "arabic_name": "نجمدن",
     "meaning": "Najmuddin is an Arabic name for boys that means star of the faith, a person who is famed and respected among the Muslims.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Najud",
-    "arabic_name": "نجد",
-    "meaning": "Najud is an Arabic name for boys and girls that means one who rescues others often. It also means wise, intelligent, sensible.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nakheel",
-    "arabic_name": "نخيل",
-    "meaning": "Nakheel is an Arabic name for boys and girls that means date palm trees. It is the plural of Nakhlah. It also means something that is purified.",
     "gender": "male"
   },
   {
@@ -56937,7 +53301,7 @@ export const namesData = [
     "english_name": "Rahbat",
     "arabic_name": "راهبات",
     "meaning": "Rahbat is the Turkish form of the Arabic name Rahbah which means vast expanse of land, wide area of land. It is used for both boys and girls.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Raheebah",
@@ -56949,7 +53313,7 @@ export const namesData = [
     "english_name": "Raheef",
     "arabic_name": "رهيف",
     "meaning": "Raheef is an Arabic name for boys and girls that means gentle, tender. It is used mainly for boys by Arabs, while African Muslims use it for girls as well.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Raheela",
@@ -56991,7 +53355,7 @@ export const namesData = [
     "english_name": "Rahil",
     "arabic_name": "رحيل",
     "meaning": "Path guider",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rahila",
@@ -57117,12 +53481,6 @@ export const namesData = [
     "english_name": "Mawthuq",
     "arabic_name": "موثوق",
     "meaning": "Mawthuq is an Arabic name for boys that means trusted, trustworthy.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Maymun",
-    "arabic_name": "ميمون",
-    "meaning": "Fortunate, blessed, Lucky, Blessings and Profit",
     "gender": "male"
   },
   {
@@ -57270,12 +53628,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nadidah",
-    "arabic_name": "نضيدة",
-    "meaning": "Equal to anyone else",
-    "gender": "male"
-  },
-  {
     "english_name": "Nadim",
     "arabic_name": "نديم",
     "meaning": "Friend, companion, entertaining",
@@ -57285,12 +53637,6 @@ export const namesData = [
     "english_name": "Nadir",
     "arabic_name": "نادر",
     "meaning": "Extraordinary, rare, dear, exceptional.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nadira",
-    "arabic_name": "نادرة",
-    "meaning": "Rare,Inaccessible",
     "gender": "male"
   },
   {
@@ -57336,12 +53682,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nafasat",
-    "arabic_name": "نفسة",
-    "meaning": "Refinement",
-    "gender": "male"
-  },
-  {
     "english_name": "Nafees",
     "arabic_name": "نفيس",
     "meaning": "Refined, pure, choice, exquisite, precious, invaluable, costly.",
@@ -57384,12 +53724,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Naghmat",
-    "arabic_name": "نغمة",
-    "meaning": "Naghmat is an Arabic name for girls that means tune, melody.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nagi",
     "arabic_name": "ناجي",
     "meaning": "Saved, Variant transcription of NAJI",
@@ -57411,12 +53745,6 @@ export const namesData = [
     "english_name": "Naguib",
     "arabic_name": "نجيب",
     "meaning": "Noble",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nahad",
-    "arabic_name": "ناهد",
-    "meaning": "Nahad is an Arabic name for boys and girls that means honorable, strong, mighty.",
     "gender": "male"
   },
   {
@@ -57465,7 +53793,7 @@ export const namesData = [
     "english_name": "Rufah",
     "arabic_name": "رفح",
     "meaning": "Rufah is an Arabic name for boys and girls that means affectionate, sympathetic.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rufaidah",
@@ -57507,7 +53835,7 @@ export const namesData = [
     "english_name": "Ruhab",
     "arabic_name": "رحاب",
     "meaning": "Right guidance",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ruhaibah",
@@ -57531,7 +53859,7 @@ export const namesData = [
     "english_name": "Ruhan",
     "arabic_name": "رهن",
     "meaning": "Ruhan is an indirect Quranic name for boys and girls that means spiritual (i.e. related to the spirit), kindhearted, compassionate. It is derived from the R-W-H6 (spirit, happiness) root which is used in many places in the Quran.Ruhan is a Persian name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ruhana",
@@ -57543,7 +53871,7 @@ export const namesData = [
     "english_name": "Ruhani",
     "arabic_name": "روحاني",
     "meaning": "Spiritual",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ruhaniya",
@@ -57561,7 +53889,7 @@ export const namesData = [
     "english_name": "Ruhi",
     "arabic_name": "روحي",
     "meaning": "Spiritual",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ruhina",
@@ -57603,12 +53931,6 @@ export const namesData = [
     "english_name": "Nusur",
     "arabic_name": "نصر",
     "meaning": "Nusur is an Arabic name for boys that means vultures. It is the plural of Nisr.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nutou",
-    "arabic_name": "نت",
-    "meaning": "Nutou is an Arabic name for boys and girls that means highness of status, elevation, loftiness, greatness, prominence.",
     "gender": "male"
   },
   {
@@ -57663,12 +53985,6 @@ export const namesData = [
     "english_name": "Nuzhan",
     "arabic_name": "نزهان",
     "meaning": "Nuzhan is a Persian name for boys that means pine tree.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nuzhat",
-    "arabic_name": "نزهة",
-    "meaning": "Nuzhat is the Turkish form of the Arabic name Nuzhah which means virtue, chastity, distance from sins. It also means stroll, walk, a short journey taken for pleasure.",
     "gender": "male"
   },
   {
@@ -57900,12 +54216,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Mushtaq",
-    "arabic_name": "مشتاق",
-    "meaning": "Ardent, Longing, yearning, eager.",
-    "gender": "male"
-  },
-  {
     "english_name": "Mushtaqi",
     "arabic_name": "مشتاق",
     "meaning": "Mushtaqi is an Arabic name for boys that means desirous, one who longs and pines for something. It is an attribution to Mushtaq.",
@@ -57975,7 +54285,7 @@ export const namesData = [
     "english_name": "Raem",
     "arabic_name": "رام",
     "meaning": "One who has a desire and searches.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rafa",
@@ -58005,7 +54315,7 @@ export const namesData = [
     "english_name": "Rafat",
     "arabic_name": "رأفت",
     "meaning": "Elevation",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rafeea",
@@ -58194,12 +54504,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nawroz",
-    "arabic_name": "نوروز",
-    "meaning": "It's a Kurdish name for boys and girls that refers to the Persian New Years Day, which is the first day of spring (March 21).The word literally means new day, and is the same as the Persian name Nowrooz. The difference is that the Kurdish word Nawroz is used for both boys and girls while Nowrooz  used only for boys",
-    "gender": "male"
-  },
-  {
     "english_name": "Nawwaar",
     "arabic_name": "نوار",
     "meaning": "Very bright",
@@ -58215,12 +54519,6 @@ export const namesData = [
     "english_name": "Nawwaf",
     "arabic_name": "نواف",
     "meaning": "High, lofty",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nawwar",
-    "arabic_name": "نور",
-    "meaning": "Nawwar is an Arabic name for boys and girls that means radiant, glowing, brilliant, dazzling, beautiful.",
     "gender": "male"
   },
   {
@@ -58266,12 +54564,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nayir",
-    "arabic_name": "نير",
-    "meaning": "Nayir is an Arabic name for boys and girls that means radiant, brilliant.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nayyar",
     "arabic_name": "نير",
     "meaning": "Bright star, sun.",
@@ -58284,21 +54576,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nazakat",
-    "arabic_name": "نزكيه",
-    "meaning": "Delicacy",
-    "gender": "male"
-  },
-  {
     "english_name": "Nazar",
     "arabic_name": "نزار",
     "meaning": "A vow, promise made to God, a gift, charity, votive offering.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nazeef",
-    "arabic_name": "نزيف",
-    "meaning": "Pure, clean, innocent, neat and clean, chaste.",
     "gender": "male"
   },
   {
@@ -58389,7 +54669,7 @@ export const namesData = [
     "english_name": "Rozhbin",
     "arabic_name": "روزهبن",
     "meaning": "Rozhbin is a Kurdish name for boys and girls that means guide, enlightener. The literal meaning of the name is one who sees daylight, one who guides by daylight.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rozhin",
@@ -58407,7 +54687,7 @@ export const namesData = [
     "english_name": "Rozhyar",
     "arabic_name": "روزهير",
     "meaning": "Rozhyar is a Persian name for girls that means daytime. It can also mean the days of life, time.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rozina",
@@ -58551,7 +54831,7 @@ export const namesData = [
     "english_name": "Rushd",
     "arabic_name": "رشد",
     "meaning": "Right guidance, Maturity, Wisdom, Sensible Conduct.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rushda",
@@ -58569,7 +54849,7 @@ export const namesData = [
     "english_name": "Rusul",
     "arabic_name": "رسول",
     "meaning": "prophets, messengers in Arabic.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ruwa",
@@ -58587,7 +54867,7 @@ export const namesData = [
     "english_name": "Ruwaid",
     "arabic_name": "رويد",
     "meaning": "Walking gently",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ruwaida",
@@ -58689,7 +54969,7 @@ export const namesData = [
     "english_name": "Rukhailah",
     "arabic_name": "رخيلة",
     "meaning": "Female sheep. Name of a Sahabi who took part in the battle of Badr.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rukhaylah",
@@ -58725,7 +55005,7 @@ export const namesData = [
     "english_name": "Rukhsar",
     "arabic_name": "رخصر",
     "meaning": "Face, cheek, complexion, aspect",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rukhsara",
@@ -58869,12 +55149,6 @@ export const namesData = [
     "english_name": "Nithar",
     "arabic_name": "نظر",
     "meaning": "Sacrifice",
-    "gender": "male"
-  },
-  {
-    "english_name": "Niyaz",
-    "arabic_name": "نياز",
-    "meaning": "Dedication, Offering",
     "gender": "male"
   },
   {
@@ -59034,12 +55308,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Noori",
-    "arabic_name": "نوري",
-    "meaning": "Light, luminous, Shining, brightness.",
-    "gender": "male"
-  },
-  {
     "english_name": "Noorul-absar",
     "arabic_name": "نورلبسر",
     "meaning": "Light of vision.",
@@ -59094,21 +55362,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Noum",
-    "arabic_name": "نوم",
-    "meaning": "Noum is an Arabic name for boys and girls that means easy and luxurious life.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nouman",
     "arabic_name": "نؤمن",
     "meaning": "Nouman is an Arabic name for boys that means blood.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nour",
-    "arabic_name": "نور",
-    "meaning": "Light radiance",
     "gender": "male"
   },
   {
@@ -59139,12 +55395,6 @@ export const namesData = [
     "english_name": "Nowzar",
     "arabic_name": "نوذر",
     "meaning": "Nowzar is a Persian name for boys that refers to a mythical Persian hero. The meaning of the name is unclear, Now most likely means new, young.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nuaim",
-    "arabic_name": "نواعم",
-    "meaning": "Name of several of the Prophets companions",
     "gender": "male"
   },
   {
@@ -59241,7 +55491,7 @@ export const namesData = [
     "english_name": "Sadaat",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sadadah",
@@ -59301,7 +55551,7 @@ export const namesData = [
     "english_name": "Sadi",
     "arabic_name": "صدي",
     "meaning": "fortunate, lucky in Arabic.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sadia",
@@ -59403,7 +55653,7 @@ export const namesData = [
     "english_name": "Rayan",
     "arabic_name": "ريان",
     "meaning": "The gate of heaven which allows fasting people in Ramadan to enter",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rayann",
@@ -59427,7 +55677,7 @@ export const namesData = [
     "english_name": "Rayhan",
     "arabic_name": "ريحان",
     "meaning": "Ease, fragrant herb, sweet basil, comfort.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rayhanah",
@@ -59475,13 +55725,13 @@ export const namesData = [
     "english_name": "Rayyan",
     "arabic_name": "ريان",
     "meaning": "Luxuriant, one of the gates of paradise",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Razaan",
     "arabic_name": "رزان",
     "meaning": "Razaan is an Arabic name for boys that means dignified, composed, calm.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Razaana",
@@ -59577,7 +55827,7 @@ export const namesData = [
     "english_name": "Reda",
     "arabic_name": "رضا",
     "meaning": "(in god's) favor, contentment, satisfaction",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Oraibi",
@@ -59595,12 +55845,6 @@ export const namesData = [
     "english_name": "Orhan",
     "arabic_name": "أورهان",
     "meaning": "Orhan is a Turkish name for boys that means great leader, supreme leader. It can also be spelled as Orkhan.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Orjun",
-    "arabic_name": "أرجون",
-    "meaning": "Orjun is an Arabic name for boys and girls that refers to the branch of a palm tree that holds the cluster of dates (i.e. what remains of the branch once the dates are removed).",
     "gender": "male"
   },
   {
@@ -59685,18 +55929,6 @@ export const namesData = [
     "english_name": "Pamir",
     "arabic_name": "بامير",
     "meaning": "Mountain Range.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Parizad",
-    "arabic_name": "برذاذ",
-    "meaning": "Of divine origin",
-    "gender": "male"
-  },
-  {
-    "english_name": "Parsa",
-    "arabic_name": "بارسا",
-    "meaning": "Devout or abstemious person, pious",
     "gender": "male"
   },
   {
@@ -59787,7 +56019,7 @@ export const namesData = [
     "english_name": "Saadah",
     "arabic_name": "ساده",
     "meaning": "Happiness",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Saadanah",
@@ -59835,7 +56067,7 @@ export const namesData = [
     "english_name": "Saaf",
     "arabic_name": "صاف",
     "meaning": "Saaf is an Arabic name for boys and girls that means pure.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Saafah",
@@ -60018,12 +56250,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nazish",
-    "arabic_name": "نزيش",
-    "meaning": "Pride, arrogance",
-    "gender": "male"
-  },
-  {
     "english_name": "Nazm",
     "arabic_name": "نظم",
     "meaning": "Poetry, verse",
@@ -60054,12 +56280,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Neem",
-    "arabic_name": "نيم",
-    "meaning": "Neem is an Arabic name for boys and girls that means luxury, ease. It also means something brings peace and calm to those who see it.",
-    "gender": "male"
-  },
-  {
     "english_name": "Neerumand",
     "arabic_name": "نيرميند",
     "meaning": "Neerumand is a Persian name for boys that means strong, powerful.",
@@ -60081,13 +56301,13 @@ export const namesData = [
     "english_name": "Nehrin",
     "arabic_name": "نهرين",
     "meaning": "Nehrin is an indirect Quranic name for boys and girls that means river. It is a Turkish word derived from Nahr, which is the Arabic word for river and is used in many places in the Quran.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Neimat",
     "arabic_name": "نيمات",
     "meaning": "Neimat is the Turkish form of the Arabic name Neimah which means blessing, a good thing that God bestows to humans.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Nemat",
@@ -60105,13 +56325,13 @@ export const namesData = [
     "english_name": "Niam",
     "arabic_name": "نيم",
     "meaning": "Favors, benefits",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Niamullah",
     "arabic_name": "نمله",
     "meaning": "Niamullah is an Arabic name for boys and girls taht means Gods blessings, the good things that God bestows upon humans.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Niaz",
@@ -60180,12 +56400,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Qadri",
-    "arabic_name": "قدري",
-    "meaning": "Qadri is an Arabic name for boys and girls that menas powerful, able.",
-    "gender": "male"
-  },
-  {
     "english_name": "Qadriyah",
     "arabic_name": "لتي",
     "meaning": "Gentle, kind, pleasant, friendly",
@@ -60240,24 +56454,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Qaleeb",
-    "arabic_name": "قليب",
-    "meaning": "Qaleeb is an Arabic name for boys and girls that means well, a hole in the ground from which water (or other materials) is acquired.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Qamar",
-    "arabic_name": "قمر",
-    "meaning": "The moon. Al-Qamar",
-    "gender": "male"
-  },
-  {
-    "english_name": "Qamari",
-    "arabic_name": "قمري",
-    "meaning": "Qamari is an Arabic name for boys and girls that means moon-like, meaning bright, radiant, good-looking.",
-    "gender": "male"
-  },
-  {
     "english_name": "Qamaruddin",
     "arabic_name": "قمردن",
     "meaning": "Moon of the religion (Islam).",
@@ -60294,12 +56490,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Qamrun",
-    "arabic_name": "قمرن",
-    "meaning": "Qamrun is an Arabic name for boys and girls that means moon, being a pet form of Qamar.",
-    "gender": "male"
-  },
-  {
     "english_name": "Neha",
     "arabic_name": "نهى",
     "meaning": "Love, rain",
@@ -60318,12 +56508,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Nehrin",
-    "arabic_name": "نهرين",
-    "meaning": "Nehrin is an indirect Quranic name for boys and girls that means river. It is a Turkish word derived from Nahr, which is the Arabic word for river and is used in many places in the Quran.",
-    "gender": "female"
-  },
-  {
     "english_name": "Neima",
     "arabic_name": "نيما",
     "meaning": "Gift from Allah",
@@ -60333,12 +56517,6 @@ export const namesData = [
     "english_name": "Neimaat",
     "arabic_name": "نيمات",
     "meaning": "Neimaat is an Arabic name for girls that means blessings, the good things bestowed on humans by God.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Neimat",
-    "arabic_name": "نيمات",
-    "meaning": "Neimat is the Turkish form of the Arabic name Neimah which means blessing, a good thing that God bestows to humans.",
     "gender": "female"
   },
   {
@@ -60390,18 +56568,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Niam",
-    "arabic_name": "نيم",
-    "meaning": "Favors, benefits",
-    "gender": "female"
-  },
-  {
-    "english_name": "Niamullah",
-    "arabic_name": "نمله",
-    "meaning": "Niamullah is an Arabic name for boys and girls taht means Gods blessings, the good things that God bestows upon humans.",
-    "gender": "female"
-  },
-  {
     "english_name": "Niazmina",
     "arabic_name": "نظمنا",
     "meaning": "Dear One, Apple of the Eye.",
@@ -60417,7 +56583,7 @@ export const namesData = [
     "english_name": "Nibal",
     "arabic_name": "نيبال",
     "meaning": "Arrows",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nida",
@@ -60471,13 +56637,13 @@ export const namesData = [
     "english_name": "Nihad",
     "arabic_name": "نهاد",
     "meaning": "Nihad is an Arabic name for boys and girls that means mighty, strong, elevated, powerful.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Nihal",
     "arabic_name": "نهال",
     "meaning": "Happy, Prosperous, Exalted, Pleased.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sabeeyah",
@@ -60525,7 +56691,7 @@ export const namesData = [
     "english_name": "Sabih",
     "arabic_name": "صبيح",
     "meaning": "Coming or arrival in the morning.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sabiha",
@@ -60615,7 +56781,7 @@ export const namesData = [
     "english_name": "Sabri",
     "arabic_name": "صبري",
     "meaning": "Of patience, perseverence",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sabrin",
@@ -60660,33 +56826,15 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Nahar",
-    "arabic_name": "نهار",
-    "meaning": "Nahar is an Arabic name for boys and girls that means daytime, day. It is used 57 times in the Quran.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nahi",
     "arabic_name": "نهي",
     "meaning": "Another name for Prophet Muhammad,",
     "gender": "male"
   },
   {
-    "english_name": "Nahid",
-    "arabic_name": "ناهد",
-    "meaning": "Generosity",
-    "gender": "male"
-  },
-  {
     "english_name": "Nahiz",
     "arabic_name": "ناهز",
     "meaning": "Nahiz is an Arabic name for boys that means elevated, high, lofty. It also means established, proven. It also means active, diligent, energetic.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nahran",
-    "arabic_name": "نهران",
-    "meaning": "Nahran is an Arabic name for boys and girls that means rivers. It is a plural of Nahr.",
     "gender": "male"
   },
   {
@@ -60744,12 +56892,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nail",
-    "arabic_name": "نيل",
-    "meaning": "Winner, gainer, Acquirer, earner",
-    "gender": "male"
-  },
-  {
     "english_name": "Naila",
     "arabic_name": "لتي",
     "meaning": "Gentle, kind, pleasant, friendly",
@@ -60786,12 +56928,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Najah",
-    "arabic_name": "نجاح",
-    "meaning": "Success.",
-    "gender": "male"
-  },
-  {
     "english_name": "Najair",
     "arabic_name": "نجار",
     "meaning": "Little Star",
@@ -60801,12 +56937,6 @@ export const namesData = [
     "english_name": "Najam",
     "arabic_name": "نجم",
     "meaning": "Star, planet",
-    "gender": "male"
-  },
-  {
-    "english_name": "Najat",
-    "arabic_name": "نجاة",
-    "meaning": "Successful, prosperous",
     "gender": "male"
   },
   {
@@ -60939,7 +57069,7 @@ export const namesData = [
     "english_name": "Sawab",
     "arabic_name": "صواب",
     "meaning": "Sawab is an Arabic name for boys and girls that means reward. If pronounced with emphasis on the first syllable, the meaning becomes one who repents often, one who returns to God often.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sawaba",
@@ -60999,13 +57129,13 @@ export const namesData = [
     "english_name": "Sawrat",
     "arabic_name": "صورة",
     "meaning": "Sawrat is an Arabic name for boys and girls that means revolution, uprising, great excitement.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sawsan",
     "arabic_name": "سوسن",
     "meaning": "Lily of the valley.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sawsanah",
@@ -61089,7 +57219,7 @@ export const namesData = [
     "english_name": "Sariyah",
     "arabic_name": "صريح",
     "meaning": "Clouds at night, name of a companion of the Prophet (PBUH)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sarmadi",
@@ -61113,7 +57243,7 @@ export const namesData = [
     "english_name": "Sarosh",
     "arabic_name": "سروش",
     "meaning": "Name of an angel who speaks but does not appear.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sarra",
@@ -61245,7 +57375,7 @@ export const namesData = [
     "english_name": "Samurah",
     "arabic_name": "سموره",
     "meaning": "Name of a distinguished Sahabi RA.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samya",
@@ -61263,7 +57393,7 @@ export const namesData = [
     "english_name": "Sana",
     "arabic_name": "سنة",
     "meaning": "Praise, commendation, eulogy.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sanaa",
@@ -61281,7 +57411,7 @@ export const namesData = [
     "english_name": "Sanad",
     "arabic_name": "سند",
     "meaning": "Another name for Allah, evidence, proof, Support, prop.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sanah",
@@ -61305,7 +57435,7 @@ export const namesData = [
     "english_name": "Sanan",
     "arabic_name": "سنن",
     "meaning": "Sanan is an Arabic name for boys and girls that means tradition, way of life.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sanari",
@@ -61317,7 +57447,7 @@ export const namesData = [
     "english_name": "Sanaubar",
     "arabic_name": "صنوبر",
     "meaning": "Swift",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sanaubur",
@@ -61413,7 +57543,7 @@ export const namesData = [
     "english_name": "Raqqah",
     "arabic_name": "رقه",
     "meaning": "Raqqah is an Arabic name for boys and girls that means flat land that has soft dust, land that is close to a valley and water runs through it during high tide only.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Raqueeb",
@@ -61617,7 +57747,7 @@ export const namesData = [
     "english_name": "Sanubar",
     "arabic_name": "صنوبر",
     "meaning": "Sanubar is an Arabic name for boys and girls that means cypress tree, which is a tree that is in many ways similar to a pine tree.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sanya",
@@ -61695,7 +57825,7 @@ export const namesData = [
     "english_name": "Saraab",
     "arabic_name": "سراب",
     "meaning": "Saraab is an Arabic name for boys and girls that means mirage, which is a reflection of the blue sky in the desert that appears like water.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sarafina",
@@ -61749,12 +57879,6 @@ export const namesData = [
     "english_name": "Raqiqa",
     "arabic_name": "رقيقة",
     "meaning": "Delicate, fine, soft, slender, slim.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Raqqah",
-    "arabic_name": "رقه",
-    "meaning": "Raqqah is an Arabic name for boys and girls that means flat land that has soft dust, land that is close to a valley and water runs through it during high tide only.",
     "gender": "female"
   },
   {
@@ -61935,7 +58059,7 @@ export const namesData = [
     "english_name": "Safa",
     "arabic_name": "صفا",
     "meaning": "Friendship, purity, love, company.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Safaa",
@@ -61953,13 +58077,13 @@ export const namesData = [
     "english_name": "Safdar",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Safee",
     "arabic_name": "صافي",
     "meaning": "Pure",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Safeena",
@@ -61971,7 +58095,7 @@ export const namesData = [
     "english_name": "Safeenah",
     "arabic_name": "سفينه",
     "meaning": "Name of an Ahl As-Suffah",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Safeerah",
@@ -61989,7 +58113,7 @@ export const namesData = [
     "english_name": "Saffah",
     "arabic_name": "سفاح",
     "meaning": "Killer, blood shedder.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Saffanah",
@@ -62091,7 +58215,7 @@ export const namesData = [
     "english_name": "Safwah",
     "arabic_name": "سفوح",
     "meaning": "The best, the chosen",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Safwana",
@@ -62178,12 +58302,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Rawh",
-    "arabic_name": "روح",
-    "meaning": "Refreshment, Rest",
-    "gender": "male"
-  },
-  {
     "english_name": "Rawman",
     "arabic_name": "رومان",
     "meaning": "Rawmanرومان",
@@ -62193,18 +58311,6 @@ export const namesData = [
     "english_name": "Rawsan",
     "arabic_name": "روسا",
     "meaning": "Rawsan is an Arabic name for boys and girls that means light rain that falls constantly.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rawza",
-    "arabic_name": "روزا",
-    "meaning": "Garden",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rayan",
-    "arabic_name": "ريان",
-    "meaning": "The gate of heaven which allows fasting people in Ramadan to enter",
     "gender": "male"
   },
   {
@@ -62220,21 +58326,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Rayhan",
-    "arabic_name": "ريحان",
-    "meaning": "Ease, fragrant herb, sweet basil, comfort.",
-    "gender": "male"
-  },
-  {
     "english_name": "Rayn",
     "arabic_name": "رين",
     "meaning": "It is the name of a gate of the heaven",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rayyan",
-    "arabic_name": "ريان",
-    "meaning": "Luxuriant, one of the gates of paradise",
     "gender": "male"
   },
   {
@@ -62262,12 +58356,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Razaan",
-    "arabic_name": "رزان",
-    "meaning": "Razaan is an Arabic name for boys that means dignified, composed, calm.",
-    "gender": "male"
-  },
-  {
     "english_name": "Razaani",
     "arabic_name": "رزان",
     "meaning": "Razaani is an Arabic name for boys that means dignified, composed.",
@@ -62292,21 +58380,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Qudwa",
-    "arabic_name": "قدوة",
-    "meaning": "Model, example.",
-    "gender": "male"
-  },
-  {
     "english_name": "Qulaib",
     "arabic_name": "قليب",
     "meaning": "Qulaib is an Arabic name for boys that means heart, conscience.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Qumr",
-    "arabic_name": "قمر",
-    "meaning": "Qumr is an Arabic name for girls that means extremely fair-skinned, extremely white-skinned.",
     "gender": "male"
   },
   {
@@ -62319,12 +58395,6 @@ export const namesData = [
     "english_name": "Quraisy",
     "arabic_name": "قريص",
     "meaning": "Name of a tribe in Arab",
-    "gender": "male"
-  },
-  {
-    "english_name": "Qurb",
-    "arabic_name": "قرب",
-    "meaning": "Qurb is an Arabic name for boys and girls that means closeness, nearness, proximity.",
     "gender": "male"
   },
   {
@@ -62433,12 +58503,6 @@ export const namesData = [
     "english_name": "Qutuz",
     "arabic_name": "قطز",
     "meaning": "NULL",
-    "gender": "male"
-  },
-  {
-    "english_name": "Quwa",
-    "arabic_name": "قوة",
-    "meaning": "Power and Strength",
     "gender": "male"
   },
   {
@@ -62568,12 +58632,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Rahbat",
-    "arabic_name": "راهبات",
-    "meaning": "Rahbat is the Turkish form of the Arabic name Rahbah which means vast expanse of land, wide area of land. It is used for both boys and girls.",
-    "gender": "male"
-  },
-  {
     "english_name": "Rahd",
     "arabic_name": "راحد",
     "meaning": "Rahd is an Arabic name for boys and girls that means soft, delicate.",
@@ -62583,12 +58641,6 @@ export const namesData = [
     "english_name": "Raheeb",
     "arabic_name": "رهيب",
     "meaning": "Merciful, Kind.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Raheef",
-    "arabic_name": "رهيف",
-    "meaning": "Raheef is an Arabic name for boys and girls that means gentle, tender. It is used mainly for boys by Arabs, while African Muslims use it for girls as well.",
     "gender": "male"
   },
   {
@@ -62613,12 +58665,6 @@ export const namesData = [
     "english_name": "Rahiid",
     "arabic_name": "رهيد",
     "meaning": "Soft, Fine",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rahil",
-    "arabic_name": "رحيل",
-    "meaning": "Path guider",
     "gender": "male"
   },
   {
@@ -62667,7 +58713,7 @@ export const namesData = [
     "english_name": "Sameh",
     "arabic_name": "سامح",
     "meaning": "Forgiver",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samera",
@@ -62703,7 +58749,7 @@ export const namesData = [
     "english_name": "Sami",
     "arabic_name": "سامي",
     "meaning": "Hearing, listening. Al-Sami, the All-Hearing: one of the names of Allah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samia",
@@ -62745,7 +58791,7 @@ export const namesData = [
     "english_name": "Samin",
     "arabic_name": "سمين",
     "meaning": "Valuable, precious, priceless.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samina",
@@ -62817,7 +58863,7 @@ export const namesData = [
     "english_name": "Sammar",
     "arabic_name": "سامر",
     "meaning": "Sammar is an Arabic name for boys that means one who continues conversation long into the night. It is an emphasized form of Saamer.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Raafe",
@@ -63021,7 +59067,7 @@ export const namesData = [
     "english_name": "Sama",
     "arabic_name": "سما",
     "meaning": "One who listens a lot.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samaa",
@@ -63033,7 +59079,7 @@ export const namesData = [
     "english_name": "Samaah",
     "arabic_name": "سماه",
     "meaning": "Tolerance, Generous, Forgiving",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samaanah",
@@ -63063,7 +59109,7 @@ export const namesData = [
     "english_name": "Samah",
     "arabic_name": "سماح",
     "meaning": "Generosity, bounty, good-heartedness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samahaa",
@@ -63087,7 +59133,7 @@ export const namesData = [
     "english_name": "Saman",
     "arabic_name": "ثمن",
     "meaning": "Price, Worth.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samannaz",
@@ -63111,7 +59157,7 @@ export const namesData = [
     "english_name": "Samar",
     "arabic_name": "سامر",
     "meaning": "Fruit, Outcome.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samara",
@@ -63129,7 +59175,7 @@ export const namesData = [
     "english_name": "Samawah",
     "arabic_name": "سموه",
     "meaning": "Samawah is an Arabic name for boys and girls that means greatness, elevation, highness of status and rank.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samawat",
@@ -63141,7 +59187,7 @@ export const namesData = [
     "english_name": "Samawi",
     "arabic_name": "سماوي",
     "meaning": "Samawi is an Arabic name for boys and girls that means from the sky, heavenly. It also means elevated, one who has a high status or rank.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Samawiyah",
@@ -63159,7 +59205,7 @@ export const namesData = [
     "english_name": "Sameeah",
     "arabic_name": "ساميه",
     "meaning": "Hearing, she who hears.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sameeha",
@@ -63177,7 +59223,7 @@ export const namesData = [
     "english_name": "Sameen",
     "arabic_name": "سمين",
     "meaning": "Valuable, Precious, Priceless, invaluable.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Rahmat",
@@ -63195,12 +59241,6 @@ export const namesData = [
     "english_name": "Rahmatullah",
     "arabic_name": "رحماتلله",
     "meaning": "Allah's  blessing ,Mercy of Allah.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rahmi",
-    "arabic_name": "رحمي",
-    "meaning": "Love and care",
     "gender": "male"
   },
   {
@@ -63366,12 +59406,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nibal",
-    "arabic_name": "نيبال",
-    "meaning": "Arrows",
-    "gender": "male"
-  },
-  {
     "english_name": "Nibraas",
     "arabic_name": "نبراس",
     "meaning": "Lamp, Torch, Brave",
@@ -63396,18 +59430,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nihad",
-    "arabic_name": "نهاد",
-    "meaning": "Nihad is an Arabic name for boys and girls that means mighty, strong, elevated, powerful.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nihal",
-    "arabic_name": "نهال",
-    "meaning": "Happy, Prosperous, Exalted, Pleased.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nihan",
     "arabic_name": "نحن",
     "meaning": "Latent, hidden, secret,",
@@ -63423,18 +59445,6 @@ export const namesData = [
     "english_name": "Nijad",
     "arabic_name": "نجد",
     "meaning": "Tall, dominant",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nijat",
-    "arabic_name": "نجاة",
-    "meaning": "Nijat or Nejat is the Persian and Urdu pronunciation of the Arabic word Najat, which means salvation, success, to be saved.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nikhat",
-    "arabic_name": "نكهات",
-    "meaning": "Fragrance",
     "gender": "male"
   },
   {
@@ -63474,12 +59484,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nimatullah",
-    "arabic_name": "نيماتلله",
-    "meaning": "Nimatullah is an Arabic name for boys and girls that means Gods blessings, Gods bounties, the good things that God bestows upon humans.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nimr",
     "arabic_name": "نمر",
     "meaning": "Tiger",
@@ -63498,18 +59502,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nisbat",
-    "arabic_name": "نسبة",
-    "meaning": "Nisbat is the Turkish form of the Arabic name Nisbah which means relationship, connection, harmony, proportion.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nisbi",
-    "arabic_name": "نسبي",
-    "meaning": "Nisbi is an Arabic name for boys and girls that means relative, comparative, proportional.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nishaaj",
     "arabic_name": "نشيج",
     "meaning": "Explorer",
@@ -63522,21 +59514,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Nishat",
-    "arabic_name": "نشاط",
-    "meaning": "Mirth, ecstacy.",
-    "gender": "male"
-  },
-  {
     "english_name": "Nishtar",
     "arabic_name": "نشتر",
     "meaning": "Lancet",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nismat",
-    "arabic_name": "نسمات",
-    "meaning": "Nismat is the Turkish form of the Arabic name Nismah which means soft breeze.",
     "gender": "male"
   },
   {
@@ -63621,13 +59601,13 @@ export const namesData = [
     "english_name": "Sabaahat",
     "arabic_name": "صباحات",
     "meaning": "Beauty, gracefulness, comeliness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sabah",
     "arabic_name": "صباح",
     "meaning": "Morning, Dawn, Handsome",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sabaha",
@@ -63645,13 +59625,13 @@ export const namesData = [
     "english_name": "Sabahat",
     "arabic_name": "صبحت",
     "meaning": "Beauty, Grace, Handsomeness",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sabat",
     "arabic_name": "سبت",
     "meaning": "Firmness, stability, certainty, endurance, boldness, truth.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sabbaaqa",
@@ -63693,7 +59673,7 @@ export const namesData = [
     "english_name": "Sabeel",
     "arabic_name": "سبيل",
     "meaning": "Way, path, road, route. It is one of the most common words in the Quran, mentioned over 160 times.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sabeela",
@@ -63903,7 +59883,7 @@ export const namesData = [
     "english_name": "Safwat",
     "arabic_name": "صفوة",
     "meaning": "The best, the chosen, Supreme, good friend, purity.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sagheera",
@@ -63927,13 +59907,13 @@ export const namesData = [
     "english_name": "Sahabah",
     "arabic_name": "صحبه",
     "meaning": "Sahabah is an Arabic name for boys and girls that means companions. It is the plural of Sahabi and in Islamic literature it is used with the meaning of companions of the Prophet (peace and blessings of God upon him), which refers to Muslims who met the Prophet.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sahar",
     "arabic_name": "سهر",
     "meaning": "Time before day break, bewitch",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Saharaat",
@@ -63951,7 +59931,7 @@ export const namesData = [
     "english_name": "Sahari",
     "arabic_name": "ساهري",
     "meaning": "Sahari is an Arabic name for boys and girls that means deserts, it is the plural of Sahraa (desert).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Saharish",
@@ -63969,7 +59949,7 @@ export const namesData = [
     "english_name": "Sahbah",
     "arabic_name": "صاحبه",
     "meaning": "Sahbah is an Arabic name for boys and girls that means friendship, companionship.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sahela",
@@ -64101,7 +60081,7 @@ export const namesData = [
     "english_name": "Shazad",
     "arabic_name": "شذاذ",
     "meaning": "Prince",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shazadi",
@@ -64341,7 +60321,7 @@ export const namesData = [
     "english_name": "Shamikh",
     "arabic_name": "شامخ",
     "meaning": "Another name for god, lofty, arrogant,",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shamikha",
@@ -64383,7 +60363,7 @@ export const namesData = [
     "english_name": "Shamis",
     "arabic_name": "شمس",
     "meaning": "Shamis is an Arabic name boys that means bright, sunlit.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shamisah",
@@ -64413,7 +60393,7 @@ export const namesData = [
     "english_name": "Shammam",
     "arabic_name": "شمام",
     "meaning": "Shammam is an Arabic name for boys and girls that means muskmelon, a type of melon that has a good scent.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shammamah",
@@ -64461,12 +60441,6 @@ export const namesData = [
     "english_name": "Riyazul-islam",
     "arabic_name": "ريزولسلم",
     "meaning": "Gardens of Islam.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Riza",
-    "arabic_name": "ريزا",
-    "meaning": "Pleasure, assent al-Sharif Abu al-Hasan Ibn-Tahir had this name.",
     "gender": "male"
   },
   {
@@ -64605,18 +60579,6 @@ export const namesData = [
     "english_name": "Rowel",
     "arabic_name": "رول",
     "meaning": "Flower",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rozhbin",
-    "arabic_name": "روزهبن",
-    "meaning": "Rozhbin is a Kurdish name for boys and girls that means guide, enlightener. The literal meaning of the name is one who sees daylight, one who guides by daylight.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rozhyar",
-    "arabic_name": "روزهير",
-    "meaning": "Rozhyar is a Persian name for girls that means daytime. It can also mean the days of life, time.",
     "gender": "male"
   },
   {
@@ -64794,12 +60756,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sabaahat",
-    "arabic_name": "صباحات",
-    "meaning": "Beauty, gracefulness, comeliness.",
-    "gender": "male"
-  },
-  {
     "english_name": "Sheeva",
     "arabic_name": "صحيفة",
     "meaning": "Sheeva is a Persian name for girls that means eloquent, expressive, vivid. It can also mean way, method, and in classical Persian it means charm, attraction.",
@@ -64875,7 +60831,7 @@ export const namesData = [
     "english_name": "Sherin",
     "arabic_name": "شيرين",
     "meaning": "Very sweet.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shermin",
@@ -64953,7 +60909,7 @@ export const namesData = [
     "english_name": "Shimah",
     "arabic_name": "شيمه",
     "meaning": "Cream,Character",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shimaz",
@@ -65001,12 +60957,6 @@ export const namesData = [
     "english_name": "Qareeb",
     "arabic_name": "قريب",
     "meaning": "Near",
-    "gender": "male"
-  },
-  {
-    "english_name": "Qareen",
-    "arabic_name": "قرين",
-    "meaning": "Qareen is an Arabic name for boys and girls that means friend, companion.",
     "gender": "male"
   },
   {
@@ -65229,7 +61179,7 @@ export const namesData = [
     "english_name": "Shaaheen",
     "arabic_name": "شاهين",
     "meaning": "Hawk, Falcon",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shaahidah",
@@ -65259,7 +61209,7 @@ export const namesData = [
     "english_name": "Shaan",
     "arabic_name": "شان",
     "meaning": "Condition, business, affair, state, dignity, quality, nature, disposition, luster, eminence, glory, grandeur.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shaariqah",
@@ -65289,7 +61239,7 @@ export const namesData = [
     "english_name": "Shaban",
     "arabic_name": "شعبان",
     "meaning": "Eighth lunar month. It is a month of religious significance for Muslims.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shabana",
@@ -65379,7 +61329,7 @@ export const namesData = [
     "english_name": "Shahnaaz",
     "arabic_name": "شهناز",
     "meaning": "Pride of a King",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shahnaz",
@@ -65487,7 +61437,7 @@ export const namesData = [
     "english_name": "Shahzad",
     "arabic_name": "شحذد",
     "meaning": "Prince, son of king.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shahzadi",
@@ -65511,7 +61461,7 @@ export const namesData = [
     "english_name": "Shaida",
     "arabic_name": "شدة",
     "meaning": "Greatly Attached.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shaila",
@@ -65580,45 +61530,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Safa",
-    "arabic_name": "صفا",
-    "meaning": "Friendship, purity, love, company.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Safdar",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
-    "gender": "male"
-  },
-  {
-    "english_name": "Safee",
-    "arabic_name": "صافي",
-    "meaning": "Pure",
-    "gender": "male"
-  },
-  {
     "english_name": "Safeen",
     "arabic_name": "صفين",
     "meaning": "Safeen is an Arabic name for boys that means ships. It is the plural of Safeenah.",
     "gender": "male"
   },
   {
-    "english_name": "Safeenah",
-    "arabic_name": "سفينه",
-    "meaning": "Name of an Ahl As-Suffah",
-    "gender": "male"
-  },
-  {
     "english_name": "Safeer",
     "arabic_name": "صفير",
     "meaning": "Emissary, Ambassador",
-    "gender": "male"
-  },
-  {
-    "english_name": "Saffah",
-    "arabic_name": "سفاح",
-    "meaning": "Killer, blood shedder.",
     "gender": "male"
   },
   {
@@ -65724,27 +61644,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Numou",
-    "arabic_name": "نمو",
-    "meaning": "Numou is an Arabic name for boys and girls that means growth, increase.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nur",
-    "arabic_name": "نور",
-    "meaning": "Light",
-    "gender": "male"
-  },
-  {
     "english_name": "Nur-al-din",
     "arabic_name": "نورالدين",
     "meaning": "Brightness of the faith",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nur-al-huda",
-    "arabic_name": "نورالهدى",
-    "meaning": "Light of the faith",
     "gender": "male"
   },
   {
@@ -65757,12 +61659,6 @@ export const namesData = [
     "english_name": "Nur-ul-qiblatayn",
     "arabic_name": "نورلقبلتين",
     "meaning": "Light of the two Qibla",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nurahan",
-    "arabic_name": "نورهان",
-    "meaning": "Nurahan is a Turkish name for boys and girls that means radiant king, radiant leader. It is also a Persian name meaning gift, good tiding, souvenir.",
     "gender": "male"
   },
   {
@@ -65793,12 +61689,6 @@ export const namesData = [
     "english_name": "Nuril",
     "arabic_name": "نورعل",
     "meaning": "Nuril is an Aramaic name for boys and girls that means light of God, Gods radiance.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nurshah",
-    "arabic_name": "نرشح",
-    "meaning": "Nurshah is an Arabic-Perisan name for boys and girls that is made up of the Arabic word Nur (light) and the Persian word shah (king), thus meaning kings light. Since shah is also used for adding emphasis to names, the name also means the most powerful light.",
     "gender": "male"
   },
   {
@@ -65859,18 +61749,6 @@ export const namesData = [
     "english_name": "Nushad",
     "arabic_name": "نشد",
     "meaning": "Nushad is a Persian name for boys that means happy youth, joyous young person.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nushur",
-    "arabic_name": "نشر",
-    "meaning": "Nushur is an Arabic name for boys and girls that means resurrection, when people are brought back to life after death.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Nusrah",
-    "arabic_name": "نصره",
-    "meaning": "Help, support",
     "gender": "male"
   },
   {
@@ -65958,12 +61836,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Raem",
-    "arabic_name": "رام",
-    "meaning": "One who has a desire and searches.",
-    "gender": "male"
-  },
-  {
     "english_name": "Rafaaq",
     "arabic_name": "رفاق",
     "meaning": "Rafaaq is an Arabic name for boys that means gentle, tender.",
@@ -65985,12 +61857,6 @@ export const namesData = [
     "english_name": "Rafaqat",
     "arabic_name": "رافقت",
     "meaning": "Friendship, closeness.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rafat",
-    "arabic_name": "رأفت",
-    "meaning": "Elevation",
     "gender": "male"
   },
   {
@@ -66213,7 +62079,7 @@ export const namesData = [
     "english_name": "Subah",
     "arabic_name": "صباح",
     "meaning": "Beautiful, graceful.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Subaha",
@@ -66240,21 +62106,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Rusul",
-    "arabic_name": "رسول",
-    "meaning": "prophets, messengers in Arabic.",
-    "gender": "male"
-  },
-  {
     "english_name": "Rusydi",
     "arabic_name": "رصيدي",
     "meaning": "Containing guidance elements",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ruwaid",
-    "arabic_name": "رويد",
-    "meaning": "Walking gently",
     "gender": "male"
   },
   {
@@ -66354,12 +62208,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Saadah",
-    "arabic_name": "ساده",
-    "meaning": "Happiness",
-    "gender": "male"
-  },
-  {
     "english_name": "Saadan",
     "arabic_name": "سعدان",
     "meaning": "Saadan is an Arabic name for boys that means happy, joyful.",
@@ -66414,16 +62262,10 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Saaf",
-    "arabic_name": "صاف",
-    "meaning": "Saaf is an Arabic name for boys and girls that means pure.",
-    "gender": "male"
-  },
-  {
     "english_name": "Suhair",
     "arabic_name": "سهير",
     "meaning": "Alert, Wakeful and Unsleeping",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Suhaira",
@@ -66477,7 +62319,7 @@ export const namesData = [
     "english_name": "Suhbah",
     "arabic_name": "صحبه",
     "meaning": "Suhbah is an Arabic name for boys and girls that means friendship, companionship.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Suheera",
@@ -66525,7 +62367,7 @@ export const namesData = [
     "english_name": "Sukkar",
     "arabic_name": "صقر",
     "meaning": "Sukkar is an Arabic name for boys and girls that means sugar. It also refers to a type of sweet white grape.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Suknah",
@@ -66609,7 +62451,7 @@ export const namesData = [
     "english_name": "Shafqat",
     "arabic_name": "شفقة",
     "meaning": "Affection, Compassion, pity, kindness, tenderness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shafyaa",
@@ -66633,7 +62475,7 @@ export const namesData = [
     "english_name": "Shaghf",
     "arabic_name": "شغف",
     "meaning": "Shaghf is an Arabic name for boys and girls that means strong, passionate love.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shagoofa",
@@ -66669,7 +62511,7 @@ export const namesData = [
     "english_name": "Shahada",
     "arabic_name": "شهادة",
     "meaning": "Shadaha is an Arabic name for boys and girls that means martyrdom. It can also mean testimony.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shahamat",
@@ -66717,7 +62559,7 @@ export const namesData = [
     "english_name": "Shaheen",
     "arabic_name": "شاهين",
     "meaning": "Royal white falcon, the needle of the beam of scales.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shaheera",
@@ -66759,7 +62601,7 @@ export const namesData = [
     "english_name": "Shahin",
     "arabic_name": "شاهين",
     "meaning": "Hawk",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shahiqa",
@@ -66801,12 +62643,6 @@ export const namesData = [
     "english_name": "Ribi",
     "arabic_name": "ربي",
     "meaning": "Ibn Ibrahim bin Muqasim al-Asadi, Ibn Jarash and Ibn Abdullah all had this name, they were narrators of Hadith.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rida",
-    "arabic_name": "رضا",
-    "meaning": "(In Gods) favor, contentment, satisfaction",
     "gender": "male"
   },
   {
@@ -66852,45 +62688,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ridwan",
-    "arabic_name": "رضوان",
-    "meaning": "Acceptance, satisfaction, name of the keeper of the gates of Heaven",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rifaah",
-    "arabic_name": "رفاه",
-    "meaning": "Rifaah is an Arabic name for boys and girls that means greatness, highness of status according to many sources, though it is a non-standard derivation from the word rafaa (he became elevated). It is the name of many companions of the Prophet, both male and female, such as Rifaah al-Ansari, Rifaah al-Badri.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rifaat",
-    "arabic_name": "رفات",
-    "meaning": "Rifaat is the Turkish form of the Arabic name Rifah which means greatness, highness of rank and status. It is used for both boys and girls.",
-    "gender": "male"
-  },
-  {
     "english_name": "Rifal",
     "arabic_name": "ريفال",
     "meaning": "Rifal is an Arabic name for boys that means ease and luxury, wealth and bundance.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rifaq",
-    "arabic_name": "رفاق",
-    "meaning": "Rifaq is an Arabic name for boys and girls that means friends, companions. It is the plural of Rafeeq, which can also mean gentle, tender.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rifat",
-    "arabic_name": "رفات",
-    "meaning": "High rank, high standing, dignity, exaltation, eminence.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rifqat",
-    "arabic_name": "رفقة",
-    "meaning": "Rifqat is the Turkish form of the Arabic name Rifqah which means gentleness, leniency, kindness. It can be used for boys and girls both.",
     "gender": "male"
   },
   {
@@ -66915,12 +62715,6 @@ export const namesData = [
     "english_name": "Rinad",
     "arabic_name": "ريناد",
     "meaning": "Rinad is an Arabic name for girls that means agarwood, aloeswood, and generally, any tree that has a good scent.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Riqqah",
-    "arabic_name": "ريقه",
-    "meaning": "Riqqah is an Arabic name for boys and girls that means gentleness, leniency, kindness.",
     "gender": "male"
   },
   {
@@ -67017,12 +62811,6 @@ export const namesData = [
     "english_name": "Naazir",
     "arabic_name": "ناظر",
     "meaning": "OBSERVANT, SPECTATOR",
-    "gender": "male"
-  },
-  {
-    "english_name": "Naba",
-    "arabic_name": "نبى",
-    "meaning": "Arabic for announcement, news, tidings. It is the name of chapter 78 of the Quran.",
     "gender": "male"
   },
   {
@@ -67146,39 +62934,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Rufah",
-    "arabic_name": "رفح",
-    "meaning": "Rufah is an Arabic name for boys and girls that means affectionate, sympathetic.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ruhab",
-    "arabic_name": "رحاب",
-    "meaning": "Right guidance",
-    "gender": "male"
-  },
-  {
     "english_name": "Ruhail",
     "arabic_name": "رحيل",
     "meaning": "Visitor and Traveler",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ruhan",
-    "arabic_name": "رهن",
-    "meaning": "Ruhan is an indirect Quranic name for boys and girls that means spiritual (i.e. related to the spirit), kindhearted, compassionate. It is derived from the R-W-H6 (spirit, happiness) root which is used in many places in the Quran.Ruhan is a Persian name.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ruhani",
-    "arabic_name": "روحاني",
-    "meaning": "Spiritual",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ruhi",
-    "arabic_name": "روحي",
-    "meaning": "Spiritual",
     "gender": "male"
   },
   {
@@ -67212,21 +62970,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Rukhailah",
-    "arabic_name": "رخيلة",
-    "meaning": "Female sheep. Name of a Sahabi who took part in the battle of Badr.",
-    "gender": "male"
-  },
-  {
     "english_name": "Rukham",
     "arabic_name": "رخام",
     "meaning": "White stone, marble.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rukhsar",
-    "arabic_name": "رخصر",
-    "meaning": "Face, cheek, complexion, aspect",
     "gender": "male"
   },
   {
@@ -67281,12 +63027,6 @@ export const namesData = [
     "english_name": "Rushan",
     "arabic_name": "روشان",
     "meaning": "Illuminated",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rushd",
-    "arabic_name": "رشد",
-    "meaning": "Right guidance, Maturity, Wisdom, Sensible Conduct.",
     "gender": "male"
   },
   {
@@ -67350,12 +63090,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sadaat",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
-    "gender": "male"
-  },
-  {
     "english_name": "Sadad",
     "arabic_name": "صدد",
     "meaning": "Right thing to do, lucky hand",
@@ -67407,12 +63141,6 @@ export const namesData = [
     "english_name": "Sadegh",
     "arabic_name": "ساذجه",
     "meaning": "Sincere",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sadi",
-    "arabic_name": "صدي",
-    "meaning": "fortunate, lucky in Arabic.",
     "gender": "male"
   },
   {
@@ -67587,7 +63315,7 @@ export const namesData = [
     "english_name": "Seema",
     "arabic_name": "سيما",
     "meaning": "Mien, Expression, Countenance",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Seemeen",
@@ -67761,13 +63489,13 @@ export const namesData = [
     "english_name": "Shua",
     "arabic_name": "شوى",
     "meaning": "Ray of the sun, sunshine, light, luster, splendour.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shuaa",
     "arabic_name": "شاء",
     "meaning": "Beams, Rays",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shuaila",
@@ -67857,7 +63585,7 @@ export const namesData = [
     "english_name": "Shuhrat",
     "arabic_name": "شهرة",
     "meaning": "Renown, fame, rumor",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Saima",
@@ -67887,7 +63615,7 @@ export const namesData = [
     "english_name": "Sairah",
     "arabic_name": "سيره",
     "meaning": "Walking",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sairan",
@@ -67917,7 +63645,7 @@ export const namesData = [
     "english_name": "Saja",
     "arabic_name": "سجى",
     "meaning": "A pleasant face, eloquent.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sajdaa",
@@ -67995,7 +63723,7 @@ export const namesData = [
     "english_name": "Sakhrah",
     "arabic_name": "صخره",
     "meaning": "Rock(s)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sakina",
@@ -68013,13 +63741,13 @@ export const namesData = [
     "english_name": "Salaat",
     "arabic_name": "صلاة",
     "meaning": "Salaat is an Arabic name for boys and girls that means prayer, litany , a type of prayer that has prescribed times and methods of doing.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Salama",
     "arabic_name": "سلامة",
     "meaning": "Peaceful,Secured, fem. of Salam.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Salawaat",
@@ -68091,7 +63819,7 @@ export const namesData = [
     "english_name": "Sali",
     "arabic_name": "سالي",
     "meaning": "Sali is an Arabic name for boys and girls that means cheerful, cheered up, at ease, in a good humor, amused.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Salifah",
@@ -68205,7 +63933,7 @@ export const namesData = [
     "english_name": "Salsabil",
     "arabic_name": "سلسبيل",
     "meaning": "Salsabil is an Arabic name for boys and girls that means a drink that is easy and enjoyable to drink, it is also the name of a spring/fountain in Paradise, mentioned in verse 76:18 of the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Salsabilah",
@@ -68241,7 +63969,7 @@ export const namesData = [
     "english_name": "Siraj",
     "arabic_name": "سراج",
     "meaning": "Lamp, light, the sun, candle.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Siranoush",
@@ -68253,7 +63981,7 @@ export const namesData = [
     "english_name": "Sirat",
     "arabic_name": "سيرة",
     "meaning": "Path",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sireen",
@@ -68319,13 +64047,13 @@ export const namesData = [
     "english_name": "Siyadah",
     "arabic_name": "سيده",
     "meaning": "Siyadah is an Arabic name for boys and girls that means greatness, glory, honor. It also means leadership, command, rule.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Siyam",
     "arabic_name": "صيام",
     "meaning": "Siyam is a direct Quranic name for boys and girls that means fasting (to refrain from eating for a period of time), which is a practice followed by Muslims throughout the month of Ramadan. The word Siyam is used nine times in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Siyana",
@@ -68337,7 +64065,7 @@ export const namesData = [
     "english_name": "Siyaq",
     "arabic_name": "سياق",
     "meaning": "Siyaq is an Arabic name for boys and girls that means context, style of speaking, articulation. It also means dowry.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Smera",
@@ -68427,7 +64155,7 @@ export const namesData = [
     "english_name": "Shadab",
     "arabic_name": "شدب",
     "meaning": "Fresh, evergreen",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shadha",
@@ -68487,7 +64215,7 @@ export const namesData = [
     "english_name": "Shadman",
     "arabic_name": "شدما",
     "meaning": "Shadman is a Persian name for boys that means happy, joyous, jubilant.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shadmani",
@@ -68511,7 +64239,7 @@ export const namesData = [
     "english_name": "Shafaq",
     "arabic_name": "شفق",
     "meaning": "Shafaq is an Arabic name for boys and girls that means sympathy, affection, pity, tenderness. It also means twilight, the redness that appears in the sky before the sun comes up and after it goes down.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shafath",
@@ -68640,12 +64368,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Rameen",
-    "arabic_name": "رامين",
-    "meaning": "that means joyous, jubilant, happy and active. Loyal, Obedient, Submissive.",
-    "gender": "male"
-  },
-  {
     "english_name": "Rameez",
     "arabic_name": "رمز",
     "meaning": "Symbol",
@@ -68694,21 +64416,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ramlat",
-    "arabic_name": "رملة",
-    "meaning": "Ramlat is the Turkish form of the Arabic name Ramlah. It is used for boys and girls.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ramz",
     "arabic_name": "رمز",
     "meaning": "Ramz is an Arabic name for boys that means mark, symbol, gesture.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ramza",
-    "arabic_name": "رمزا",
-    "meaning": "Symbol, sign",
     "gender": "male"
   },
   {
@@ -68727,18 +64437,6 @@ export const namesData = [
     "english_name": "Rana",
     "arabic_name": "رنا",
     "meaning": "A flower, happy and gay, clever.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ranaa",
-    "arabic_name": "رنا",
-    "meaning": "Moving gracefully, lovely, beautiful, graceful, delicate, tender.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ranin",
-    "arabic_name": "رنين",
-    "meaning": "Ranin is an Arabic name for boys and girls that means tinkle, resonance, buzz.",
     "gender": "male"
   },
   {
@@ -68781,7 +64479,7 @@ export const namesData = [
     "english_name": "Sumou",
     "arabic_name": "سمو",
     "meaning": "Sumou is an Arabic name for boys and girls that means greatness, elevation, exaltedness, highness of rank and status.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sumra",
@@ -68793,19 +64491,19 @@ export const namesData = [
     "english_name": "Sumrah",
     "arabic_name": "سمره",
     "meaning": "Brownness",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sunan",
     "arabic_name": "سنن",
     "meaning": "Sunan is an Arabic name for boys and girls that means traditions, ways of life. It is the plural Sunnah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sunbul",
     "arabic_name": "سنبل",
     "meaning": "A plant's branch",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sunbula",
@@ -68835,7 +64533,7 @@ export const namesData = [
     "english_name": "Sunud",
     "arabic_name": "سند",
     "meaning": "Sunud is an Arabic name for boys and girls that means to depend upon. It also means to climb a mountain.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sunya",
@@ -68931,7 +64629,7 @@ export const namesData = [
     "english_name": "Suwaib",
     "arabic_name": "صويب",
     "meaning": "Suwaib is an Arabic name for boys and girls that means reward, recompense. It is the diminutive form of Sawab",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Suwaiba",
@@ -69039,7 +64737,7 @@ export const namesData = [
     "english_name": "Taal",
     "arabic_name": "طال",
     "meaning": "Taal is an Arabic name for boys and girls that means come!. It also means he/she ascended (his/her status and rank increased).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Taalah",
@@ -69087,7 +64785,7 @@ export const namesData = [
     "english_name": "Taazaz",
     "arabic_name": "تعزز",
     "meaning": "Taazaz is an Arabic name for boys and girls that means might, honor, power.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Taba",
@@ -69138,21 +64836,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Safwah",
-    "arabic_name": "سفوح",
-    "meaning": "The best, the chosen",
-    "gender": "male"
-  },
-  {
     "english_name": "Safwan",
     "arabic_name": "صفوان",
     "meaning": "Rock, solid, Pure, clear, smooth stone, cloudless day.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Safwat",
-    "arabic_name": "صفوة",
-    "meaning": "The best, the chosen, Supreme, good friend, purity.",
     "gender": "male"
   },
   {
@@ -69198,33 +64884,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sahabah",
-    "arabic_name": "صحبه",
-    "meaning": "Sahabah is an Arabic name for boys and girls that means companions. It is the plural of Sahabi and in Islamic literature it is used with the meaning of companions of the Prophet (peace and blessings of God upon him), which refers to Muslims who met the Prophet.",
-    "gender": "male"
-  },
-  {
     "english_name": "Sahand",
     "arabic_name": "صحند",
     "meaning": "Sahand is a Persian name for boys that is the name of a volcanic mountain in the Eastern Azerbaijan province of Iran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sahar",
-    "arabic_name": "سهر",
-    "meaning": "Time before day break, bewitch",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sahari",
-    "arabic_name": "ساهري",
-    "meaning": "Sahari is an Arabic name for boys and girls that means deserts, it is the plural of Sahraa (desert).",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sahbah",
-    "arabic_name": "صاحبه",
-    "meaning": "Sahbah is an Arabic name for boys and girls that means friendship, companionship.",
     "gender": "male"
   },
   {
@@ -69303,13 +64965,13 @@ export const namesData = [
     "english_name": "Subail",
     "arabic_name": "سبيل",
     "meaning": "Subail is an Arabic name for boys and less commonly for girls that means pouring rain. It also means ear, spike, the part of a cereal plant (like corn) from which the seeds come out.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Subayah",
     "arabic_name": "صبيح",
     "meaning": "Handsome, Comely.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Subaytah",
@@ -69327,13 +64989,13 @@ export const namesData = [
     "english_name": "Subbooh",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Subh",
     "arabic_name": "صوبه",
     "meaning": "Morning, dawn",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Subhaan",
@@ -69393,7 +65055,7 @@ export const namesData = [
     "english_name": "Sudur",
     "arabic_name": "صدور",
     "meaning": "Sudur is an Arabic name for boys and girls that means hearts. Its literal meaning is chests. It is used 34 times in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Suffah",
@@ -69483,7 +65145,7 @@ export const namesData = [
     "english_name": "Tahleem",
     "arabic_name": "تحلم",
     "meaning": "Ornament, beauty.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tahlibah",
@@ -69495,7 +65157,7 @@ export const namesData = [
     "english_name": "Tahmeed",
     "arabic_name": "تحميض",
     "meaning": "Praise, appreciation, recitation of good will.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tahmina",
@@ -69525,13 +65187,13 @@ export const namesData = [
     "english_name": "Tahrir",
     "arabic_name": "تحرير",
     "meaning": "Tahrir is an Arabic name for boys and girls that means liberation, to free someone/something.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tahseen",
     "arabic_name": "تحسين",
     "meaning": "Acclaim, appreciation",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tahseenah",
@@ -69543,13 +65205,13 @@ export const namesData = [
     "english_name": "Tahsin",
     "arabic_name": "تحصين",
     "meaning": "Adornment, ornament, decoration, embellishment, betterment.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tahzeeb",
     "arabic_name": "تهذيب",
     "meaning": "Tahzeeb is an Arabic name for boys and girls that means purification, refinement, rectification, edification.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Taiba",
@@ -69591,7 +65253,7 @@ export const namesData = [
     "english_name": "Tajdar",
     "arabic_name": "تجدر",
     "meaning": "Ruler, king, emperor, royal member.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tajmeel",
@@ -69615,7 +65277,7 @@ export const namesData = [
     "english_name": "Takreem",
     "arabic_name": "تكريم",
     "meaning": "Arabic for to honor, to respect, to treat with grace.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tala",
@@ -69633,13 +65295,13 @@ export const namesData = [
     "english_name": "Talaat",
     "arabic_name": "تلات",
     "meaning": "Apearance of sun",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Talah",
     "arabic_name": "تلاه",
     "meaning": "Young palm tree",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Talbashah",
@@ -69651,13 +65313,13 @@ export const namesData = [
     "english_name": "Talhah",
     "arabic_name": "طلحه",
     "meaning": "Kind of tree",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tali",
     "arabic_name": "تالي",
     "meaning": "Rising, Ascending, Going up",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sartor",
@@ -69762,12 +65424,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sawab",
-    "arabic_name": "صواب",
-    "meaning": "Sawab is an Arabic name for boys and girls that means reward. If pronounced with emphasis on the first syllable, the meaning becomes one who repents often, one who returns to God often.",
-    "gender": "male"
-  },
-  {
     "english_name": "Sawad",
     "arabic_name": "سواد",
     "meaning": "Blackness, Skill",
@@ -69807,18 +65463,6 @@ export const namesData = [
     "english_name": "Sawni",
     "arabic_name": "سوني",
     "meaning": "Sawni is an Arabic name for boys that means protector, maintainer.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sawrat",
-    "arabic_name": "صورة",
-    "meaning": "Sawrat is an Arabic name for boys and girls that means revolution, uprising, great excitement.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sawsan",
-    "arabic_name": "سوسن",
-    "meaning": "Lily of the valley.",
     "gender": "male"
   },
   {
@@ -69996,12 +65640,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Qabool",
-    "arabic_name": "قبول",
-    "meaning": "Accepted, accreditec",
-    "gender": "male"
-  },
-  {
     "english_name": "Qabus",
     "arabic_name": "قابوس",
     "meaning": "Handsome",
@@ -70047,12 +65685,6 @@ export const namesData = [
     "english_name": "Samhun",
     "arabic_name": "سمحون",
     "meaning": "Samhun is an Arabic name for boys that means lenient, forgiving. It is a pet form of Sammah.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sami",
-    "arabic_name": "سامي",
-    "meaning": "Hearing, listening. Al-Sami, the All-Hearing: one of the names of Allah.",
     "gender": "male"
   },
   {
@@ -70110,12 +65742,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Samin",
-    "arabic_name": "سمين",
-    "meaning": "Valuable, precious, priceless.",
-    "gender": "male"
-  },
-  {
     "english_name": "Samiq",
     "arabic_name": "سامق",
     "meaning": "Another name for God, exalted, tall",
@@ -70155,12 +65781,6 @@ export const namesData = [
     "english_name": "Samman",
     "arabic_name": "سمان",
     "meaning": "Grocer",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sammar",
-    "arabic_name": "سامر",
-    "meaning": "Sammar is an Arabic name for boys that means one who continues conversation long into the night. It is an emphasized form of Saamer.",
     "gender": "male"
   },
   {
@@ -70215,13 +65835,13 @@ export const namesData = [
     "english_name": "Tabarruk",
     "arabic_name": "تبارك",
     "meaning": "Tabarruk is an Arabic name for boys and girls that means to become blessed, to be raised in status.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tabassum",
     "arabic_name": "تبسم",
     "meaning": "Smiling.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tabasumm",
@@ -70239,7 +65859,7 @@ export const namesData = [
     "english_name": "Tabeen",
     "arabic_name": "تبين",
     "meaning": "Followers, those who believe, fans.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tabeer",
@@ -70269,13 +65889,13 @@ export const namesData = [
     "english_name": "Tabith",
     "arabic_name": "تبعث",
     "meaning": "Tabith is an Aramaic name for boys and girls that means gazelle. Aramaic is an ancient language that was used in the ancient empires that ruled the areas of modern Iraq and Syria.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tafheem",
     "arabic_name": "تفهيم",
     "meaning": "Undersanding, knowledge, know-how.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tafida",
@@ -70293,7 +65913,7 @@ export const namesData = [
     "english_name": "Tafli",
     "arabic_name": "طفلي",
     "meaning": "Tafli is an Arabic name for boys and girls means soft and delicate, gentle.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Taghrid",
@@ -70305,7 +65925,7 @@ export const namesData = [
     "english_name": "Tahani",
     "arabic_name": "تهاني",
     "meaning": "Tahani is an Arabic name for boys and girls that means congratulations, to congratulate someone for something good that has happened to them.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Taheera",
@@ -70491,13 +66111,13 @@ export const namesData = [
     "english_name": "Shuqur",
     "arabic_name": "شقور",
     "meaning": "Shuqur is an Arabic name for boys and girls that means blondness, fairness of the skin.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shuraa",
     "arabic_name": "شراء",
     "meaning": "Shura is an Arabic name for boys and girls that means consultation, council. It is the name of chapter 42 of the Quran. It can also be a phonetic variant of Shurah, in which case it means view, honeycomb cell.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shurafa",
@@ -70527,7 +66147,7 @@ export const namesData = [
     "english_name": "Shuruq",
     "arabic_name": "شروق",
     "meaning": "Shuruq is an Arabic name for boys and girls that means sunrise.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shuwaihah",
@@ -70551,7 +66171,7 @@ export const namesData = [
     "english_name": "Siba",
     "arabic_name": "صعبة",
     "meaning": "Siba is an indirect Quranic name for boys and girls that means emotion, enthusiasm, youthfulness, childhood. It is derived from the SAD-B-B Quranic root, which has various meanings, such as softness, youthfulness and pouring of water.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sibaal",
@@ -70590,12 +66210,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shafqat",
-    "arabic_name": "شفقة",
-    "meaning": "Affection, Compassion, pity, kindness, tenderness.",
-    "gender": "male"
-  },
-  {
     "english_name": "Shafwan",
     "arabic_name": "شافوا",
     "meaning": "Big rock with smooth surface, Clear/ transparent, Sincere,",
@@ -70605,12 +66219,6 @@ export const namesData = [
     "english_name": "Shaghaaf",
     "arabic_name": "شغاف",
     "meaning": "Shaghaaf is an Arabic name for boys that means strongly in love.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shaghf",
-    "arabic_name": "شغف",
-    "meaning": "Shaghf is an Arabic name for boys and girls that means strong, passionate love.",
     "gender": "male"
   },
   {
@@ -70641,12 +66249,6 @@ export const namesData = [
     "english_name": "Shahab",
     "arabic_name": "شهاب",
     "meaning": "Flame, brightness of flame, meteor, man of experience, Bright red colour.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shahada",
-    "arabic_name": "شهادة",
-    "meaning": "Shadaha is an Arabic name for boys and girls that means martyrdom. It can also mean testimony.",
     "gender": "male"
   },
   {
@@ -70722,12 +66324,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shaheen",
-    "arabic_name": "شاهين",
-    "meaning": "Royal white falcon, the needle of the beam of scales.",
-    "gender": "male"
-  },
-  {
     "english_name": "Shaheer",
     "arabic_name": "شهير",
     "meaning": "Well-Known",
@@ -70773,7 +66369,7 @@ export const namesData = [
     "english_name": "Shaista",
     "arabic_name": "شستا",
     "meaning": "Gentle, obedient",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shaistah",
@@ -70857,7 +66453,7 @@ export const namesData = [
     "english_name": "Shakirah",
     "arabic_name": "شاكره",
     "meaning": "Thankful",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shakirat",
@@ -71016,21 +66612,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Reda",
-    "arabic_name": "رضا",
-    "meaning": "(in god's) favor, contentment, satisfaction",
-    "gender": "male"
-  },
-  {
     "english_name": "Redouane",
     "arabic_name": "رضوان",
     "meaning": "satisfaction",
-    "gender": "male"
-  },
-  {
-    "english_name": "Rehab",
-    "arabic_name": "رحاب",
-    "meaning": "Rehab is an indirect Quranic name for boys and girls that means vast, spacious, open-minded, generous. It is derived from the R-H6-B Quranic root.",
     "gender": "male"
   },
   {
@@ -71154,18 +66738,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Qiblah",
-    "arabic_name": "قبله",
-    "meaning": "Qiblah is an Arabic name for boys and girls that means direction, especially the direction of the Kaaba in Mecca, Saudi Arabia, which the Muslims face during formal prayer.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Qindil",
-    "arabic_name": "قنديل",
-    "meaning": "Qindil is an Arabic name for boys and girls that means oil lamp, a lamp that burns oil, such as olive oil, to give off light.",
-    "gender": "male"
-  },
-  {
     "english_name": "Qirni",
     "arabic_name": "قرني",
     "meaning": "Qirni is an Arabic name for boys that means capable, able.",
@@ -71196,12 +66768,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Qiyam",
-    "arabic_name": "قييم",
-    "meaning": "Qiyam is an Arabic name for boys and girls that means to stand up late at night to pray. The word is used in many places in the Quran, such as 25:64.There is another Arabic word Qiyam which means values, a persons principles or standards and what he/she consider important in life.",
-    "gender": "male"
-  },
-  {
     "english_name": "Qobad",
     "arabic_name": "قبض",
     "meaning": "Qobad is a Persian name for boys that means beloved king.",
@@ -71223,12 +66789,6 @@ export const namesData = [
     "english_name": "Quasim",
     "arabic_name": "قسم",
     "meaning": "Judge",
-    "gender": "male"
-  },
-  {
-    "english_name": "Quba",
-    "arabic_name": "قبة",
-    "meaning": "Quba is an Arabic name for boys and girls that is the name of a place in the city of Medina where the first mosque of Islam was built. The mosque itself is known as Quba Mosque. The meaning of the word may be that which is built up, that which has been erected, from the word Qabaa (he built).",
     "gender": "male"
   },
   {
@@ -71325,7 +66885,7 @@ export const namesData = [
     "english_name": "Udaina",
     "arabic_name": "أدينا",
     "meaning": "Udaina is an indirect Quranic name for girls that means little Adan (little Eden). Adan means place of everlasting bliss. It is derived from the AIN-D-N root which is used in many places in the Quran. BLANKENTER Udaina is also a name for boys if taken from the A-DHAL-N root, with meanings of listener, obedient.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Udaysah",
@@ -71379,7 +66939,7 @@ export const namesData = [
     "english_name": "Uhud",
     "arabic_name": "أحد",
     "meaning": "Uhud is an indirect Quranic name for boys that is the name of a mountain near the city of Madina in Saudi Arabia, which was the site of the second major battle in Islamic history. The word Uhud is derived from the A-H6-D root (one, single), but the meaning of Uhud itself is unclear.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ujala",
@@ -71409,7 +66969,7 @@ export const namesData = [
     "english_name": "Ulfat",
     "arabic_name": "ألفت",
     "meaning": "Love, Affection, Familiarity, Intimacy",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ulwiyat",
@@ -71475,7 +67035,7 @@ export const namesData = [
     "english_name": "Tibhaj",
     "arabic_name": "تبهج",
     "meaning": "Tibhaj is an Arabic name for boys and girls that means beauty, radiance and glow of the face, joyfulness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tibrah",
@@ -71499,7 +67059,7 @@ export const namesData = [
     "english_name": "Tinjal",
     "arabic_name": "تنجل",
     "meaning": "Tinjal is an Arabic name for boys and girls that means wideness and beauty of the eyes. It also means when the earth becomes green, such as it happens in the spring.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tirana",
@@ -71511,7 +67071,7 @@ export const namesData = [
     "english_name": "Tirhab",
     "arabic_name": "ترحب",
     "meaning": "Tirhab is an Arabic name for boys and girls that means vastness, spaciousness, relaxed-ness. It also means to welcome.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tisha",
@@ -71535,7 +67095,7 @@ export const namesData = [
     "english_name": "Tooba",
     "arabic_name": "توبة",
     "meaning": "Good news",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Toshana",
@@ -71577,7 +67137,7 @@ export const namesData = [
     "english_name": "Tufan",
     "arabic_name": "طوفان",
     "meaning": "Tufan is an Arabic name for boys and girls that means flood, cataclysm, deluge, inundation, overflow.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tufaylah",
@@ -71619,13 +67179,13 @@ export const namesData = [
     "english_name": "Turan",
     "arabic_name": "توران",
     "meaning": "Brave.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Turas",
     "arabic_name": "تراث",
     "meaning": "Turas is an Arabic name for boys and girls that means inheritance. The word Turas/Turath is used in the Quran in verse 89:19.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Turfa",
@@ -71649,13 +67209,13 @@ export const namesData = [
     "english_name": "Umara",
     "arabic_name": "عمارة",
     "meaning": "Umara is an indirect Quranic name for boys and girls. It is an ancient Arabic name, for this reason its meaning is not perfectly determinate, but its root is Ain-M-R, which has meanings of to build, to maintain, to tend to, to enliven, to inhabit, to settle in, which is used in many places in the Quran.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Umarah",
     "arabic_name": "عمره",
     "meaning": "Habitation, Old Arabic name",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Umayma",
@@ -71685,7 +67245,7 @@ export const namesData = [
     "english_name": "Umayyah",
     "arabic_name": "أمايه",
     "meaning": "Famous Arabian tribe, A narrator of hadith",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Umm",
@@ -71781,7 +67341,7 @@ export const namesData = [
     "english_name": "Umrah",
     "arabic_name": "عمره",
     "meaning": "It's an Arabic name for girls and less commonly for boys that means minor pilgrimage, when Muslims perform the pilgrimage to Mecca during a time of the year other than the Hajj season. Its literal meaning is overhaul, restoration, revival.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Unaiza",
@@ -71919,7 +67479,7 @@ export const namesData = [
     "english_name": "Waasey",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Waasifah",
@@ -71943,7 +67503,7 @@ export const namesData = [
     "english_name": "Wabisah",
     "arabic_name": "وابعثه",
     "meaning": "Bin Ma bad RA had this name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wadaaat",
@@ -71973,7 +67533,7 @@ export const namesData = [
     "english_name": "Waddah",
     "arabic_name": "واضح",
     "meaning": "Bright, brilliant",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Waddia",
@@ -71985,7 +67545,7 @@ export const namesData = [
     "english_name": "Waddood",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wadeedah",
@@ -72015,12 +67575,6 @@ export const namesData = [
     "english_name": "Salam",
     "arabic_name": "سلام",
     "meaning": "Peace, safety, security. Al-Salam, the All-peaceable: one of the names of Allah.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Salama",
-    "arabic_name": "سلامة",
-    "meaning": "Peaceful,Secured, fem. of Salam.",
     "gender": "male"
   },
   {
@@ -72111,12 +67665,6 @@ export const namesData = [
     "english_name": "Salem",
     "arabic_name": "سالم",
     "meaning": "Safe",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sali",
-    "arabic_name": "سالي",
-    "meaning": "Sali is an Arabic name for boys and girls that means cheerful, cheered up, at ease, in a good humor, amused.",
     "gender": "male"
   },
   {
@@ -72339,18 +67887,6 @@ export const namesData = [
     "english_name": "Sair",
     "arabic_name": "سائر",
     "meaning": "Walking, going on foot",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sairah",
-    "arabic_name": "سيره",
-    "meaning": "Walking",
-    "gender": "male"
-  },
-  {
-    "english_name": "Saja",
-    "arabic_name": "سجى",
-    "meaning": "A pleasant face, eloquent.",
     "gender": "male"
   },
   {
@@ -72579,7 +68115,7 @@ export const namesData = [
     "english_name": "Wajahat",
     "arabic_name": "واجهت",
     "meaning": "Commanding, Comely, dignity, elevated position.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wajee",
@@ -72609,7 +68145,7 @@ export const namesData = [
     "english_name": "Wajeeh",
     "arabic_name": "وجيه",
     "meaning": "Commanding Personality, Noble",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wajeeha",
@@ -72747,7 +68283,7 @@ export const namesData = [
     "english_name": "Taqadum",
     "arabic_name": "تقدم",
     "meaning": "Taqadum is an Arabic name for boys and girls that means progress, advance, increase in rank and status.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Taqadus",
@@ -72759,7 +68295,7 @@ export const namesData = [
     "english_name": "Taqdees",
     "arabic_name": "تقديس",
     "meaning": "A Name for Allah, The Almighty",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Taqiya",
@@ -72825,7 +68361,7 @@ export const namesData = [
     "english_name": "Tarashud",
     "arabic_name": "ترشد",
     "meaning": "Tarashud is an Arabic name for boys and girls that means guidance.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tareefa",
@@ -72849,7 +68385,7 @@ export const namesData = [
     "english_name": "Tarheeb",
     "arabic_name": "ترحيب",
     "meaning": "Tarheeb is an Arabic name for boys and girls that means to welcome. It also means spaciousness, vastness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tarib",
@@ -72879,7 +68415,7 @@ export const namesData = [
     "english_name": "Tarkheem",
     "arabic_name": "ترخيم",
     "meaning": "Tarkheem is an Arabic name for boys and girls that means to soften, to mellow, to sweeten.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tarkhunah",
@@ -73026,12 +68562,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shamikh",
-    "arabic_name": "شامخ",
-    "meaning": "Another name for god, lofty, arrogant,",
-    "gender": "male"
-  },
-  {
     "english_name": "Shamil",
     "arabic_name": "شامل",
     "meaning": "Near, close, partner, together, complete, famous primogenitor/sufi of Chechnya, All comprehensive",
@@ -73047,18 +68577,6 @@ export const namesData = [
     "english_name": "Shamir",
     "arabic_name": "شامير",
     "meaning": "Precious stone",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shamis",
-    "arabic_name": "شمس",
-    "meaning": "Shamis is an Arabic name boys that means bright, sunlit.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shammam",
-    "arabic_name": "شمام",
-    "meaning": "Shammam is an Arabic name for boys and girls that means muskmelon, a type of melon that has a good scent.",
     "gender": "male"
   },
   {
@@ -73089,7 +68607,7 @@ export const namesData = [
     "english_name": "Wadi",
     "arabic_name": "وادي",
     "meaning": "Calm, peaceful",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wadiah",
@@ -73119,7 +68637,7 @@ export const namesData = [
     "english_name": "Wafa",
     "arabic_name": "وفا",
     "meaning": "Faithfulness, fidelity",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wafaa",
@@ -73233,7 +68751,7 @@ export const namesData = [
     "english_name": "Wahdat",
     "arabic_name": "وحدة",
     "meaning": "Unity, oneness, state of being one.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Waheebah",
@@ -73440,18 +68958,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sabah",
-    "arabic_name": "صباح",
-    "meaning": "Morning, Dawn, Handsome",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sabahat",
-    "arabic_name": "صبحت",
-    "meaning": "Beauty, Grace, Handsomeness",
-    "gender": "male"
-  },
-  {
     "english_name": "Sabalan",
     "arabic_name": "سبلا",
     "meaning": "Sabalan is a Persian name for boys that is the name of a mountain range in north-western Iran. We cannot find information on the origin of the name, but since it is a common name and the meaning is not commonly known, it is acceptable to use it.",
@@ -73461,12 +68967,6 @@ export const namesData = [
     "english_name": "Sabaque",
     "arabic_name": "سابق",
     "meaning": "One who surpasses or excels.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sabat",
-    "arabic_name": "سبت",
-    "meaning": "Firmness, stability, certainty, endurance, boldness, truth.",
     "gender": "male"
   },
   {
@@ -73518,12 +69018,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sabeel",
-    "arabic_name": "سبيل",
-    "meaning": "Way, path, road, route. It is one of the most common words in the Quran, mentioned over 160 times.",
-    "gender": "male"
-  },
-  {
     "english_name": "Sabeer",
     "arabic_name": "سبير",
     "meaning": "Persevering, Patient, tolerant.",
@@ -73551,12 +69045,6 @@ export const namesData = [
     "english_name": "Sabigh",
     "arabic_name": "صبغ",
     "meaning": "Sabigh is an Arabic name for boys that means dyer, a person who changes the color of clothes using dye.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sabih",
-    "arabic_name": "صبيح",
-    "meaning": "Coming or arrival in the morning.",
     "gender": "male"
   },
   {
@@ -73593,12 +69081,6 @@ export const namesData = [
     "english_name": "Sabr",
     "arabic_name": "صبر",
     "meaning": "Patient, one who endures hardships without complaint",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sabri",
-    "arabic_name": "صبري",
-    "meaning": "Of patience, perseverence",
     "gender": "male"
   },
   {
@@ -73695,7 +69177,7 @@ export const namesData = [
     "english_name": "Ward",
     "arabic_name": "ورد",
     "meaning": "Blossoms, flowers",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Warda",
@@ -73707,7 +69189,7 @@ export const namesData = [
     "english_name": "Wardaa",
     "arabic_name": "ورضاء",
     "meaning": "Flower",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wardah",
@@ -73761,7 +69243,7 @@ export const namesData = [
     "english_name": "Warqa",
     "arabic_name": "ورقة",
     "meaning": "to do with paper, leaf.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Warqaa",
@@ -73860,18 +69342,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shaaheen",
-    "arabic_name": "شاهين",
-    "meaning": "Hawk, Falcon",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shaan",
-    "arabic_name": "شان",
-    "meaning": "Condition, business, affair, state, dignity, quality, nature, disposition, luster, eminence, glory, grandeur.",
-    "gender": "male"
-  },
-  {
     "english_name": "Shaar",
     "arabic_name": "شار",
     "meaning": "Habit, custom, an under garment.",
@@ -73905,12 +69375,6 @@ export const namesData = [
     "english_name": "Shabah",
     "arabic_name": "شابه",
     "meaning": "Resembling",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shaban",
-    "arabic_name": "شعبان",
-    "meaning": "Eighth lunar month. It is a month of religious significance for Muslims.",
     "gender": "male"
   },
   {
@@ -74007,7 +69471,7 @@ export const namesData = [
     "english_name": "Yashal",
     "arabic_name": "يسهل",
     "meaning": "Freshness, greenery",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yasharah",
@@ -74103,7 +69567,7 @@ export const namesData = [
     "english_name": "Yasra",
     "arabic_name": "يسرا",
     "meaning": "Affluent, rich, prosperous.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yassaman",
@@ -74139,7 +69603,7 @@ export const namesData = [
     "english_name": "Yumn",
     "arabic_name": "يمن",
     "meaning": "Happiness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yumna",
@@ -74244,12 +69708,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sakhrah",
-    "arabic_name": "صخره",
-    "meaning": "Rock(s)",
-    "gender": "male"
-  },
-  {
     "english_name": "Sakoot",
     "arabic_name": "سقوط",
     "meaning": "Silence, peace, calm, satisfaction.",
@@ -74295,12 +69753,6 @@ export const namesData = [
     "english_name": "Salaamat",
     "arabic_name": "سلامات",
     "meaning": "Safety.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Salaat",
-    "arabic_name": "صلاة",
-    "meaning": "Salaat is an Arabic name for boys and girls that means prayer, litany , a type of prayer that has prescribed times and methods of doing.",
     "gender": "male"
   },
   {
@@ -74367,12 +69819,6 @@ export const namesData = [
     "english_name": "Shad",
     "arabic_name": "شد",
     "meaning": "Happy, cheerful, delighted",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shadab",
-    "arabic_name": "شدب",
-    "meaning": "Fresh, evergreen",
     "gender": "male"
   },
   {
@@ -74454,12 +69900,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shadman",
-    "arabic_name": "شدما",
-    "meaning": "Shadman is a Persian name for boys that means happy, joyous, jubilant.",
-    "gender": "male"
-  },
-  {
     "english_name": "Shaeef",
     "arabic_name": "شايف",
     "meaning": "Shaeef is an Arabic name for boys that means strongly in love.",
@@ -74469,12 +69909,6 @@ export const namesData = [
     "english_name": "Shafaat",
     "arabic_name": "شفاط",
     "meaning": "Intercession, mediation, recommendation.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shafaq",
-    "arabic_name": "شفق",
-    "meaning": "Shafaq is an Arabic name for boys and girls that means sympathy, affection, pity, tenderness. It also means twilight, the redness that appears in the sky before the sun comes up and after it goes down.",
     "gender": "male"
   },
   {
@@ -74541,7 +69975,7 @@ export const namesData = [
     "english_name": "Taloot",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Talwasa",
@@ -74571,7 +70005,7 @@ export const namesData = [
     "english_name": "Tamanna",
     "arabic_name": "تمنى",
     "meaning": "Wish, Desire",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tamanni",
@@ -74595,13 +70029,13 @@ export const namesData = [
     "english_name": "Tamassuk",
     "arabic_name": "تمسك",
     "meaning": "Tamassuk is an Arabic name for boys and girls that means adherence, hanging on, keeping close to.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tamasul",
     "arabic_name": "تمثل",
     "meaning": "Tamasul or Tamathul is an Arabic name for boys and girls that means similarity, alikeness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tamazur",
@@ -74631,7 +70065,7 @@ export const namesData = [
     "english_name": "Tameez",
     "arabic_name": "تميز",
     "meaning": "Discernment, discretion, judgement, sense, distinction, manners",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tameka",
@@ -74643,7 +70077,7 @@ export const namesData = [
     "english_name": "Tamheed",
     "arabic_name": "تمهيد",
     "meaning": "Tamheed is an Arabic name for boys and girls that means to facilitate, to make easy, to prepare, to put in order. It is used in the Quran in verse 74:14.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tamirah",
@@ -74655,7 +70089,7 @@ export const namesData = [
     "english_name": "Tamkeen",
     "arabic_name": "تمكين",
     "meaning": "Dignity, Gravity",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tammamah",
@@ -74685,7 +70119,7 @@ export const namesData = [
     "english_name": "Taneem",
     "arabic_name": "تنم",
     "meaning": "Benefit, Blessings and Profit",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tanisha",
@@ -74715,7 +70149,7 @@ export const namesData = [
     "english_name": "Zahian",
     "arabic_name": "ذحين",
     "meaning": "Light and Radiance.It's an indirect Quranic name for boys and girls meaning bright day, brilliant, full of light. It is derived from the DHAD-H6-Y root which is used in many places in the Quran. BLANKENTER [Moses] said, Your appointment is on the day of the festival when the people assemble at mid-morning.(Quran 20:59)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zahida",
@@ -74745,7 +70179,7 @@ export const namesData = [
     "english_name": "Zahir",
     "arabic_name": "ظاهر",
     "meaning": "Apparent, evident, one of the attributes of Allah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zahira",
@@ -74763,7 +70197,7 @@ export const namesData = [
     "english_name": "Zahou",
     "arabic_name": "زهو",
     "meaning": "Zahou is an Arabic name for boys and girls that means beautiful view, beautiful appearance, a plant that is in full bloom.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zahra",
@@ -74823,7 +70257,7 @@ export const namesData = [
     "english_name": "Zaigham",
     "arabic_name": "زغم",
     "meaning": "Lion",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zaighama",
@@ -74841,7 +70275,7 @@ export const namesData = [
     "english_name": "Zain",
     "arabic_name": "زين",
     "meaning": "Beautiful, pretty, beauty, grace, ornament, honour.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zaina",
@@ -74886,39 +70320,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Samurah",
-    "arabic_name": "سموره",
-    "meaning": "Name of a distinguished Sahabi RA.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sana",
-    "arabic_name": "سنة",
-    "meaning": "Praise, commendation, eulogy.",
-    "gender": "male"
-  },
-  {
     "english_name": "Sanaauddin",
     "arabic_name": "ساندن",
     "meaning": "Sanauddin is an Arabic name for boys that means exaltedness of the faith, a person who is a cause for success of his religion.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sanad",
-    "arabic_name": "سند",
-    "meaning": "Another name for Allah, evidence, proof, Support, prop.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sanan",
-    "arabic_name": "سنن",
-    "meaning": "Sanan is an Arabic name for boys and girls that means tradition, way of life.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sanaubar",
-    "arabic_name": "صنوبر",
-    "meaning": "Swift",
     "gender": "male"
   },
   {
@@ -74985,12 +70389,6 @@ export const namesData = [
     "english_name": "Sanobar",
     "arabic_name": "صنوبر",
     "meaning": "Name of a tree.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sanubar",
-    "arabic_name": "صنوبر",
-    "meaning": "Sanubar is an Arabic name for boys and girls that means cypress tree, which is a tree that is in many ways similar to a pine tree.",
     "gender": "male"
   },
   {
@@ -75129,7 +70527,7 @@ export const namesData = [
     "english_name": "Yusrullah",
     "arabic_name": "يسرلله",
     "meaning": "Yusrullah is an Arabic name for boys and girls that means ease and luxury that comes from God, Gods blessing, Gods favor.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zaada",
@@ -75225,7 +70623,7 @@ export const namesData = [
     "english_name": "Zabi",
     "arabic_name": "زبي",
     "meaning": "Zabi or Dhabi is an Arabic name for boys and girls that means gazelle, antelope. The name of the city and state of Abu Dhabi in the United Arab Emirates comes from this word.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zabia",
@@ -75273,19 +70671,19 @@ export const namesData = [
     "english_name": "Zakaa",
     "arabic_name": "ذكاء",
     "meaning": "Arabic for intelligence, cleverness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zakat",
     "arabic_name": "زكاة",
     "meaning": "Zakat is an Arabic name for boys and girls that means purification. In Islam it refers to a type of alms that wealthy Muslims give to others.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zakawat",
     "arabic_name": "زقوت",
     "meaning": "Sharpness.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zakhira",
@@ -75369,13 +70767,13 @@ export const namesData = [
     "english_name": "Zaluj",
     "arabic_name": "زعلج",
     "meaning": "Zaluj is an Arabic name for boys and girls that means nimble, swift-footed, sprightly.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zamaair",
     "arabic_name": "ذمار",
     "meaning": "Arabic for hearts, minds, consciences.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zamaneh",
@@ -75441,12 +70839,6 @@ export const namesData = [
     "english_name": "Saquib",
     "arabic_name": "ثقوب",
     "meaning": "Bright, luminous",
-    "gender": "male"
-  },
-  {
-    "english_name": "Saraab",
-    "arabic_name": "سراب",
-    "meaning": "Saraab is an Arabic name for boys and girls that means mirage, which is a reflection of the blue sky in the desert that appears like water.",
     "gender": "male"
   },
   {
@@ -75552,12 +70944,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sariyah",
-    "arabic_name": "صريح",
-    "meaning": "Clouds at night, name of a companion of the Prophet (PBUH)",
-    "gender": "male"
-  },
-  {
     "english_name": "Sarkar",
     "arabic_name": "ساركر",
     "meaning": "Chief, overseer.",
@@ -75567,12 +70953,6 @@ export const namesData = [
     "english_name": "Sarmad",
     "arabic_name": "سرمد",
     "meaning": "Eternity, Everlasting.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sarosh",
-    "arabic_name": "سروش",
-    "meaning": "Name of an angel who speaks but does not appear.",
     "gender": "male"
   },
   {
@@ -75726,12 +71106,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Seema",
-    "arabic_name": "سيما",
-    "meaning": "Mien, Expression, Countenance",
-    "gender": "male"
-  },
-  {
     "english_name": "Seepan",
     "arabic_name": "سيبان",
     "meaning": "Seepan is a Kurdish name for boys that means mountain that always has snow.",
@@ -75801,7 +71175,7 @@ export const namesData = [
     "english_name": "Silaam",
     "arabic_name": "سلام",
     "meaning": "Silaam is an Arabic name for boys and girls that means to make peace.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Silah",
@@ -75831,7 +71205,7 @@ export const namesData = [
     "english_name": "Simab",
     "arabic_name": "سيمب",
     "meaning": "Simab is a Persian name for boys and girls that means mercury, the liquid metal element. In ancient times it was considered to have healing and beautifying powers, but in modern times it has been discovered to be a highly toxic and dangerous chemical.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Simak",
@@ -75867,7 +71241,7 @@ export const namesData = [
     "english_name": "Sineen",
     "arabic_name": "سنين",
     "meaning": "Beautiful and Radiant | Benefit, Blessings and Profit",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Sinwan",
@@ -75879,12 +71253,6 @@ export const namesData = [
     "english_name": "Siraaj",
     "arabic_name": "سراج",
     "meaning": "Night Lamp, Light",
-    "gender": "male"
-  },
-  {
-    "english_name": "Siraj",
-    "arabic_name": "سراج",
-    "meaning": "Lamp, light, the sun, candle.",
     "gender": "male"
   },
   {
@@ -75918,12 +71286,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sirat",
-    "arabic_name": "سيرة",
-    "meaning": "Path",
-    "gender": "male"
-  },
-  {
     "english_name": "Sirhan",
     "arabic_name": "سيرها",
     "meaning": "Wolf",
@@ -75945,12 +71307,6 @@ export const namesData = [
     "english_name": "Siwar",
     "arabic_name": "صور",
     "meaning": "Bracelet, Arm-ring",
-    "gender": "male"
-  },
-  {
-    "english_name": "Siyadah",
-    "arabic_name": "سيده",
-    "meaning": "Siyadah is an Arabic name for boys and girls that means greatness, glory, honor. It also means leadership, command, rule.",
     "gender": "male"
   },
   {
@@ -75990,12 +71346,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Salsabil",
-    "arabic_name": "سلسبيل",
-    "meaning": "Salsabil is an Arabic name for boys and girls that means a drink that is easy and enjoyable to drink, it is also the name of a spring/fountain in Paradise, mentioned in verse 76:18 of the Quran.",
-    "gender": "male"
-  },
-  {
     "english_name": "Salsal",
     "arabic_name": "صلصال",
     "meaning": "Pure Water",
@@ -76014,18 +71364,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sama",
-    "arabic_name": "سما",
-    "meaning": "One who listens a lot.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Samaah",
-    "arabic_name": "سماه",
-    "meaning": "Tolerance, Generous, Forgiving",
-    "gender": "male"
-  },
-  {
     "english_name": "Samaan",
     "arabic_name": "سمان",
     "meaning": "Samaan is an Arabic name for boys that means one who hears, one who listens, one who is a good listener.",
@@ -76038,45 +71376,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Samah",
-    "arabic_name": "سماح",
-    "meaning": "Generosity, bounty, good-heartedness.",
-    "gender": "male"
-  },
-  {
     "english_name": "Samama",
     "arabic_name": "صماما",
     "meaning": "A companion of Prophet Muhammad (PBUH).",
     "gender": "male"
   },
   {
-    "english_name": "Saman",
-    "arabic_name": "ثمن",
-    "meaning": "Price, Worth.",
-    "gender": "male"
-  },
-  {
     "english_name": "Samandar",
     "arabic_name": "سمندر",
     "meaning": "Ocean.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Samar",
-    "arabic_name": "سامر",
-    "meaning": "Fruit, Outcome.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Samawah",
-    "arabic_name": "سموه",
-    "meaning": "Samawah is an Arabic name for boys and girls that means greatness, elevation, highness of status and rank.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Samawi",
-    "arabic_name": "سماوي",
-    "meaning": "Samawi is an Arabic name for boys and girls that means from the sky, heavenly. It also means elevated, one who has a high status or rank.",
     "gender": "male"
   },
   {
@@ -76089,12 +71397,6 @@ export const namesData = [
     "english_name": "Samee",
     "arabic_name": "سم",
     "meaning": "The all-hearing, He who hear every thing, Names: Abdus Samee",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sameeah",
-    "arabic_name": "ساميه",
-    "meaning": "Hearing, she who hears.",
     "gender": "male"
   },
   {
@@ -76116,39 +71418,15 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sameen",
-    "arabic_name": "سمين",
-    "meaning": "Valuable, Precious, Priceless, invaluable.",
-    "gender": "male"
-  },
-  {
     "english_name": "Sameer",
     "arabic_name": "سمير",
     "meaning": "Companion (in nightly conversation), entertainer (with stories, music etc.)",
     "gender": "male"
   },
   {
-    "english_name": "Sameh",
-    "arabic_name": "سامح",
-    "meaning": "Forgiver",
-    "gender": "male"
-  },
-  {
     "english_name": "Samen",
     "arabic_name": "سمن",
     "meaning": "Happy",
-    "gender": "male"
-  },
-  {
-    "english_name": "Siyam",
-    "arabic_name": "صيام",
-    "meaning": "Siyam is a direct Quranic name for boys and girls that means fasting (to refrain from eating for a period of time), which is a practice followed by Muslims throughout the month of Ramadan. The word Siyam is used nine times in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Siyaq",
-    "arabic_name": "سياق",
-    "meaning": "Siyaq is an Arabic name for boys and girls that means context, style of speaking, articulation. It also means dowry.",
     "gender": "male"
   },
   {
@@ -76290,12 +71568,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Subah",
-    "arabic_name": "صباح",
-    "meaning": "Beautiful, graceful.",
-    "gender": "male"
-  },
-  {
     "english_name": "Subah-uddin",
     "arabic_name": "صباحدن",
     "meaning": "Beautiful (person) of the religion (Islam).",
@@ -76308,12 +71580,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Subail",
-    "arabic_name": "سبيل",
-    "meaning": "Subail is an Arabic name for boys and less commonly for girls that means pouring rain. It also means ear, spike, the part of a cereal plant (like corn) from which the seeds come out.",
-    "gender": "male"
-  },
-  {
     "english_name": "Subair",
     "arabic_name": "سوبر",
     "meaning": "Subair is an Arabic name for boys that means patient, enduring.",
@@ -76323,7 +71589,7 @@ export const namesData = [
     "english_name": "Zewar",
     "arabic_name": "زوار",
     "meaning": "Zewar is a Kurdish name for boys and girls that means adornment, beautification. It is the Kurdish variant of the Persian name Zivar.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zeynep",
@@ -76467,7 +71733,7 @@ export const namesData = [
     "english_name": "Zihni",
     "arabic_name": "ذهني",
     "meaning": "Intellectual, cerebral.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zihniyyah",
@@ -76479,7 +71745,7 @@ export const namesData = [
     "english_name": "Zikr",
     "arabic_name": "ذكر",
     "meaning": "Another name for the quran, reminder, mention",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zikra",
@@ -76497,7 +71763,7 @@ export const namesData = [
     "english_name": "Zilal",
     "arabic_name": "ظلال",
     "meaning": "Arabic for shade.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zamira",
@@ -76515,7 +71781,7 @@ export const namesData = [
     "english_name": "Zamurd",
     "arabic_name": "زمرد",
     "meaning": "A green precious stone.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zanbaqi",
@@ -76575,7 +71841,7 @@ export const namesData = [
     "english_name": "Zarab",
     "arabic_name": "زارب",
     "meaning": "Persian for gold water, a liquid in which gold particles are suspended.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zarafat",
@@ -76593,7 +71859,7 @@ export const namesData = [
     "english_name": "Zaray",
     "arabic_name": "زري",
     "meaning": "Obedient, submissive.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zarbaha",
@@ -76665,7 +71931,7 @@ export const namesData = [
     "english_name": "Zargoon",
     "arabic_name": "زرج",
     "meaning": "Persian for gold-colored, like gold.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zargoona",
@@ -76677,7 +71943,7 @@ export const namesData = [
     "english_name": "Zargul",
     "arabic_name": "زرجل",
     "meaning": "Gold Flower.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wazeerah",
@@ -76737,13 +72003,13 @@ export const namesData = [
     "english_name": "Wiam",
     "arabic_name": "ويام",
     "meaning": "Arabic for rapport, harmony, concord, peace.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wid",
     "arabic_name": "ود",
     "meaning": "Arabic for affection, love, harmony.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Widaad",
@@ -76755,7 +72021,7 @@ export const namesData = [
     "english_name": "Widad",
     "arabic_name": "وداد",
     "meaning": "Arabic for unity, harmony, sincere affection, sympathy.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wided",
@@ -76767,13 +72033,13 @@ export const namesData = [
     "english_name": "Wifaq",
     "arabic_name": "وفاق",
     "meaning": "Arabic for harmony, amiability, unity.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wijdan",
     "arabic_name": "وجدان",
     "meaning": "Arabic for affection, fondness, tenderness, warmth, emotion, soul, sentiment, conscience.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wiqaa",
@@ -76791,7 +72057,7 @@ export const namesData = [
     "english_name": "Wisal",
     "arabic_name": "ويصل",
     "meaning": "Arabic and Persian for reunion, communion, being together after a lot of hardship and struggle, it can be used for family reunion, friends finally meeting, or lovers finally marrying one another.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wisama",
@@ -76935,18 +72201,12 @@ export const namesData = [
     "english_name": "Sihab",
     "arabic_name": "سحاب",
     "meaning": "Sihab is an Arabic name for boys and girls that means deep water well. It is the plural of Sahbah.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Siheme",
     "arabic_name": "سهم",
     "meaning": "arrow",
-    "gender": "female"
-  },
-  {
-    "english_name": "Silaam",
-    "arabic_name": "سلام",
-    "meaning": "Silaam is an Arabic name for boys and girls that means to make peace.",
     "gender": "female"
   },
   {
@@ -76986,12 +72246,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Simab",
-    "arabic_name": "سيمب",
-    "meaning": "Simab is a Persian name for boys and girls that means mercury, the liquid metal element. In ancient times it was considered to have healing and beautifying powers, but in modern times it has been discovered to be a highly toxic and dangerous chemical.",
-    "gender": "female"
-  },
-  {
     "english_name": "Simah",
     "arabic_name": "سماه",
     "meaning": "Sign, characteristic, expression",
@@ -77028,12 +72282,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Sineen",
-    "arabic_name": "سنين",
-    "meaning": "Beautiful and Radiant | Benefit, Blessings and Profit",
-    "gender": "female"
-  },
-  {
     "english_name": "Sinnah",
     "arabic_name": "سنه",
     "meaning": "Sinnah is an Arabic name for girls that means doubleheaded axe, coulter (a cutting blade fixed in front of a plowshare).",
@@ -77055,7 +72303,7 @@ export const namesData = [
     "english_name": "Yagana",
     "arabic_name": "يجنى",
     "meaning": "Unique, unprecedented.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yakootah",
@@ -77067,7 +72315,7 @@ export const namesData = [
     "english_name": "Yakta",
     "arabic_name": "يقطع",
     "meaning": "Unique.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yalina",
@@ -77091,7 +72339,7 @@ export const namesData = [
     "english_name": "Yamam",
     "arabic_name": "يمام",
     "meaning": "Arabic for dove, ringneck dove.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yamama",
@@ -77115,13 +72363,13 @@ export const namesData = [
     "english_name": "Yamar",
     "arabic_name": "يمر",
     "meaning": "Life and Alive",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yameen",
     "arabic_name": "يمين",
     "meaning": "Benefit, Blessings and Profit",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yameena",
@@ -77181,7 +72429,7 @@ export const namesData = [
     "english_name": "Yaqeen",
     "arabic_name": "يقين",
     "meaning": "Belief",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Yaqeena",
@@ -77295,13 +72543,13 @@ export const namesData = [
     "english_name": "Sumama",
     "arabic_name": "صماما",
     "meaning": "Sumama, also written as Thumama, is an Arabic name for boys and girls that means salvation, to be rescued. It is also the name of a genus of plants called Panicum, among these plants are tumbleweed and witchgrass. Sumama is the name of many (male) Sahabah (RA)",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sumamah",
     "arabic_name": "صممه",
     "meaning": "Millet (Plant).",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Sumanah",
@@ -77406,21 +72654,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tabeen",
-    "arabic_name": "تبين",
-    "meaning": "Followers, those who believe, fans.",
-    "gender": "male"
-  },
-  {
     "english_name": "Tabish",
     "arabic_name": "طبش",
     "meaning": "Heat, Brilliancy",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tabith",
-    "arabic_name": "تبعث",
-    "meaning": "Tabith is an Aramaic name for boys and girls that means gazelle. Aramaic is an ancient language that was used in the ancient empires that ruled the areas of modern Iraq and Syria.",
     "gender": "male"
   },
   {
@@ -77478,18 +72714,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tafheem",
-    "arabic_name": "تفهيم",
-    "meaning": "Undersanding, knowledge, know-how.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tafli",
-    "arabic_name": "طفلي",
-    "meaning": "Tafli is an Arabic name for boys and girls means soft and delicate, gentle.",
-    "gender": "male"
-  },
-  {
     "english_name": "Taghlib",
     "arabic_name": "تغليب",
     "meaning": "Taghlib is an Arabic name for boys that means they win, they triumph, they defeat their enemies. It is the name of a tribe of Arabia known for their courageousness and fighting ability.",
@@ -77499,12 +72723,6 @@ export const namesData = [
     "english_name": "Taha",
     "arabic_name": "طه",
     "meaning": "Mystic letters at the beginning of Surat Taha, from which the sura derives its title.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tahani",
-    "arabic_name": "تهاني",
-    "meaning": "Tahani is an Arabic name for boys and girls that means congratulations, to congratulate someone for something good that has happened to them.",
     "gender": "male"
   },
   {
@@ -77568,18 +72786,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tahleem",
-    "arabic_name": "تحلم",
-    "meaning": "Ornament, beauty.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tahmeed",
-    "arabic_name": "تحميض",
-    "meaning": "Praise, appreciation, recitation of good will.",
-    "gender": "male"
-  },
-  {
     "english_name": "Tajul-islam",
     "arabic_name": "تجلسلم",
     "meaning": "Crown of Islam.",
@@ -77598,12 +72804,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Takreem",
-    "arabic_name": "تكريم",
-    "meaning": "Arabic for to honor, to respect, to treat with grace.",
-    "gender": "male"
-  },
-  {
     "english_name": "Tal",
     "arabic_name": "طال",
     "meaning": "Dew, rain",
@@ -77616,21 +72816,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Talaat",
-    "arabic_name": "تلات",
-    "meaning": "Apearance of sun",
-    "gender": "male"
-  },
-  {
     "english_name": "Talab",
     "arabic_name": "طلب",
     "meaning": "Demand.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Talah",
-    "arabic_name": "تلاه",
-    "meaning": "Young palm tree",
     "gender": "male"
   },
   {
@@ -77655,18 +72843,6 @@ export const namesData = [
     "english_name": "Talha",
     "arabic_name": "طلحة",
     "meaning": "A name of Tree, Name of a Sahabi (R.A.) i.e. a companion of the Prophet Muhammad.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Talhah",
-    "arabic_name": "طلحه",
-    "meaning": "Kind of tree",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tali",
-    "arabic_name": "تالي",
-    "meaning": "Rising, Ascending, Going up",
     "gender": "male"
   },
   {
@@ -77700,12 +72876,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Taloot",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
-    "gender": "male"
-  },
-  {
     "english_name": "Talum",
     "arabic_name": "تعلم",
     "meaning": "Be sympathetic.",
@@ -77733,24 +72903,6 @@ export const namesData = [
     "english_name": "Tamam",
     "arabic_name": "تمام",
     "meaning": "Generous",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tamanna",
-    "arabic_name": "تمنى",
-    "meaning": "Wish, Desire",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tamassuk",
-    "arabic_name": "تمسك",
-    "meaning": "Tamassuk is an Arabic name for boys and girls that means adherence, hanging on, keeping close to.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tamasul",
-    "arabic_name": "تمثل",
-    "meaning": "Tamasul or Tamathul is an Arabic name for boys and girls that means similarity, alikeness.",
     "gender": "male"
   },
   {
@@ -77793,12 +72945,6 @@ export const namesData = [
     "english_name": "Sherif",
     "arabic_name": "شريف",
     "meaning": "Variant transcription of SHARIF Means \"eminent, virtuous\" in Arabic.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sherin",
-    "arabic_name": "شيرين",
-    "meaning": "Very sweet.",
     "gender": "male"
   },
   {
@@ -77892,12 +73038,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shimah",
-    "arabic_name": "شيمه",
-    "meaning": "Cream,Character",
-    "gender": "male"
-  },
-  {
     "english_name": "Shinas",
     "arabic_name": "شناص",
     "meaning": "Identifier, distinguisher, Knowing, acquainted with, intelligence .",
@@ -77934,12 +73074,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shua",
-    "arabic_name": "شوى",
-    "meaning": "Ray of the sun, sunshine, light, luster, splendour.",
-    "gender": "male"
-  },
-  {
     "english_name": "Uraifah",
     "arabic_name": "عريفة",
     "meaning": "Uraifah is an Arabic name for girls that means good scent. It can also be the diminutive form of Arafah, which is the name of mountain near Mecca.",
@@ -77955,7 +73089,7 @@ export const namesData = [
     "english_name": "Urooj",
     "arabic_name": "عروج",
     "meaning": "Ascension, mounting, rising.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Uroosa",
@@ -77979,7 +73113,7 @@ export const namesData = [
     "english_name": "Urwah",
     "arabic_name": "أرواح",
     "meaning": "Support, Handle ,Name of A Prominent Sahabi i.e. companion of the Prophet Muhammad.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Usaimah",
@@ -78120,12 +73254,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Shuaa",
-    "arabic_name": "شاء",
-    "meaning": "Beams, Rays",
-    "gender": "male"
-  },
-  {
     "english_name": "Shuaib",
     "arabic_name": "شوائب",
     "meaning": "A Prophet (see surat al-Araaf 7:88).",
@@ -78183,12 +73311,6 @@ export const namesData = [
     "english_name": "Shuhair",
     "arabic_name": "شهير",
     "meaning": "Shuhair is an Arabic name for boys that means month, it also means famous, being the diminutive form of Shahr or Shaheer.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shuhrat",
-    "arabic_name": "شهرة",
-    "meaning": "Renown, fame, rumor",
     "gender": "male"
   },
   {
@@ -78303,7 +73425,7 @@ export const namesData = [
     "english_name": "Tawaqur",
     "arabic_name": "توقر",
     "meaning": "Tawaqur is an Arabic name for boys and girls that means calm, composure, solemnity, poise, self-possession.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tawbaat",
@@ -78315,7 +73437,7 @@ export const namesData = [
     "english_name": "Tawbah",
     "arabic_name": "توبه",
     "meaning": "Repentance, Ibn Mudarras had this name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tawfiqa",
@@ -78357,7 +73479,7 @@ export const namesData = [
     "english_name": "Tawus",
     "arabic_name": "طاووس",
     "meaning": "Tawus is an Arabic name for boys and girls that means beautiful, it also means area of grassland filled with flowers. It is also the name of a bird known as a peacock (more generally peafowl) in English.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tawwabah",
@@ -78369,7 +73491,7 @@ export const namesData = [
     "english_name": "Tawwad",
     "arabic_name": "تود",
     "meaning": "Tawwad is an Arabic name for boys and girls that means affection, love.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Taybah",
@@ -78435,13 +73557,13 @@ export const namesData = [
     "english_name": "Tazayyun",
     "arabic_name": "تزيين",
     "meaning": "Tazayyun is an Arabic name for boys and girls that means beautification, adorning, the act of beautifying and adorning something.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tazeen",
     "arabic_name": "تزين",
     "meaning": "Beautiful and Radiant",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Tazima",
@@ -78573,7 +73695,7 @@ export const namesData = [
     "english_name": "Wasilah",
     "arabic_name": "وسيله",
     "meaning": "Bin al-Asqa RA had this name.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Wasilla",
@@ -78993,7 +74115,7 @@ export const namesData = [
     "english_name": "Shayan",
     "arabic_name": "شين",
     "meaning": "Suitalbe, desirable, suited, worthy, eligible, fit.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Shayestah",
@@ -79018,18 +74140,6 @@ export const namesData = [
     "arabic_name": "شايلة",
     "meaning": "Little mountain",
     "gender": "female"
-  },
-  {
-    "english_name": "Shuqur",
-    "arabic_name": "شقور",
-    "meaning": "Shuqur is an Arabic name for boys and girls that means blondness, fairness of the skin.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shuraa",
-    "arabic_name": "شراء",
-    "meaning": "Shura is an Arabic name for boys and girls that means consultation, council. It is the name of chapter 42 of the Quran. It can also be a phonetic variant of Shurah, in which case it means view, honeycomb cell.",
-    "gender": "male"
   },
   {
     "english_name": "Shurahbeel",
@@ -79074,12 +74184,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shuruq",
-    "arabic_name": "شروق",
-    "meaning": "Shuruq is an Arabic name for boys and girls that means sunrise.",
-    "gender": "male"
-  },
-  {
     "english_name": "Shuwair",
     "arabic_name": "شوير",
     "meaning": "Shuwair is an Arabic name for boys that means honey that has been extracted from the comb. It also means good-looking.",
@@ -79095,12 +74199,6 @@ export const namesData = [
     "english_name": "Siavash",
     "arabic_name": "سيفش",
     "meaning": "Siavash is a Persian name for boys that means keeper of black horses. It is the name of mythical Persian prince.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Siba",
-    "arabic_name": "صعبة",
-    "meaning": "Siba is an indirect Quranic name for boys and girls that means emotion, enthusiasm, youthfulness, childhood. It is derived from the SAD-B-B Quranic root, which has various meanings, such as softness, youthfulness and pouring of water.",
     "gender": "male"
   },
   {
@@ -79182,12 +74280,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sihab",
-    "arabic_name": "سحاب",
-    "meaning": "Sihab is an Arabic name for boys and girls that means deep water well. It is the plural of Sahbah.",
-    "gender": "male"
-  },
-  {
     "english_name": "Sihah",
     "arabic_name": "صيحه",
     "meaning": "Sihah is an Arabic name for boys that means flawless, faultless, healthy and free from diseases.",
@@ -79203,12 +74295,6 @@ export const namesData = [
     "english_name": "Shahid",
     "arabic_name": "شاهد",
     "meaning": "Witness, Observer, Deponent. Name Of Prophet PBUH",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shahin",
-    "arabic_name": "شاهين",
-    "meaning": "Hawk",
     "gender": "male"
   },
   {
@@ -79239,12 +74325,6 @@ export const namesData = [
     "english_name": "Shahmeer",
     "arabic_name": "شحمير",
     "meaning": "Beauty.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shahnaaz",
-    "arabic_name": "شهناز",
-    "meaning": "Pride of a King",
     "gender": "male"
   },
   {
@@ -79368,12 +74448,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shahzad",
-    "arabic_name": "شحذد",
-    "meaning": "Prince, son of king.",
-    "gender": "male"
-  },
-  {
     "english_name": "Shahzada",
     "arabic_name": "شحذدا",
     "meaning": "Prince.",
@@ -79395,7 +74469,7 @@ export const namesData = [
     "english_name": "Zabreen",
     "arabic_name": "زبر",
     "meaning": "Persian for highest, most sublime.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zabya",
@@ -79419,7 +74493,7 @@ export const namesData = [
     "english_name": "Zafar",
     "arabic_name": "ظفار",
     "meaning": "Victory, triumph.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zafeera",
@@ -79539,7 +74613,7 @@ export const namesData = [
     "english_name": "Zaheen",
     "arabic_name": "ذحين",
     "meaning": "Sagacious, intelligent, Ingenious, Intellectual.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zaheena",
@@ -79560,27 +74634,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Subayah",
-    "arabic_name": "صبيح",
-    "meaning": "Handsome, Comely.",
-    "gender": "male"
-  },
-  {
     "english_name": "Subayyaah",
     "arabic_name": "صبيح",
     "meaning": "Subayyaah is an Arabic name for boys that means morning. It is a diminutive form of Sabah.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Subbooh",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
-    "gender": "male"
-  },
-  {
-    "english_name": "Subh",
-    "arabic_name": "صوبه",
-    "meaning": "Morning, dawn",
     "gender": "male"
   },
   {
@@ -79635,12 +74691,6 @@ export const namesData = [
     "english_name": "Sudais",
     "arabic_name": "سديس",
     "meaning": "Sudais is an Arabic and indirect Quranic name that means sixth, one out of six. It is the last name of a famous Quran reciter, Shaikh Abdurrahman as-Sudais, and for this reason some people like to use it for their children. Sudais is derived from the S-D-S (six) root which is used at least twice in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sudur",
-    "arabic_name": "صدور",
-    "meaning": "Sudur is an Arabic name for boys and girls that means hearts. Its literal meaning is chests. It is used 34 times in the Quran.",
     "gender": "male"
   },
   {
@@ -79716,12 +74766,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Suhair",
-    "arabic_name": "سهير",
-    "meaning": "Alert, Wakeful and Unsleeping",
-    "gender": "male"
-  },
-  {
     "english_name": "Suhayb",
     "arabic_name": "صهيب",
     "meaning": "Of reddish hair or complexion, name of the first Roman to embrace Islam",
@@ -79737,12 +74781,6 @@ export const namesData = [
     "english_name": "Suhaym",
     "arabic_name": "سحيم",
     "meaning": "Arrow",
-    "gender": "male"
-  },
-  {
-    "english_name": "Suhbah",
-    "arabic_name": "صحبه",
-    "meaning": "Suhbah is an Arabic name for boys and girls that means friendship, companionship.",
     "gender": "male"
   },
   {
@@ -79773,12 +74811,6 @@ export const namesData = [
     "english_name": "Suja",
     "arabic_name": "زوجة",
     "meaning": "Calmness, quitness",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sukkar",
-    "arabic_name": "صقر",
-    "meaning": "Sukkar is an Arabic name for boys and girls that means sugar. It also refers to a type of sweet white grape.",
     "gender": "male"
   },
   {
@@ -79884,33 +74916,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sumama",
-    "arabic_name": "صماما",
-    "meaning": "Sumama, also written as Thumama, is an Arabic name for boys and girls that means salvation, to be rescued. It is also the name of a genus of plants called Panicum, among these plants are tumbleweed and witchgrass. Sumama is the name of many (male) Sahabah (RA)",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sumamah",
-    "arabic_name": "صممه",
-    "meaning": "Millet (Plant).",
-    "gender": "male"
-  },
-  {
     "english_name": "Sumood",
     "arabic_name": "صمود",
     "meaning": "Sumood is an Arabic name for boys that means composure, determination, perseverance.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sumou",
-    "arabic_name": "سمو",
-    "meaning": "Sumou is an Arabic name for boys and girls that means greatness, elevation, exaltedness, highness of rank and status.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sumrah",
-    "arabic_name": "سمره",
-    "meaning": "Brownness",
     "gender": "male"
   },
   {
@@ -79941,7 +74949,7 @@ export const namesData = [
     "english_name": "Taskeen",
     "arabic_name": "تسكين",
     "meaning": "Taskeen is an Arabic name for boys and girls that means serenity, tranquility.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tasleem",
@@ -79959,7 +74967,7 @@ export const namesData = [
     "english_name": "Tasmeem",
     "arabic_name": "تصميم",
     "meaning": "Strong.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tasmir",
@@ -79971,7 +74979,7 @@ export const namesData = [
     "english_name": "Tasneem",
     "arabic_name": "تسنيم",
     "meaning": "A heavenly fountain.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tasneen",
@@ -79989,7 +74997,7 @@ export const namesData = [
     "english_name": "Tasteer",
     "arabic_name": "تسطير",
     "meaning": "Tasteer is an Arabic name for boys and girls that means to write, to author, to draw.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tasuq",
@@ -80001,7 +75009,7 @@ export const namesData = [
     "english_name": "Tasweer",
     "arabic_name": "تصوير",
     "meaning": "Tasweer is an Arabic name for boys and girls that means to picture, to describe. It also means to paint.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tatheer",
@@ -80067,13 +75075,13 @@ export const namesData = [
     "english_name": "Tawadud",
     "arabic_name": "تودد",
     "meaning": "Tawadud is an Arabic name for boys and girls that means love, affection.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tawaf",
     "arabic_name": "طواف",
     "meaning": "Tawaf is an indirect Quranic name for boys and girls that means circumambulation, the circular walking around the Kaaba during the Haj proceedings. It is derived from the T16-W-F root which is used in many places in the Quran.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tawafiq",
@@ -80085,12 +75093,6 @@ export const namesData = [
     "english_name": "Tawakkul",
     "arabic_name": "توكل",
     "meaning": "Tawakkul is an indirect Quranic name for boys that means to trust in God, to rely on God. It is derived from the W-K-L root which is used in many places in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tawaqur",
-    "arabic_name": "توقر",
-    "meaning": "Tawaqur is an Arabic name for boys and girls that means calm, composure, solemnity, poise, self-possession.",
     "gender": "male"
   },
   {
@@ -80121,12 +75123,6 @@ export const namesData = [
     "english_name": "Taqiyy-uddin",
     "arabic_name": "تقييدن",
     "meaning": "Caretaker of religion",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tarashud",
-    "arabic_name": "ترشد",
-    "meaning": "Tarashud is an Arabic name for boys and girls that means guidance.",
     "gender": "male"
   },
   {
@@ -80172,12 +75168,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tarheeb",
-    "arabic_name": "ترحيب",
-    "meaning": "Tarheeb is an Arabic name for boys and girls that means to welcome. It also means spaciousness, vastness.",
-    "gender": "male"
-  },
-  {
     "english_name": "Tarif",
     "arabic_name": "طريف",
     "meaning": "Rare, uncommon, strange, curious.",
@@ -80208,12 +75198,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tarkheem",
-    "arabic_name": "ترخيم",
-    "meaning": "Tarkheem is an Arabic name for boys and girls that means to soften, to mellow, to sweeten.",
-    "gender": "male"
-  },
-  {
     "english_name": "Taroon",
     "arabic_name": "ترون",
     "meaning": "Tie / Connection.",
@@ -80229,7 +75213,7 @@ export const namesData = [
     "english_name": "Tarub",
     "arabic_name": "طرب",
     "meaning": "Lively, gleeful, merry.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tasadduq",
@@ -80247,7 +75231,7 @@ export const namesData = [
     "english_name": "Tasahir",
     "arabic_name": "تسهر",
     "meaning": "Tasahir is an Arabic name for boys and girls that means vigils, plural of Tasheerah (vigil), which is a period of keeping awake during the night when one usually sleeps, for example for prayer or to take care of a sick person.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tasallee",
@@ -80259,7 +75243,7 @@ export const namesData = [
     "english_name": "Tasamuh",
     "arabic_name": "تسمح",
     "meaning": "Tasamuh is an Arabic name for boys and girls that means forgiveness, pardon, forbearance.",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Tasawwar",
@@ -80295,7 +75279,7 @@ export const namesData = [
     "english_name": "Zill",
     "arabic_name": "ذيل",
     "meaning": "Shadow, shade.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zilla",
@@ -80385,7 +75369,7 @@ export const namesData = [
     "english_name": "Ziyada",
     "arabic_name": "زيادة",
     "meaning": "Increase, addition, surplus, plenty.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Ziyan",
@@ -80508,12 +75492,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tibhaj",
-    "arabic_name": "تبهج",
-    "meaning": "Tibhaj is an Arabic name for boys and girls that means beauty, radiance and glow of the face, joyfulness.",
-    "gender": "male"
-  },
-  {
     "english_name": "Tibr",
     "arabic_name": "تعبر",
     "meaning": "Tibr is an Arabic name for boys that means gold ore, silver ore, gold nuggets.",
@@ -80544,12 +75522,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tinjal",
-    "arabic_name": "تنجل",
-    "meaning": "Tinjal is an Arabic name for boys and girls that means wideness and beauty of the eyes. It also means when the earth becomes green, such as it happens in the spring.",
-    "gender": "male"
-  },
-  {
     "english_name": "Tipu",
     "arabic_name": "طيب",
     "meaning": "Tiger",
@@ -80565,12 +75537,6 @@ export const namesData = [
     "english_name": "Tireem",
     "arabic_name": "تيريم",
     "meaning": "Tireem is an Arabic name for boys that means tall, thick clouds, and honey.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tirhab",
-    "arabic_name": "ترحب",
-    "meaning": "Tirhab is an Arabic name for boys and girls that means vastness, spaciousness, relaxed-ness. It also means to welcome.",
     "gender": "male"
   },
   {
@@ -80595,12 +75561,6 @@ export const namesData = [
     "english_name": "Tolwak",
     "arabic_name": "تلوك",
     "meaning": "Authority of everyone.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tooba",
-    "arabic_name": "توبة",
-    "meaning": "Good news",
     "gender": "male"
   },
   {
@@ -80631,24 +75591,6 @@ export const namesData = [
     "english_name": "Tufail",
     "arabic_name": "تفعيل",
     "meaning": "Intercession, mediation, diminutive of Tifl, baby.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tufan",
-    "arabic_name": "طوفان",
-    "meaning": "Tufan is an Arabic name for boys and girls that means flood, cataclysm, deluge, inundation, overflow.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tameez",
-    "arabic_name": "تميز",
-    "meaning": "Discernment, discretion, judgement, sense, distinction, manners",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tamheed",
-    "arabic_name": "تمهيد",
-    "meaning": "Tamheed is an Arabic name for boys and girls that means to facilitate, to make easy, to prepare, to put in order. It is used in the Quran in verse 74:14.",
     "gender": "male"
   },
   {
@@ -80688,12 +75630,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tamkeen",
-    "arabic_name": "تمكين",
-    "meaning": "Dignity, Gravity",
-    "gender": "male"
-  },
-  {
     "english_name": "Tammaam",
     "arabic_name": "تمام",
     "meaning": "Generous,Sahabi",
@@ -80727,12 +75663,6 @@ export const namesData = [
     "english_name": "Tamur",
     "arabic_name": "تامر",
     "meaning": "Tamur is an indirect Quranic name for boys that means lions den or lair, heart, saffron, minister or secretary of a king, self, and mind. It is derived from the A-M-R root (command, business) which is used in many places in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Taneem",
-    "arabic_name": "تنم",
-    "meaning": "Benefit, Blessings and Profit",
     "gender": "male"
   },
   {
@@ -80796,18 +75726,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Taqadum",
-    "arabic_name": "تقدم",
-    "meaning": "Taqadum is an Arabic name for boys and girls that means progress, advance, increase in rank and status.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Taqdees",
-    "arabic_name": "تقديس",
-    "meaning": "A Name for Allah, The Almighty",
-    "gender": "male"
-  },
-  {
     "english_name": "Taqee",
     "arabic_name": "تقي",
     "meaning": "Allah's Fearing, Pious",
@@ -80841,7 +75759,7 @@ export const namesData = [
     "english_name": "Zoraiz",
     "arabic_name": "زرز",
     "meaning": "Luminous Object in Arabic",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zoreed",
@@ -80871,7 +75789,7 @@ export const namesData = [
     "english_name": "Zryan",
     "arabic_name": "زرين",
     "meaning": "Kurdish for storm.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zubaah",
@@ -80949,7 +75867,7 @@ export const namesData = [
     "english_name": "Zuhaa",
     "arabic_name": "زهاء",
     "meaning": "Adornment",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zuhaibah",
@@ -81066,18 +75984,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Turan",
-    "arabic_name": "توران",
-    "meaning": "Brave.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Turas",
-    "arabic_name": "تراث",
-    "meaning": "Turas is an Arabic name for boys and girls that means inheritance. The word Turas/Turath is used in the Quran in verse 89:19.",
-    "gender": "male"
-  },
-  {
     "english_name": "Turhan",
     "arabic_name": "طورها",
     "meaning": "Of mercy",
@@ -81174,12 +76080,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Udaina",
-    "arabic_name": "أدينا",
-    "meaning": "Udaina is an indirect Quranic name for girls that means little Adan (little Eden). Adan means place of everlasting bliss. It is derived from the AIN-D-N root which is used in many places in the Quran. BLANKENTER Udaina is also a name for boys if taken from the A-DHAL-N root, with meanings of listener, obedient.",
-    "gender": "male"
-  },
-  {
     "english_name": "Tahmid",
     "arabic_name": "تحميض",
     "meaning": "Praising Allah, saying Al-Hamdulillah.",
@@ -81192,33 +76092,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tahrir",
-    "arabic_name": "تحرير",
-    "meaning": "Tahrir is an Arabic name for boys and girls that means liberation, to free someone/something.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tahseen",
-    "arabic_name": "تحسين",
-    "meaning": "Acclaim, appreciation",
-    "gender": "male"
-  },
-  {
     "english_name": "Tahsiin",
     "arabic_name": "تحسين",
     "meaning": "Improvement, Getting better",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tahsin",
-    "arabic_name": "تحصين",
-    "meaning": "Adornment, ornament, decoration, embellishment, betterment.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tahzeeb",
-    "arabic_name": "تهذيب",
-    "meaning": "Tahzeeb is an Arabic name for boys and girls that means purification, refinement, rectification, edification.",
     "gender": "male"
   },
   {
@@ -81339,12 +76215,6 @@ export const namesData = [
     "english_name": "Tajbakhsh",
     "arabic_name": "تجبخش",
     "meaning": "King maker.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tajdar",
-    "arabic_name": "تجدر",
-    "meaning": "Ruler, king, emperor, royal member.",
     "gender": "male"
   },
   {
@@ -81576,12 +76446,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Uhud",
-    "arabic_name": "أحد",
-    "meaning": "Uhud is an indirect Quranic name for boys that is the name of a mountain near the city of Madina in Saudi Arabia, which was the site of the second major battle in Islamic history. The word Uhud is derived from the A-H6-D root (one, single), but the meaning of Uhud itself is unclear.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ujaab",
     "arabic_name": "أجاب",
     "meaning": "Impressive",
@@ -81603,12 +76467,6 @@ export const namesData = [
     "english_name": "Ukkashah",
     "arabic_name": "عكاشه",
     "meaning": "Web, Cobweb, Spider web.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ulfat",
-    "arabic_name": "ألفت",
-    "meaning": "Love, Affection, Familiarity, Intimacy",
     "gender": "male"
   },
   {
@@ -81654,27 +76512,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Umara",
-    "arabic_name": "عمارة",
-    "meaning": "Umara is an indirect Quranic name for boys and girls. It is an ancient Arabic name, for this reason its meaning is not perfectly determinate, but its root is Ain-M-R, which has meanings of to build, to maintain, to tend to, to enliven, to inhabit, to settle in, which is used in many places in the Quran.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Umarah",
-    "arabic_name": "عمره",
-    "meaning": "Habitation, Old Arabic name",
-    "gender": "male"
-  },
-  {
     "english_name": "Umayr",
     "arabic_name": "أمير",
     "meaning": "Residents, Populace, Old Arabic name",
-    "gender": "male"
-  },
-  {
-    "english_name": "Umayyah",
-    "arabic_name": "أمايه",
-    "meaning": "Famous Arabian tribe, A narrator of hadith",
     "gender": "male"
   },
   {
@@ -81708,12 +76548,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Umrah",
-    "arabic_name": "عمره",
-    "meaning": "It's an Arabic name for girls and less commonly for boys that means minor pilgrimage, when Muslims perform the pilgrimage to Mecca during a time of the year other than the Hajj season. Its literal meaning is overhaul, restoration, revival.",
-    "gender": "male"
-  },
-  {
     "english_name": "Umran",
     "arabic_name": "عمران",
     "meaning": "Prosperity, Civilization, Packed population, Building",
@@ -81729,7 +76563,7 @@ export const namesData = [
     "english_name": "Zuhoor",
     "arabic_name": "زهور",
     "meaning": "Fame, splendour, emergence, Appearance, Manifestation",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zuhr",
@@ -81783,7 +76617,7 @@ export const namesData = [
     "english_name": "Zulaykha",
     "arabic_name": "لاريب",
     "meaning": "Without a doubt",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zuleika",
@@ -81831,7 +76665,7 @@ export const namesData = [
     "english_name": "Zulhijjah",
     "arabic_name": "زولهجة",
     "meaning": "Zulhijjah is an Arabic name for boys and girls that refers to the 12th month of Hijri calendar, in which the Hajj is performed. The name literally means [the month] in which the Hajj proceedings are performed.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zulla",
@@ -81843,7 +76677,7 @@ export const namesData = [
     "english_name": "Zultan",
     "arabic_name": "ظلتا",
     "meaning": "Leader | Powerful and Able",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zultana",
@@ -81855,7 +76689,7 @@ export const namesData = [
     "english_name": "Zumar",
     "arabic_name": "ذمار",
     "meaning": "Zumar is a direct Quranic name for boys and girls that means groups, throngs...",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zumard",
@@ -81903,12 +76737,6 @@ export const namesData = [
     "english_name": "Tawazou",
     "arabic_name": "طوزو",
     "meaning": "Tawazou is an Arabic name for boys that means humility (lack of arrogance).",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tawbah",
-    "arabic_name": "توبه",
-    "meaning": "Repentance, Ibn Mudarras had this name.",
     "gender": "male"
   },
   {
@@ -81990,21 +76818,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tawus",
-    "arabic_name": "طاووس",
-    "meaning": "Tawus is an Arabic name for boys and girls that means beautiful, it also means area of grassland filled with flowers. It is also the name of a bird known as a peacock (more generally peafowl) in English.",
-    "gender": "male"
-  },
-  {
     "english_name": "Tawwab",
     "arabic_name": "توب",
     "meaning": "Merciful, forgiving. Al-Tawwab, the All-compassionate:",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tawwad",
-    "arabic_name": "تود",
-    "meaning": "Tawwad is an Arabic name for boys and girls that means affection, love.",
     "gender": "male"
   },
   {
@@ -82074,12 +76890,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Tazayyun",
-    "arabic_name": "تزيين",
-    "meaning": "Tazayyun is an Arabic name for boys and girls that means beautification, adorning, the act of beautifying and adorning something.",
-    "gender": "male"
-  },
-  {
     "english_name": "Umrao",
     "arabic_name": "عمره",
     "meaning": "Noble, king",
@@ -82146,21 +76956,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Urooj",
-    "arabic_name": "عروج",
-    "meaning": "Ascension, mounting, rising.",
-    "gender": "male"
-  },
-  {
     "english_name": "Urrab",
     "arabic_name": "عرب",
     "meaning": "Urrab is an Arabic name for boys that means fluent, eloquent, well-spoken.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Urwah",
-    "arabic_name": "أرواح",
-    "meaning": "Support, Handle ,Name of A Prominent Sahabi i.e. companion of the Prophet Muhammad.",
     "gender": "male"
   },
   {
@@ -82332,12 +77130,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shayan",
-    "arabic_name": "شين",
-    "meaning": "Suitalbe, desirable, suited, worthy, eligible, fit.",
-    "gender": "male"
-  },
-  {
     "english_name": "Shaybah",
     "arabic_name": "شيبه",
     "meaning": "Grey-haired, aged",
@@ -82365,12 +77157,6 @@ export const namesData = [
     "english_name": "Shayyir",
     "arabic_name": "شير",
     "meaning": "Shayyir is an Arabic name for boys that means good-looking.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shazad",
-    "arabic_name": "شذاذ",
-    "meaning": "Prince",
     "gender": "male"
   },
   {
@@ -82518,12 +77304,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Taal",
-    "arabic_name": "طال",
-    "meaning": "Taal is an Arabic name for boys and girls that means come!. It also means he/she ascended (his/her status and rank increased).",
-    "gender": "male"
-  },
-  {
     "english_name": "Taalim",
     "arabic_name": "تعليم",
     "meaning": "Sky.",
@@ -82560,12 +77340,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Taazaz",
-    "arabic_name": "تعزز",
-    "meaning": "Taazaz is an Arabic name for boys and girls that means might, honor, power.",
-    "gender": "male"
-  },
-  {
     "english_name": "Taban",
     "arabic_name": "طبعن",
     "meaning": "Resplendent, Glittering, Bright Moon light.",
@@ -82587,18 +77361,6 @@ export const namesData = [
     "english_name": "Tabarik",
     "arabic_name": "تبريك",
     "meaning": "To be magnified greatly.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tabarruk",
-    "arabic_name": "تبارك",
-    "meaning": "Tabarruk is an Arabic name for boys and girls that means to become blessed, to be raised in status.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tabassum",
-    "arabic_name": "تبسم",
-    "meaning": "Smiling.",
     "gender": "male"
   },
   {
@@ -82785,18 +77547,6 @@ export const namesData = [
     "english_name": "Waraqah",
     "arabic_name": "ورقه",
     "meaning": "Leaf",
-    "gender": "male"
-  },
-  {
-    "english_name": "Ward",
-    "arabic_name": "ورد",
-    "meaning": "Blossoms, flowers",
-    "gender": "male"
-  },
-  {
-    "english_name": "Wardaa",
-    "arabic_name": "ورضاء",
-    "meaning": "Flower",
     "gender": "male"
   },
   {
@@ -83082,39 +77832,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Wiam",
-    "arabic_name": "ويام",
-    "meaning": "Arabic for rapport, harmony, concord, peace.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Wid",
-    "arabic_name": "ود",
-    "meaning": "Arabic for affection, love, harmony.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Widad",
-    "arabic_name": "وداد",
-    "meaning": "Arabic for unity, harmony, sincere affection, sympathy.",
-    "gender": "male"
-  },
-  {
     "english_name": "Widadi",
     "arabic_name": "ودادي",
     "meaning": "Widadi is an Arabic name for boys that means loving, affectionate.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Wifaq",
-    "arabic_name": "وفاق",
-    "meaning": "Arabic for harmony, amiability, unity.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Wijdan",
-    "arabic_name": "وجدان",
-    "meaning": "Arabic for affection, fondness, tenderness, warmth, emotion, soul, sentiment, conscience.",
     "gender": "male"
   },
   {
@@ -83151,18 +77871,6 @@ export const namesData = [
     "english_name": "Wisaam",
     "arabic_name": "وسام",
     "meaning": "Medal, badge of honor ,Mark .",
-    "gender": "male"
-  },
-  {
-    "english_name": "Wisal",
-    "arabic_name": "ويصل",
-    "meaning": "Arabic and Persian for reunion, communion, being together after a lot of hardship and struggle, it can be used for family reunion, friends finally meeting, or lovers finally marrying one another.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Waasey",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
     "gender": "male"
   },
   {
@@ -83214,12 +77922,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Wabisah",
-    "arabic_name": "وابعثه",
-    "meaning": "Bin Ma bad RA had this name.",
-    "gender": "male"
-  },
-  {
     "english_name": "Wad",
     "arabic_name": "واد",
     "meaning": "Promise",
@@ -83232,21 +77934,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Waddah",
-    "arabic_name": "واضح",
-    "meaning": "Bright, brilliant",
-    "gender": "male"
-  },
-  {
     "english_name": "Waddeen",
     "arabic_name": "ودين",
     "meaning": "Waddeen is an Arabic name for boys that means loving, desiring.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Waddood",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
     "gender": "male"
   },
   {
@@ -83265,12 +77955,6 @@ export const namesData = [
     "english_name": "Wadhdhaah",
     "arabic_name": "وضدهة",
     "meaning": "Good looking face, White skin, Clear, Day, Bright day",
-    "gender": "male"
-  },
-  {
-    "english_name": "Wadi",
-    "arabic_name": "وادي",
-    "meaning": "Calm, peaceful",
     "gender": "male"
   },
   {
@@ -83313,12 +77997,6 @@ export const namesData = [
     "english_name": "Waf",
     "arabic_name": "واف",
     "meaning": "Waf is an Arabic name for boys that means faithful, loyal. It also means whole, complete, perfect.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Wafa",
-    "arabic_name": "وفا",
-    "meaning": "Faithfulness, fidelity",
     "gender": "male"
   },
   {
@@ -83373,12 +78051,6 @@ export const namesData = [
     "english_name": "Warith",
     "arabic_name": "وريث",
     "meaning": "Arabic for inheritor, long-lived.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Warqa",
-    "arabic_name": "ورقة",
-    "meaning": "to do with paper, leaf.",
     "gender": "male"
   },
   {
@@ -83490,12 +78162,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Wasilah",
-    "arabic_name": "وسيله",
-    "meaning": "Bin al-Asqa RA had this name.",
-    "gender": "male"
-  },
-  {
     "english_name": "Wasim",
     "arabic_name": "وسيم",
     "meaning": "Good looking, Handsome, Graceful,beautiful, graceful.",
@@ -83550,12 +78216,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Wajahat",
-    "arabic_name": "واجهت",
-    "meaning": "Commanding, Comely, dignity, elevated position.",
-    "gender": "male"
-  },
-  {
     "english_name": "Wajd",
     "arabic_name": "واجد",
     "meaning": "State of being single, ecstasy.",
@@ -83589,12 +78249,6 @@ export const namesData = [
     "english_name": "Wajeed",
     "arabic_name": "وجيد",
     "meaning": "Wajeed is an Arabic name for boys that means loving, affectionate.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Wajeeh",
-    "arabic_name": "وجيه",
-    "meaning": "Commanding Personality, Noble",
     "gender": "male"
   },
   {
@@ -83802,12 +78456,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Wahdat",
-    "arabic_name": "وحدة",
-    "meaning": "Unity, oneness, state of being one.",
-    "gender": "male"
-  },
-  {
     "english_name": "Waheeb",
     "arabic_name": "وهيب",
     "meaning": "Waheeb is an Arabic name for boys that means gift, bestowal.",
@@ -83922,12 +78570,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Yashal",
-    "arabic_name": "يسهل",
-    "meaning": "Freshness, greenery",
-    "gender": "male"
-  },
-  {
     "english_name": "Yashar",
     "arabic_name": "يشار",
     "meaning": "persian Azarbayjani origin meaning lives for ever",
@@ -83949,12 +78591,6 @@ export const namesData = [
     "english_name": "Yasoob",
     "arabic_name": "يصوب",
     "meaning": "Title of Ali.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Yasra",
-    "arabic_name": "يسرا",
-    "meaning": "Affluent, rich, prosperous.",
     "gender": "male"
   },
   {
@@ -84111,7 +78747,7 @@ export const namesData = [
     "english_name": "Zyan",
     "arabic_name": "زين",
     "meaning": "Adornment, Decoration and Beautification.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zynah",
@@ -84132,12 +78768,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sunan",
-    "arabic_name": "سنن",
-    "meaning": "Sunan is an Arabic name for boys and girls that means traditions, ways of life. It is the plural Sunnah.",
-    "gender": "male"
-  },
-  {
     "english_name": "Sunat",
     "arabic_name": "لتي",
     "meaning": "Gentle, kind, pleasant, friendly",
@@ -84150,21 +78780,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Sunbul",
-    "arabic_name": "سنبل",
-    "meaning": "A plant's branch",
-    "gender": "male"
-  },
-  {
     "english_name": "Sunnii",
     "arabic_name": "سوني",
     "meaning": "Followers of Prophet Muhammad's religion",
-    "gender": "male"
-  },
-  {
-    "english_name": "Sunud",
-    "arabic_name": "سند",
-    "meaning": "Sunud is an Arabic name for boys and girls that means to depend upon. It also means to climb a mountain.",
     "gender": "male"
   },
   {
@@ -84231,12 +78849,6 @@ export const namesData = [
     "english_name": "Sushiant",
     "arabic_name": "سوشينة",
     "meaning": "Sushiant is a Persian name for boys that means helper, rescuer.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Suwaib",
-    "arabic_name": "صويب",
-    "meaning": "Suwaib is an Arabic name for boys and girls that means reward, recompense. It is the diminutive form of Sawab",
     "gender": "male"
   },
   {
@@ -84342,12 +78954,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Yumn",
-    "arabic_name": "يمن",
-    "meaning": "Happiness.",
-    "gender": "male"
-  },
-  {
     "english_name": "Yunus",
     "arabic_name": "يونس",
     "meaning": "A Prophets Name",
@@ -84387,12 +78993,6 @@ export const namesData = [
     "english_name": "Yusri",
     "arabic_name": "يسري",
     "meaning": "Well to do, wealthy",
-    "gender": "male"
-  },
-  {
-    "english_name": "Yusrullah",
-    "arabic_name": "يسرلله",
-    "meaning": "Yusrullah is an Arabic name for boys and girls that means ease and luxury that comes from God, Gods blessing, Gods favor.",
     "gender": "male"
   },
   {
@@ -84492,12 +79092,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Tarub",
-    "arabic_name": "طرب",
-    "meaning": "Lively, gleeful, merry.",
-    "gender": "female"
-  },
-  {
     "english_name": "Tarz",
     "arabic_name": "طرز",
     "meaning": "Music rythem",
@@ -84507,18 +79101,6 @@ export const namesData = [
     "english_name": "Tasaad",
     "arabic_name": "تزاد",
     "meaning": "Tasaad is an Arabic name for girls that means she becomes happy.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Tasahir",
-    "arabic_name": "تسهر",
-    "meaning": "Tasahir is an Arabic name for boys and girls that means vigils, plural of Tasheerah (vigil), which is a period of keeping awake during the night when one usually sleeps, for example for prayer or to take care of a sick person.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Tasamuh",
-    "arabic_name": "تسمح",
-    "meaning": "Tasamuh is an Arabic name for boys and girls that means forgiveness, pardon, forbearance.",
     "gender": "female"
   },
   {
@@ -84546,12 +79128,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Taskeen",
-    "arabic_name": "تسكين",
-    "meaning": "Taskeen is an Arabic name for boys and girls that means serenity, tranquility.",
-    "gender": "female"
-  },
-  {
     "english_name": "Tasleema",
     "arabic_name": "تسليما",
     "meaning": "Greeting",
@@ -84573,12 +79149,6 @@ export const namesData = [
     "english_name": "Tasmeekh",
     "arabic_name": "تصميخ",
     "meaning": "Living in fragrance.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Tasmeem",
-    "arabic_name": "تصميم",
-    "meaning": "Strong.",
     "gender": "female"
   },
   {
@@ -84612,12 +79182,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Tasneem",
-    "arabic_name": "تسنيم",
-    "meaning": "A heavenly fountain.",
-    "gender": "female"
-  },
-  {
     "english_name": "Tasneema",
     "arabic_name": "تسنيم",
     "meaning": "A spring in Paradise.",
@@ -84630,39 +79194,15 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Tasteer",
-    "arabic_name": "تسطير",
-    "meaning": "Tasteer is an Arabic name for boys and girls that means to write, to author, to draw.",
-    "gender": "female"
-  },
-  {
     "english_name": "Tasweeb",
     "arabic_name": "تصويب",
     "meaning": "Justification, truth.",
     "gender": "female"
   },
   {
-    "english_name": "Tasweer",
-    "arabic_name": "تصوير",
-    "meaning": "Tasweer is an Arabic name for boys and girls that means to picture, to describe. It also means to paint.",
-    "gender": "female"
-  },
-  {
     "english_name": "Taufiqa",
     "arabic_name": "توفيق",
     "meaning": "Prosperity, Success",
-    "gender": "female"
-  },
-  {
-    "english_name": "Tawadud",
-    "arabic_name": "تودد",
-    "meaning": "Tawadud is an Arabic name for boys and girls that means love, affection.",
-    "gender": "female"
-  },
-  {
-    "english_name": "Tawaf",
-    "arabic_name": "طواف",
-    "meaning": "Tawaf is an indirect Quranic name for boys and girls that means circumambulation, the circular walking around the Kaaba during the Haj proceedings. It is derived from the T16-W-F root which is used in many places in the Quran.",
     "gender": "female"
   },
   {
@@ -84816,12 +79356,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Yagana",
-    "arabic_name": "يجنى",
-    "meaning": "Unique, unprecedented.",
-    "gender": "male"
-  },
-  {
     "english_name": "Yaghnam",
     "arabic_name": "يغنم",
     "meaning": "A narrator of hadith",
@@ -84861,18 +79395,6 @@ export const namesData = [
     "english_name": "Zalool",
     "arabic_name": "ذلول",
     "meaning": "Obedient, submissive.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zaluj",
-    "arabic_name": "زعلج",
-    "meaning": "Zaluj is an Arabic name for boys and girls that means nimble, swift-footed, sprightly.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zamaair",
-    "arabic_name": "ذمار",
-    "meaning": "Arabic for hearts, minds, consciences.",
     "gender": "male"
   },
   {
@@ -84972,12 +79494,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zamurd",
-    "arabic_name": "زمرد",
-    "meaning": "A green precious stone.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zamzam",
     "arabic_name": "زمزم",
     "meaning": "Abu-Zamzam was the name of Al-Madini, a man of an early Islam, about him amusing enecdotes were told.",
@@ -84999,12 +79515,6 @@ export const namesData = [
     "english_name": "Zaraan",
     "arabic_name": "زعران",
     "meaning": "Flow of river.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zarab",
-    "arabic_name": "زارب",
-    "meaning": "Persian for gold water, a liquid in which gold particles are suspended.",
     "gender": "male"
   },
   {
@@ -85062,12 +79572,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shaida",
-    "arabic_name": "شدة",
-    "meaning": "Greatly Attached.",
-    "gender": "male"
-  },
-  {
     "english_name": "Shaidaa",
     "arabic_name": "شدا",
     "meaning": "Lover, Madly in Love",
@@ -85119,12 +79623,6 @@ export const namesData = [
     "english_name": "Shairyaar",
     "arabic_name": "شرير",
     "meaning": "Friendship",
-    "gender": "male"
-  },
-  {
-    "english_name": "Shaista",
-    "arabic_name": "شستا",
-    "meaning": "Gentle, obedient",
     "gender": "male"
   },
   {
@@ -85200,18 +79698,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Shakirah",
-    "arabic_name": "شاكره",
-    "meaning": "Thankful",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zaheen",
-    "arabic_name": "ذحين",
-    "meaning": "Sagacious, intelligent, Ingenious, Intellectual.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zaheer",
     "arabic_name": "زهير",
     "meaning": "Bright , Blooming, shining, luminous.",
@@ -85242,12 +79728,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zahian",
-    "arabic_name": "ذحين",
-    "meaning": "Light and Radiance.It's an indirect Quranic name for boys and girls meaning bright day, brilliant, full of light. It is derived from the DHAD-H6-Y root which is used in many places in the Quran. BLANKENTER [Moses] said, Your appointment is on the day of the festival when the people assemble at mid-morning.(Quran 20:59)",
-    "gender": "male"
-  },
-  {
     "english_name": "Zahid",
     "arabic_name": "زهيد",
     "meaning": "Devout, ascetic. One who renounces the world and is fully devoted to Allah.",
@@ -85266,12 +79746,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zahir",
-    "arabic_name": "ظاهر",
-    "meaning": "Apparent, evident, one of the attributes of Allah.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zahirul-haq",
     "arabic_name": "زهيرلهق",
     "meaning": "Visible and Prominent",
@@ -85287,12 +79761,6 @@ export const namesData = [
     "english_name": "Zahoor",
     "arabic_name": "زهور",
     "meaning": "Expression, Appearance, Ostentation, Manifestation.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zahou",
-    "arabic_name": "زهو",
-    "meaning": "Zahou is an Arabic name for boys and girls that means beautiful view, beautiful appearance, a plant that is in full bloom.",
     "gender": "male"
   },
   {
@@ -85368,12 +79836,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zaigham",
-    "arabic_name": "زغم",
-    "meaning": "Lion",
-    "gender": "male"
-  },
-  {
     "english_name": "Zaighum",
     "arabic_name": "زغم",
     "meaning": "Lion, Powerful",
@@ -85389,12 +79851,6 @@ export const namesData = [
     "english_name": "Zaim-uddin",
     "arabic_name": "زيمدن",
     "meaning": "Leader of the religion (Islam).",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zain",
-    "arabic_name": "زين",
-    "meaning": "Beautiful, pretty, beauty, grace, ornament, honour.",
     "gender": "male"
   },
   {
@@ -85419,12 +79875,6 @@ export const namesData = [
     "english_name": "Zaka",
     "arabic_name": "زكى",
     "meaning": "Intelligent",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zakaa",
-    "arabic_name": "ذكاء",
-    "meaning": "Arabic for intelligence, cleverness.",
     "gender": "male"
   },
   {
@@ -85458,21 +79908,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zakat",
-    "arabic_name": "زكاة",
-    "meaning": "Zakat is an Arabic name for boys and girls that means purification. In Islam it refers to a type of alms that wealthy Muslims give to others.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zakawan",
     "arabic_name": "ذكوان",
     "meaning": "Abu Salih as Saman az-Ziyat had this name, he was a narrator of Hadith.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zakawat",
-    "arabic_name": "زقوت",
-    "meaning": "Sharpness.",
     "gender": "male"
   },
   {
@@ -85608,12 +80046,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zabi",
-    "arabic_name": "زبي",
-    "meaning": "Zabi or Dhabi is an Arabic name for boys and girls that means gazelle, antelope. The name of the city and state of Abu Dhabi in the United Arab Emirates comes from this word.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zabir",
     "arabic_name": "زبير",
     "meaning": "The person who have Religious Knowledge",
@@ -85629,12 +80061,6 @@ export const namesData = [
     "english_name": "Zaboor",
     "arabic_name": "زبور",
     "meaning": "chant",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zabreen",
-    "arabic_name": "زبر",
-    "meaning": "Persian for highest, most sublime.",
     "gender": "male"
   },
   {
@@ -85665,12 +80091,6 @@ export const namesData = [
     "english_name": "Zaer",
     "arabic_name": "زائر",
     "meaning": "Visitor, guest.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zafar",
-    "arabic_name": "ظفار",
-    "meaning": "Victory, triumph.",
     "gender": "male"
   },
   {
@@ -85749,12 +80169,6 @@ export const namesData = [
     "english_name": "Tazeem",
     "arabic_name": "تعظيم",
     "meaning": "Honor, Respect",
-    "gender": "male"
-  },
-  {
-    "english_name": "Tazeen",
-    "arabic_name": "تزين",
-    "meaning": "Beautiful and Radiant",
     "gender": "male"
   },
   {
@@ -85989,7 +80403,7 @@ export const namesData = [
     "english_name": "Zarnab",
     "arabic_name": "زارناب",
     "meaning": "Persian and Arabic name of a plant known for its good scent. The scientific name of this plant is Taxus baccata.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zarola",
@@ -86049,25 +80463,25 @@ export const namesData = [
     "english_name": "Zaryab",
     "arabic_name": "زرياب",
     "meaning": "Rich, wealthy, Possessor of gold/riches..",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zaryan",
     "arabic_name": "زرين",
     "meaning": "Urdu for one who finds gold. It can also be a variant of the Kurdish name Zryan.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zaufishan",
     "arabic_name": "زافيشا",
     "meaning": "Light and Radiance",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zawal",
     "arabic_name": "زوال",
     "meaning": "Arabic for sundown, the time close to sunset.",
-    "gender": "female"
+    "gender": "unisex"
   },
   {
     "english_name": "Zawala",
@@ -86160,12 +80574,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Ziyada",
-    "arabic_name": "زيادة",
-    "meaning": "Increase, addition, surplus, plenty.",
-    "gender": "male"
-  },
-  {
     "english_name": "Ziyadat-ullah",
     "arabic_name": "زياداتلله",
     "meaning": "Surplus bestowed by Allah.",
@@ -86226,12 +80634,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zoraiz",
-    "arabic_name": "زرز",
-    "meaning": "Luminous Object in Arabic",
-    "gender": "male"
-  },
-  {
     "english_name": "Zoran",
     "arabic_name": "زوران",
     "meaning": "Dawn(morning)",
@@ -86241,12 +80643,6 @@ export const namesData = [
     "english_name": "Zorawar",
     "arabic_name": "زعرور",
     "meaning": "Forceful.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zryan",
-    "arabic_name": "زرين",
-    "meaning": "Kurdish for storm.",
     "gender": "male"
   },
   {
@@ -86304,12 +80700,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Yakta",
-    "arabic_name": "يقطع",
-    "meaning": "Unique.",
-    "gender": "male"
-  },
-  {
     "english_name": "Yakub",
     "arabic_name": "يعقوب",
     "meaning": "Variant transcription of YAQUB, Arabic form of YaAqov (see JACOB).",
@@ -86352,27 +80742,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Yamam",
-    "arabic_name": "يمام",
-    "meaning": "Arabic for dove, ringneck dove.",
-    "gender": "male"
-  },
-  {
     "english_name": "Yaman",
     "arabic_name": "يمن",
     "meaning": "Good tidings",
-    "gender": "male"
-  },
-  {
-    "english_name": "Yamar",
-    "arabic_name": "يمر",
-    "meaning": "Life and Alive",
-    "gender": "male"
-  },
-  {
-    "english_name": "Yameen",
-    "arabic_name": "يمين",
-    "meaning": "Benefit, Blessings and Profit",
     "gender": "male"
   },
   {
@@ -86391,12 +80763,6 @@ export const namesData = [
     "english_name": "Yaqana",
     "arabic_name": "يقنع",
     "meaning": "Unique, unprecedented.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Yaqeen",
-    "arabic_name": "يقين",
-    "meaning": "Belief",
     "gender": "male"
   },
   {
@@ -86514,21 +80880,9 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zultan",
-    "arabic_name": "ظلتا",
-    "meaning": "Leader | Powerful and Able",
-    "gender": "male"
-  },
-  {
     "english_name": "Zumail",
     "arabic_name": "زميل",
     "meaning": "Good Friend and Companion",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zumar",
-    "arabic_name": "ذمار",
-    "meaning": "Zumar is a direct Quranic name for boys and girls that means groups, throngs...",
     "gender": "male"
   },
   {
@@ -86598,12 +80952,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zyan",
-    "arabic_name": "زين",
-    "meaning": "Adornment, Decoration and Beautification.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zyauddeen",
     "arabic_name": "زياد",
     "meaning": "Virtuous, Pious, God-Fearing and Devoted to God BLANKENTER Zyauddeen is another spelling of the Arabic boy name Diaudin which means brilliance of the faith. They are the same name and have the same meaning and Arabic pronunciation. In English you can choose either variant, both are acceptable.",
@@ -86631,12 +80979,6 @@ export const namesData = [
     "english_name": "Zuha",
     "arabic_name": "زها",
     "meaning": "Forenoon.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zuhaa",
-    "arabic_name": "زهاء",
-    "meaning": "Adornment",
     "gender": "male"
   },
   {
@@ -86682,12 +81024,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zuhoor",
-    "arabic_name": "زهور",
-    "meaning": "Fame, splendour, emergence, Appearance, Manifestation",
-    "gender": "male"
-  },
-  {
     "english_name": "Zuka",
     "arabic_name": "زكى",
     "meaning": "The sun, dawn, morning.",
@@ -86709,12 +81045,6 @@ export const namesData = [
     "english_name": "Zukr",
     "arabic_name": "ذكر",
     "meaning": "Another name for god, pile, treasury",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zulaykha",
-    "arabic_name": "لاريب",
-    "meaning": "Without a doubt",
     "gender": "male"
   },
   {
@@ -86772,12 +81102,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zulhijjah",
-    "arabic_name": "زولهجة",
-    "meaning": "Zulhijjah is an Arabic name for boys and girls that refers to the 12th month of Hijri calendar, in which the Hajj is performed. The name literally means [the month] in which the Hajj proceedings are performed.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zulhimmah",
     "arabic_name": "زعلهمة",
     "meaning": "Zulhimmah is an Arabic name for boys that means resolved, resolute, firm of will.",
@@ -86793,12 +81117,6 @@ export const namesData = [
     "english_name": "Zarar",
     "arabic_name": "زرار",
     "meaning": "Fast, Brave, Courageous",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zaray",
-    "arabic_name": "زري",
-    "meaning": "Obedient, submissive.",
     "gender": "male"
   },
   {
@@ -86862,18 +81180,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zargoon",
-    "arabic_name": "زرج",
-    "meaning": "Persian for gold-colored, like gold.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zargul",
-    "arabic_name": "زرجل",
-    "meaning": "Gold Flower.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zarhawar",
     "arabic_name": "زرهور",
     "meaning": "Brave.",
@@ -86928,12 +81234,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zarnab",
-    "arabic_name": "زارناب",
-    "meaning": "Persian and Arabic name of a plant known for its good scent. The scientific name of this plant is Taxus baccata.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zaroon",
     "arabic_name": "زر",
     "meaning": "Visitor",
@@ -86955,24 +81255,6 @@ export const namesData = [
     "english_name": "Zartash",
     "arabic_name": "زارتش",
     "meaning": "Persian for gold-carver.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zaryab",
-    "arabic_name": "زرياب",
-    "meaning": "Rich, wealthy, Possessor of gold/riches..",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zaryan",
-    "arabic_name": "زرين",
-    "meaning": "Urdu for one who finds gold. It can also be a variant of the Kurdish name Zryan.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zaufishan",
-    "arabic_name": "زافيشا",
-    "meaning": "Light and Radiance",
     "gender": "male"
   },
   {
@@ -87009,12 +81291,6 @@ export const namesData = [
     "english_name": "Zawaad",
     "arabic_name": "زواد",
     "meaning": "Man of self-respect, noble.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zawal",
-    "arabic_name": "زوال",
-    "meaning": "Arabic for sundown, the time close to sunset.",
     "gender": "male"
   },
   {
@@ -87057,7 +81333,7 @@ export const namesData = [
     "english_name": "Zayb",
     "arabic_name": "ذيب",
     "meaning": "Adornment",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Zayd",
@@ -87117,13 +81393,13 @@ export const namesData = [
     "english_name": "Zaytoon",
     "arabic_name": "زيتون",
     "meaning": "Olive (Tree/fruit).",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Zayyan",
     "arabic_name": "زين",
     "meaning": "Good name",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Zayyat",
@@ -87171,18 +81447,12 @@ export const namesData = [
     "english_name": "Zehn",
     "arabic_name": "ذهن",
     "meaning": "Acumen, wit, sagacity, understanding, ability, Ingenuity, Intellect,",
-    "gender": "male"
+    "gender": "unisex"
   },
   {
     "english_name": "Zemar",
     "arabic_name": "ذمار",
     "meaning": "Lion",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zewar",
-    "arabic_name": "زوار",
-    "meaning": "Zewar is a Kurdish name for boys and girls that means adornment, beautification. It is the Kurdish variant of the Persian name Zivar.",
     "gender": "male"
   },
   {
@@ -87294,30 +81564,6 @@ export const namesData = [
     "gender": "male"
   },
   {
-    "english_name": "Zihni",
-    "arabic_name": "ذهني",
-    "meaning": "Intellectual, cerebral.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zikr",
-    "arabic_name": "ذكر",
-    "meaning": "Another name for the quran, reminder, mention",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zilal",
-    "arabic_name": "ظلال",
-    "meaning": "Arabic for shade.",
-    "gender": "male"
-  },
-  {
-    "english_name": "Zill",
-    "arabic_name": "ذيل",
-    "meaning": "Shadow, shade.",
-    "gender": "male"
-  },
-  {
     "english_name": "Zillullah",
     "arabic_name": "ذلوله",
     "meaning": "Shadow of Allah.",
@@ -87328,12 +81574,6 @@ export const namesData = [
     "arabic_name": "زيمر",
     "meaning": "Zimr is an Arabic name for boys that means brave, courageous, intelligent, sensible.",
     "gender": "male"
-  },
-  {
-    "english_name": "Zayb",
-    "arabic_name": "ذيب",
-    "meaning": "Adornment",
-    "gender": "female"
   },
   {
     "english_name": "Zayba",
@@ -87372,21 +81612,9 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Zaytoon",
-    "arabic_name": "زيتون",
-    "meaning": "Olive (Tree/fruit).",
-    "gender": "female"
-  },
-  {
     "english_name": "Zaytoonah",
     "arabic_name": "زيتونه",
     "meaning": "A single Olive",
-    "gender": "female"
-  },
-  {
-    "english_name": "Zayyan",
-    "arabic_name": "زين",
-    "meaning": "Good name",
     "gender": "female"
   },
   {
@@ -87450,12 +81678,6 @@ export const namesData = [
     "gender": "female"
   },
   {
-    "english_name": "Zehn",
-    "arabic_name": "ذهن",
-    "meaning": "Acumen, wit, sagacity, understanding, ability, Ingenuity, Intellect,",
-    "gender": "female"
-  },
-  {
     "english_name": "Zehna",
     "arabic_name": "ذهنى",
     "meaning": "Beautiful",
@@ -87511,4 +81733,64 @@ export const namesData = [
   }
 ]
 
-export const alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")
+export const alpha = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
+export const propheticNames = [
+  "Adam",
+  "Aadam",
+  "Idris",
+  "Nuh",
+  "Hud",
+  "Saleh",
+  "Ibrahim",
+  "Lut",
+  "Ismail",
+  "Ishaq",
+  "Yaqub",
+  "Yusuf",
+  "Ayyub",
+  "Shuaib",
+  "Musa",
+  "Harun",
+  "Dawud",
+  "Sulayman",
+  "Ilyas",
+  "Alyasa",
+  "Yunus",
+  "Zakariya",
+  "Yahya",
+  "Isa",
+  "Muhammad",
+  "Mohammad",
+  "Ahmed",
+  "Aaron",
+  "Abraham",
+  "David",
+  "Elias",
+  "Elisha",
+  "Enoch",
+  "Ezekiel",
+  "Ezra",
+  "Gabriel",
+  "Gideon",
+  "Isaac",
+  "Ishmael",
+  "Jacob",
+  "Jesus",
+  "Job",
+  "John",
+  "Jonah",
+  "Joseph",
+  "Joshua",
+  "Lot",
+  "Moses",
+  "Noah",
+  "Salih",
+  "Seth",
+  "Shem",
+  "Shoaib",
+  "Solomon",
+  "Uzair",
+  "Yahya",
+  "Zachariah",
+  "Zulkifl"
+]
