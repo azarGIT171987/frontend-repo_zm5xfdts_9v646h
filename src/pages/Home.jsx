@@ -72,8 +72,8 @@ const Home = () => {
           <div className="mt-12 grid grid-cols-1 sm:grid-cols-3 gap-6">
             <Link to="/browse?gender=male" className="group rounded-3xl overflow-hidden bg-white dark:bg-emerald-900/30 shadow-md border border-emerald-900/10 dark:border-emerald-100/10">
               <div className="p-6">
-                <div className="w-12 h-12 rounded-2xl bg-emerald-900 text-white grid place-items-center shadow-md">
-                  <Baby />
+                <div className="w-12 h-12 rounded-2xl bg-emerald-900 text-white flex items-center justify-center shadow-md mx-auto">
+                  <Baby className="w-6 h-6" />
                 </div>
                 <h3 className="font-serif text-2xl mt-4 text-emerald-900 dark:text-emerald-50">Boy Names</h3>
                 <p className="text-emerald-900/70 dark:text-emerald-100/70 mt-1">Strong and noble choices.</p>
@@ -81,8 +81,8 @@ const Home = () => {
             </Link>
             <Link to="/browse?gender=female" className="group rounded-3xl overflow-hidden bg-white dark:bg-emerald-900/30 shadow-md border border-emerald-900/10 dark:border-emerald-100/10">
               <div className="p-6">
-                <div className="w-12 h-12 rounded-2xl bg-emerald-900 text-white grid place-items-center shadow-md">
-                  <Baby />
+                <div className="w-12 h-12 rounded-2xl bg-emerald-900 text-white flex items-center justify-center shadow-md mx-auto">
+                  <Baby className="w-6 h-6" />
                 </div>
                 <h3 className="font-serif text-2xl mt-4 text-emerald-900 dark:text-emerald-50">Girl Names</h3>
                 <p className="text-emerald-900/70 dark:text-emerald-100/70 mt-1">Elegant and timeless picks.</p>
@@ -90,8 +90,8 @@ const Home = () => {
             </Link>
             <Link to="/browse?prophetic=true" className="group rounded-3xl overflow-hidden bg-white dark:bg-emerald-900/30 shadow-md border border-emerald-900/10 dark:border-emerald-100/10">
               <div className="p-6">
-                <div className="w-12 h-12 rounded-2xl bg-emerald-900 text-white grid place-items-center shadow-md">
-                  <BookOpen />
+                <div className="w-12 h-12 rounded-2xl bg-emerald-900 text-white flex items-center justify-center shadow-md mx-auto">
+                  <BookOpen className="w-6 h-6" />
                 </div>
                 <h3 className="font-serif text-2xl mt-4 text-emerald-900 dark:text-emerald-50">Prophetic Names</h3>
                 <p className="text-emerald-900/70 dark:text-emerald-100/70 mt-1">Names of Prophets and companions.</p>
@@ -102,7 +102,7 @@ const Home = () => {
           <div className="mt-16 text-left">
             <h2 className="font-serif text-3xl text-emerald-900 dark:text-emerald-50 flex items-center gap-2"><Sparkles className="text-amber-600"/> Trending</h2>
             <div className="mt-4 relative">
-              <button onClick={() => scrollByAmount(-1)} aria-label="Scroll left" className="hidden md:flex absolute -left-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/90 dark:bg-emerald-900/80 backdrop-blur border border-emerald-900/10 dark:border-emerald-100/10 shadow-lg grid place-items-center hover:scale-105 transition text-emerald-900 dark:text-emerald-50">
+              <button onClick={() => scrollByAmount(-1)} aria-label="Scroll left" className="hidden md:flex absolute -left-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/90 dark:bg-emerald-900/80 backdrop-blur border border-emerald-900/10 dark:border-emerald-100/10 shadow-lg flex items-center justify-center hover:scale-105 transition text-emerald-900 dark:text-emerald-50">
                 <ChevronLeft className="w-5 h-5"/>
               </button>
               <div ref={scrollRef} className="overflow-x-auto no-scrollbar py-4 px-1">
@@ -114,7 +114,7 @@ const Home = () => {
                   ))}
                 </div>
               </div>
-              <button onClick={() => scrollByAmount(1)} aria-label="Scroll right" className="hidden md:flex absolute -right-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/90 dark:bg-emerald-900/80 backdrop-blur border border-emerald-900/10 dark:border-emerald-100/10 shadow-lg grid place-items-center hover:scale-105 transition text-emerald-900 dark:text-emerald-50">
+              <button onClick={() => scrollByAmount(1)} aria-label="Scroll right" className="hidden md:flex absolute -right-4 top-1/2 -translate-y-1/2 z-10 w-10 h-10 rounded-full bg-white/90 dark:bg-emerald-900/80 backdrop-blur border border-emerald-900/10 dark:border-emerald-100/10 shadow-lg flex items-center justify-center hover:scale-105 transition text-emerald-900 dark:text-emerald-50">
                 <ChevronRight className="w-5 h-5"/>
               </button>
             </div>

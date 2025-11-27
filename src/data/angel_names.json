@@ -1,0 +1,12 @@
+[
+  { "english_name": "Jibreel", "arabic_name": "جبريل", "meaning": "Archangel of Revelation", "gender": "male" },
+  { "english_name": "Mika'il", "arabic_name": "ميكائيل", "meaning": "Archangel of Mercy and Sustenance", "gender": "male" },
+  { "english_name": "Israfil", "arabic_name": "إسرافيل", "meaning": "Archangel of the Trumpet", "gender": "male" },
+  { "english_name": "Azrael", "arabic_name": "عزرائيل", "meaning": "Angel of Death (Malak al-Mawt)", "gender": "male" },
+  { "english_name": "Munkar", "arabic_name": "منكر", "meaning": "Angel of the Grave (Questioner)", "gender": "male" },
+  { "english_name": "Nakir", "arabic_name": "نكير", "meaning": "Angel of the Grave (Questioner)", "gender": "male" },
+  { "english_name": "Ridwan", "arabic_name": "رضوان", "meaning": "Guardian of Paradise", "gender": "male" },
+  { "english_name": "Malik", "arabic_name": "مالك", "meaning": "Guardian of Hellfire", "gender": "male" },
+  { "english_name": "Raqib", "arabic_name": "رقيب", "meaning": "Recording Angel (Good Deeds)", "gender": "male" },
+  { "english_name": "Atid", "arabic_name": "عتيد", "meaning": "Recording Angel (Bad Deeds)", "gender": "male" }
+]
