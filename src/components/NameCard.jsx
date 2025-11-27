@@ -1,10 +1,18 @@
 import React from 'react'
-import { Heart } from 'lucide-react'
+import { Heart, Volume2 } from 'lucide-react'
 import { motion } from 'framer-motion'
+
 import { useFavorites } from '../context/FavoritesContext'
+import { useSpeech } from '../hooks/useSpeech'
 
 const NameCard = ({ item, onOpen, variant = 'default' }) => {
   const { isFavorite, toggleFavorite } = useFavorites()
+  const { speak } = useSpeech()
+
+  const handlePlayAudio = (e) => {
+    e.stopPropagation()
+    speak(item)
+  }
 
   const baseClass =
     'group relative rounded-2xl border transition-all hover:shadow-lg p-4 h-full flex flex-col'
@@ -57,7 +65,16 @@ const NameCard = ({ item, onOpen, variant = 'default' }) => {
               <p className="text-emerald-900/70 dark:text-emerald-100/70 line-clamp-2 text-sm mt-1">{item.meaning}</p>
             </div>
             <div className="flex flex-col items-end gap-1 min-w-[80px] max-w-[45%]">
-              <FavoriteButton className="-mr-2 -mt-2" />
+              <div className="flex items-center gap-2 -mr-2 -mt-2">
+                <button
+                  onClick={handlePlayAudio}
+                  className="p-2 rounded-full text-emerald-900/40 hover:text-emerald-900 hover:bg-emerald-50 dark:text-emerald-100/40 dark:hover:text-emerald-100 dark:hover:bg-emerald-800/40 transition-colors"
+                  title="Listen to pronunciation"
+                >
+                  <Volume2 className="w-5 h-5" />
+                </button>
+                <FavoriteButton />
+              </div>
               <div className="font-[Amiri] text-2xl leading-none text-emerald-900 dark:text-emerald-100 mt-1 text-right">{item.arabic_name}</div>
             </div>
           </div>
